@@ -1125,6 +1125,185 @@
       "type": "string",
       "content": "Both Arthropoda (e.g., insects) and Annelida (e.g., earthworms) exhibit body segmentation."
     }
+  },
+  {
+    "type": "Question",
+    "name": "Question 61",
+    "Question": {
+      "content": "Salamanders and Newts belong to the class",
+      "options": ["Teleostei", "Reptilia", "Amphibians", "Agnatha"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amphibians"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Salamanders and newts are amphibians, characterized by moist skin and a life cycle involving both aquatic and terrestrial stages."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 62",
+    "Question": {
+      "content": "Earthworms, leeches and tubeworms all belong to the phylum",
+      "options": ["Mollusca", "Coelenterata", "Polifera", "None of the above"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "None of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "These organisms belong to the phylum Annelida, known for their segmented bodies."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 63",
+    "Question": {
+      "content": "Mammals characteristically have",
+      "options": ["Large eyes", "Small eyes", "hairy bodies", "none of the above"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "hairy bodies"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Hair or fur is a defining characteristic of mammals, along with mammary glands."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 64",
+    "Question": {
+      "content": "Populations are group of ______",
+      "options": [
+        "Individuals belonging to different species",
+        "Individuals belonging to the same species",
+        "Individuals belonging to alternate species",
+        "All of the above"
+      ],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Individuals belonging to the same species"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "A population consists of interbreeding members of the same species in a specific area."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 65",
+    "Question": {
+      "content": "Seeds and spores are usually found in",
+      "options": ["Liverworts", "Hornworts", "Sponges", "All of the above"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Liverworts and hornworts produce spores, while some sponges release seed-like structures for reproduction."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 66",
+    "Question": {
+      "content": "Echinodermata are ______ symmetrical",
+      "options": ["Radially", "Bilaterally", "Metamerically", "all of the above"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Radially"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Adult echinoderms (e.g., starfish) exhibit radial symmetry, though their larvae are bilaterally symmetrical."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 67",
+    "Question": {
+      "content": "Vertebrates are also ______",
+      "options": ["protochordates", "chordates", "non-chordates", "all of the above"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "chordates"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "All vertebrates possess a notochord at some stage, placing them within the phylum Chordata."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 68",
+    "Question": {
+      "content": "Which of these is not part of the layers of triploblastic organisms?",
+      "options": ["Mesoderm", "Ectoderm", "mesogloea", "Endoderm"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "mesogloea"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Triploblastic animals have three germ layers (ectoderm, mesoderm, endoderm); mesogloea is a gelatinous layer in diploblastic organisms like jellyfish."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 69",
+    "Question": {
+      "content": "Which of these is important in the classification of organisms?",
+      "options": [
+        "Homologous structures",
+        "Analogous structures",
+        "Social structures",
+        "Positive structures"
+      ],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Homologous structures"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Homologous structures (e.g., human arm vs. bat wing) indicate common ancestry and are key to evolutionary classification."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 70",
+    "Question": {
+      "content": "Which of these exhibit radial symmetry?",
+      "options": ["Hydra", "Homo sapiens", "Tapeworm", "Rat"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hydra"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Hydra, a cnidarian, displays radial symmetry, allowing equal access to prey from all directions."
+    }
   }
 ]
-
