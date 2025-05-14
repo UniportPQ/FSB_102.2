@@ -1,0 +1,1560 @@
+[
+   {
+   "type": "pageInfo",
+   "kind": "OBJ",
+   "course_title": "General Biology II",
+   "code": "FSB 102.2",
+   "session": "2012/2013",
+   "time": "60"
+ },
+ {
+   "type": "Instruction",
+   "content": "Answer all questions."
+ },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Classification can simply be said to be",
+      "type": "OBJ",
+      "options": [
+        "collection of organisms",
+        "sourcing of animals",
+        "arranging of organisms into groups",
+        "labelling of animals"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "arranging of organisms into groups"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Classification involves systematically arranging organisms into groups based on shared characteristics."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Systematics can be defined as",
+      "type": "OBJ",
+      "options": [
+        "Science of classification",
+        "science of plants",
+        "science of ecology",
+        "science of environment"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Science of classification"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Systematics is the scientific study of the diversity of organisms and their evolutionary relationships."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Our common periwinkle is also known as",
+      "type": "OBJ",
+      "options": [
+        "tympanotonusfuscatus",
+        "tympanatonusgasar",
+        "tympanatonusfistus",
+        "tympanatonusradius"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "tympanotonusfuscatus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Tympanotonus fuscatus is the scientific name for the common periwinkle, a marine gastropod mollusk."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Classification is mainly based on",
+      "type": "OBJ",
+      "options": [
+        "Analogues structures",
+        "homologous structures",
+        "microbial structures",
+        "all structures"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "homologous structures"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Homologous structures (features shared due to common ancestry) are primary criteria for biological classification."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Multicellular cells exhibit",
+      "type": "OBJ",
+      "options": [
+        "specialization",
+        "homogeneous",
+        "unicellulism",
+        "radicalism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "specialization"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Multicellular organisms show cellular specialization where cells differentiate to perform specific functions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "is an example of a triploblastic organism",
+      "type": "OBJ",
+      "options": [
+        "fishistosoma",
+        "hydra",
+        "Aurelia",
+        "Amoeba"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "fishistosoma"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Triploblastic organisms have three germ layers (ectoderm, mesoderm, endoderm); Schistosoma (blood fluke) is one example."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "a member of the phylum mollusca",
+      "type": "OBJ",
+      "options": [
+        "octopus",
+        "banana",
+        "tilapia",
+        "buffo"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "octopus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Octopus belongs to phylum Mollusca, characterized by soft bodies and often having shells."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "can be used for the collection of benthic organisms",
+      "type": "OBJ",
+      "options": [
+        "grab",
+        "gill net",
+        "pit",
+        "lid"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "grab"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Grab samplers are devices used to collect sediment and benthic organisms from water bodies."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "Which of these is not used in catching fish",
+      "type": "OBJ",
+      "options": [
+        "glittered",
+        "Seine net",
+        "traps",
+        "core"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "core"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Core sampling is used for soil/sediment analysis, not for catching fish."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "Which of these is best for the presentation of animal",
+      "type": "OBJ",
+      "options": [
+        "formalin",
+        "alcohol",
+        "glycerol",
+        "glutaroform"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "formalin"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Formalin (formaldehyde solution) is commonly used for preserving biological specimens."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "The name of the vice-chancellor in the university of Port Harcourt",
+      "type": "OBJ",
+      "options": [
+        "prof. J, Ajienka",
+        "prof. D Barbaria",
+        "prof. S. Cookey",
+        "prof .N. Briggs"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "prof. J, Ajienka"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This appears to be institution-specific knowledge about University of Port Harcourt's leadership."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "Coelomate animals are those with",
+      "type": "OBJ",
+      "options": [
+        "pseudo-coelom",
+        "coelom",
+        "Accelom",
+        "Bi-coelom"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "coelom"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Coelomates have a true body cavity (coelom) completely lined by mesoderm."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "Which of these is true",
+      "type": "OBJ",
+      "options": [
+        "order",
+        "convenience",
+        "communication",
+        "all of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "all of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Biological classification serves multiple purposes including establishing order, convenience in study, and facilitating scientific communication."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "Families with similar characteristics form",
+      "type": "OBJ",
+      "options": [
+        "Genus",
+        "phylum",
+        "order",
+        "class"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Genus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "In taxonomic hierarchy, related families are grouped into orders, not genera. This question seems to have an incorrect answer key (should likely be 'order')."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "The component of the universe where life exists is referred to as",
+      "type": "OBJ",
+      "options": [
+        "Biogeography",
+        "Biosphere",
+        "Biozone",
+        "Biophyte"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Biosphere"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The biosphere encompasses all living organisms and their environment where life exists on Earth."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "Primary production in all ecosystems Is the work of",
+      "type": "OBJ",
+      "options": [
+        "production",
+        "Consumer",
+        "Decomposers",
+        "Bioengineers"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "production"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Primary producers (plants, algae, etc.) create organic compounds through photosynthesis, forming the base of food chains."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "The functional role an organism plays in an ecosystem is known as",
+      "type": "OBJ",
+      "options": [
+        "production",
+        "Biopart",
+        "Niche",
+        "Food chain"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Niche"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "An organism's niche includes its habitat, behavior, and role in energy flow and nutrient cycling."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "The orderly process of ecological community development is called",
+      "type": "OBJ",
+      "options": [
+        "Climax",
+        "Pioneer",
+        "Systematics",
+        "Succession"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Succession"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Ecological succession describes predictable changes in species composition over time in a community."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "A group of individuals belonging to same species inhabiting the same area forms a",
+      "type": "OBJ",
+      "options": [
+        "Community",
+        "Ecosystem",
+        "Population",
+        "Colony"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Population"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "A population consists of interbreeding members of the same species in a specific area."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "Individuals in area may be distributed in all the following patterns except",
+      "type": "OBJ",
+      "options": [
+        "Serial",
+        "Random",
+        "Even",
+        "Clustered"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Serial"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Organism distribution patterns include random, uniform (even), and clustered - 'serial' isn't a recognized spatial distribution type."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "The two most significant ecological factors that influence distribution of vegetation In Nigeria are",
+      "type": "OBJ",
+      "options": [
+        "Rainfall and wind",
+        "Rainfall and Temperature and wind"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Rainfall and Temperature and wind"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Rainfall and temperature are primary determinants of vegetation distribution in Nigeria, with wind playing a secondary role in seed dispersal."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "Lemma species is a good example of",
+      "type": "OBJ",
+      "options": [
+        "Xerophyte",
+        "Mesophyte",
+        "Hydrophyte"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hydrophyte"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Lemma (duckweed) is an aquatic plant, making it a hydrophyte adapted to water environments."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "Drought-resistant plants should belong to",
+      "type": "OBJ",
+      "options": [
+        "Xerophyte",
+        "Halophyte",
+        "Hydrophyte"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Xerophyte"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Xerophytes are plants adapted to survive in dry environments with limited water availability."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "Hydathodes occur mostly in",
+      "type": "OBJ",
+      "options": [
+        "Xerophytes",
+        "Epiphytes",
+        "Hygrophytes",
+        "Hydrophytes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hydrophytes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Hydathodes are water-secreting pores found in plants that grow in water-saturated environments (hydrophytes)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "A plant that grows abundantly in the floor of a forest is likely a",
+      "type": "OBJ",
+      "options": [
+        "Mesophyte",
+        "Halophyte",
+        "Hygrophyte",
+        "Microphyte"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mesophyte"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Forest floor plants are typically mesophytes - adapted to moderate moisture conditions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "Bladderwort is floating plant, thus it is a",
+      "type": "OBJ",
+      "options": [
+        "Hydrophyte",
+        "Halophyte",
+        "Floatemia",
+        "Xeromorph"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hydrophyte"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Bladderwort (Utricularia) is an aquatic plant that floats on water surfaces, classifying it as a hydrophyte."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "Any plant that can flourish in Katsina State, Nigeria is like to be a",
+      "type": "OBJ",
+      "options": [
+        "Xerophyte",
+        "Halophyte",
+        "Hygrophyte",
+        "Hydrophyte"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Xerophyte"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Katsina State has a semi-arid climate, favoring drought-resistant xerophytes."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "A plant found hanging on an oil palm tree is likely to be a",
+      "type": "OBJ",
+      "options": [
+        "Xerophytes",
+        "Epiphytes",
+        "Hygrophytes",
+        "Mesopytes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Epiphytes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Epiphytes grow on other plants for physical support without being parasitic, like many orchids and bromeliads."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "The science of classification is called",
+      "type": "OBJ",
+      "options": [
+        "Taxonomy",
+        "Norterscience",
+        "Systematics",
+        "Phylogeny"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Systematics"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Systematics encompasses both taxonomy (naming/classifying) and phylogenetic relationships."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "______ is the study of the evolutionary history of organisms",
+      "type": "OBJ",
+      "options": [
+        "Systematics",
+        "Taxonomy",
+        "Nondegnature",
+        "Ethology"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ethology"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Note: This appears incorrect. Phylogenetics is the correct term for studying evolutionary history. Ethology is animal behavior study."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "In 1969 Whittaker proposed ______ system of classification",
+      "type": "OBJ",
+      "options": [
+        "four-kingdom",
+        "five-kingdom",
+        "three-kingdom",
+        "two-kingdom"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "five-kingdom"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Robert Whittaker's five-kingdom system included Monera, Protista, Fungi, Plantae, and Animalia."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "In 1978 Carl Woese proposed ______ domain system for classification",
+      "type": "OBJ",
+      "options": [
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Carl Woese's three-domain system divided life into Bacteria, Archaea, and Eukarya based on ribosomal RNA."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "Which of the followings not true of the domain Archaea?",
+      "type": "OBJ",
+      "options": [
+        "cell wall does not contain peptide chromatography cell wall contains peptidoglycan",
+        "Ability to thrive in extreme environments",
+        "possession of unusual metabolic processes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "cell wall does not contain peptide chromatography cell wall contains peptidoglycan"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Archaea lack peptidoglycan in their cell walls (a feature of Bacteria), though the question phrasing is unclear."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "Which of the following techniques makes use of differential staining",
+      "type": "OBJ",
+      "options": [
+        "Hanging drop",
+        "methylene blue stain",
+        "Gram stain",
+        "simple stain"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gram stain"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Gram staining differentiates bacteria into Gram-positive (purple) and Gram-negative (pink) based on cell wall composition."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "Agglutination test is an example of a ______ test",
+      "type": "OBJ",
+      "options": [
+        "morphological",
+        "biochemical",
+        "serological",
+        "phage"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "serological"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Agglutination tests detect antibodies or antigens in serum, making them serological tests."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Bacteriophages are viruses that attack",
+      "type": "OBJ",
+      "options": [
+        "algae",
+        "fungi",
+        "bacteria",
+        "protozoa"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "bacteria"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Bacteriophages (phages) specifically infect and replicate within bacteria."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "______ is a technique that uses viruses that attack bacteria to identify",
+      "type": "OBJ",
+      "options": [
+        "DNA base composition",
+        "phage typing",
+        "DNA finger printing",
+        "serology"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "phage typing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Phage typing identifies bacterial strains by their susceptibility to specific bacteriophages."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "DNA ______ Catalyze the elongation of short segments of DNA into longer forms",
+      "type": "OBJ",
+      "options": [
+        "Proteases",
+        "Restriction Endonucleases",
+        "Polymerase",
+        "Invertase"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Polymerase"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "DNA polymerase enzymes synthesize new DNA strands by adding nucleotides during replication."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "Question": {
+      "content": "DNA fingerprinting involves determining the ______ Sequence of nucleotide bases in an organism's DNA",
+      "type": "OBJ",
+      "options": [
+        "Sequence of nucleotide bases in an organism's RNA",
+        "Sequence of amino acids in a protein",
+        "Sequence of sugars in a polysaccharide"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sequence of nucleotide bases in an organism's DNA"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "DNA fingerprinting analyzes unique patterns in DNA base sequences to identify individuals."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "Question": {
+      "content": "In general prokaryotes lack",
+      "type": "OBJ",
+      "options": [
+        "Mitochondria",
+        "Ribosomes",
+        "Plasma membrane",
+        "Mesosomes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mesosomes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Prokaryotes lack membrane-bound organelles like mitochondria, but they do contain ribosomes and plasma membranes. Mesosomes are infoldings of the plasma membrane in prokaryotes, though their existence as natural structures is debated."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "Question": {
+      "content": "Extremophiles are organisms that survive in...... environments",
+      "type": "OBJ",
+      "options": [
+        "Extreme",
+        "Normal",
+        "Isobaric",
+        "Isotonic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Extreme"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Extremophiles thrive in physically or geochemically extreme conditions (high temperature, acidity, pressure, etc.) that are detrimental to most life forms."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "Question": {
+      "content": "Halophilic organisms are predominant in......environments",
+      "type": "OBJ",
+      "options": [
+        "fresh water",
+        "Marine",
+        "Terrestrial",
+        "Groundwater"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "fresh water"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Note: This appears incorrect. Halophiles thrive in high-salt environments (like salt lakes or marine systems), not fresh water. The answer key may be wrong."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "Question": {
+      "content": "Natality means",
+      "type": "OBJ",
+      "options": [
+        "Death rate",
+        "Birth rate",
+        "Natty's rate",
+        "feeding rate",
+        "Limited rate"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Birth rate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Natality refers to the birth rate within a population, a key demographic parameter in ecology."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "Question": {
+      "content": "Primary characteristics of an ecological population are but",
+      "type": "OBJ",
+      "options": [
+        "Age distribution",
+        "Density",
+        "Rte",
+        "Growth"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Rte"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Note: 'Rte' appears to be a typo. Likely should be 'Rate' (as in growth rate). Primary population characteristics typically include density, age structure, and growth rate."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "Question": {
+      "content": "Mortality rate can be defined as",
+      "type": "OBJ",
+      "options": [
+        "Moral decay in the society",
+        "State of mortal combat between two warring factions",
+        "The rate at which individuals of a population are lost through death",
+        "Any factor that stops death of individuals",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The rate at which individuals of a population are lost through death"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Mortality rate specifically measures the frequency of deaths in a population per unit time, unrelated to social or combat contexts."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "Question": {
+      "content": "Pollution and contamination can scientifically be taken to be the same",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "True atimes",
+        "Nearly true",
+        "Pollution"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "While related, pollution refers to harmful substances in the environment, whereas contamination specifically implies the presence of unwanted substances where they shouldn't be."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "Question": {
+      "content": "A population in ecological terms is",
+      "type": "OBJ",
+      "options": [
+        "A group of plants that grow in the field",
+        "Animals that live on trees",
+        "A group of organism in a locality with the capability of interbreeding among them",
+        "Plants we eat",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A group of organism in a locality with the capability of interbreeding among them"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Ecologically, a population consists of interbreeding members of the same species occupying a particular area."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "Question": {
+      "content": "The following factors affect population density except",
+      "type": "OBJ",
+      "options": [
+        "Mortality",
+        "Nationality",
+        "Morality rate",
+        "Emigration",
+        "Immigration"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nationality"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nationality (political citizenship) doesn't biologically affect population density, unlike birth/death rates and migration patterns."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "Question": {
+      "content": "The dispersion of a population may be described as stiffness terms is but one",
+      "type": "OBJ",
+      "options": [
+        "Clumped",
+        "Random",
+        "Regular",
+        "Even",
+        "Populated"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Populated"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Note: Question phrasing is unclear. Standard population dispersion patterns are clumped, random, and uniform (regular/even). 'Populated' isn't a dispersion type."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "Question": {
+      "content": "The commonality or rarity of a species relative to other species in defined location or community is termed",
+      "type": "OBJ",
+      "options": [
+        "Attendance",
+        "Abundance",
+        "Relative abundance",
+        "Biodiversity",
+        "Community Based"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Relative abundance"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Relative abundance measures how common a species is compared to others in the same community, important for biodiversity studies."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 51",
+    "Question": {
+      "content": "Which is the wrong option? Random sampling technique preferred when",
+      "type": "OBJ",
+      "options": [
+        "sampling area is fairly uniform",
+        "sampling area is fairly large",
+        "sampling time is short",
+        "sampling area is fairly small",
+        "large numbers of sample are taken from different locations"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "sampling area is fairly small"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Random sampling is most effective in large, uniform areas. Small areas may be better suited for systematic or stratified sampling."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 52",
+    "Question": {
+      "content": "The two types of systematic sampling are",
+      "type": "OBJ",
+      "options": [
+        "line transect & belt transect",
+        "Tie transect & round transect",
+        "Round transect & line transect",
+        "shoe transect & belt transect",
+        "Board transect & ring transect"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "line transect & belt transect"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Line transects (recording along a straight line) and belt transects (recording within a measured strip) are standard ecological sampling methods."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 53",
+    "Question": {
+      "content": "Parasitism is a form",
+      "type": "OBJ",
+      "options": [
+        "mutualism",
+        "symbiosis",
+        "competition",
+        "predation",
+        "cometransalism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "symbiosis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Parasitism is a symbiotic relationship where one organism (parasite) benefits at the expense of another (host)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 54",
+    "Question": {
+      "content": "Hyperparasitism means",
+      "type": "OBJ",
+      "options": [
+        "when a parasite awaits hosts death before parasitizing it",
+        "where a parasite parasitizes another parasite",
+        "two organism mutually parasitizes themselves",
+        "the host parasitizes the parasites",
+        "none of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "where a parasite parasitizes another parasite"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Hyperparasitism describes a trophic relationship where a secondary parasite feeds on a primary parasite."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 55",
+    "Question": {
+      "content": "Air pollution may be caused by all but one, of the following",
+      "type": "OBJ",
+      "options": [
+        "Vehicular emissions",
+        "off gassing from paint and plastic production",
+        "burning of fossils fuels",
+        "noise from the factory",
+        "greenhouse gases such as carbon monoxide and nitrous oxides"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "noise from the factory"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "While noise pollution is an environmental issue, it is not classified as air pollution which involves chemical/physical contaminants in the atmosphere."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 56",
+    "Question": {
+      "content": "Forms of environmental pollution include",
+      "type": "OBJ",
+      "options": [
+        "land pollution",
+        "water pollution",
+        "visual pollution",
+        "thermal pollution",
+        "respiratory tract infection"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "respiratory tract infection"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Respiratory tract infections are health consequences of pollution, not a form of pollution itself. The other options are recognized pollution types."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 57",
+    "Question": {
+      "content": "The running water of fresh water is called",
+      "type": "OBJ",
+      "options": [
+        "lotic",
+        "lentic",
+        "littoral",
+        "aphotic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "lotic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Lotic ecosystems refer to flowing water environments like rivers and streams, as opposed to lentic (still water) systems."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 58",
+    "Question": {
+      "content": "The zone of light penetration in water is",
+      "type": "OBJ",
+      "options": [
+        "benthic",
+        "aphotic",
+        "photic",
+        "abyssal"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "photic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The photic zone is the upper layer of water where sunlight penetrates sufficiently for photosynthesis to occur."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 59",
+    "Question": {
+      "content": "Sources of oxygen in water bodies is by",
+      "type": "OBJ",
+      "options": [
+        "temperature",
+        "respiration",
+        "photosynthesis",
+        "drainage"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "photosynthesis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Aquatic plants and phytoplankton produce oxygen through photosynthesis, the primary oxygen source in water bodies."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 60",
+    "Question": {
+      "content": "Increase in temperature will lead to decrease in",
+      "type": "OBJ",
+      "options": [
+        "depth",
+        "light",
+        "turbidity",
+        "oxygen"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "oxygen"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Warmer water holds less dissolved oxygen than cooler water, a fundamental principle of aquatic chemistry."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 61",
+    "Question": {
+      "content": "One adaptation to life on intertidal zone is possession of",
+      "type": "OBJ",
+      "options": [
+        "nephridia",
+        "cyst",
+        "pedal disc",
+        "photospheres"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "photospheres"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Note: This appears incorrect. Common intertidal adaptations include holdfasts (pedal discs) or protective structures, not photospheres (light-emitting organs)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 62",
+    "Question": {
+      "content": "Is used to measure temperature",
+      "type": "OBJ",
+      "options": [
+        "thermocline",
+        "thermocool",
+        "thermometer",
+        "thermometric"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "thermometer"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "A thermometer is the standard instrument for measuring temperature, while thermocline refers to a temperature gradient in water."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 63",
+    "Question": {
+      "content": "Organisms that survive on wide range of salinity are",
+      "type": "OBJ",
+      "options": [
+        "euryhaline",
+        "sanihaline",
+        "stenohaline",
+        "mezohaline"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "euryhaline"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Euryhaline organisms tolerate wide salinity ranges, unlike stenohaline species restricted to narrow salinity levels."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 64",
+    "Question": {
+      "content": "Fresh water organisms excrete excess from their system",
+      "type": "OBJ",
+      "options": [
+        "salt",
+        "water",
+        "air",
+        "sodium"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "water"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Freshwater organisms constantly take in water by osmosis and must actively excrete dilute urine to maintain osmotic balance."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 65",
+    "Question": {
+      "content": "Sea water covers about percent of the earth's surface",
+      "type": "OBJ",
+      "options": [
+        "30%",
+        "50%",
+        "70%",
+        "90%"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "70%"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Approximately 71% of Earth's surface is covered by seawater, with oceans being the dominant feature of our planet."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 66",
+    "Question": {
+      "content": "Can store oxygen in their air sacs",
+      "type": "OBJ",
+      "options": [
+        "Aepusmarinus",
+        "Liltorinasaxatilis",
+        "Nebalia",
+        "Mytilusodillus"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Aepusmarinus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Note: 'Aepusmarinus' appears to be a misspelling. Many intertidal organisms have specialized structures for oxygen storage during low tide."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 67",
+    "Question": {
+      "content": "The zone between high and low tides levels is called",
+      "type": "OBJ",
+      "options": [
+        "midtidal",
+        "minitidal",
+        "interdal",
+        "lowtidal"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "interdal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct term is 'intertidal zone' (littoral zone), though 'interdal' was selected here as per the options given."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 68",
+    "Question": {
+      "content": "Which element is important for growth of diatoms",
+      "type": "OBJ",
+      "options": [
+        "iron",
+        "silicon",
+        "phosphorus",
+        "nitrogen"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "silicon"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Diatoms require silicon to build their characteristic glass-like cell walls (frustules)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 69",
+    "Question": {
+      "content": "lakes are lakes with spring-fall turnover",
+      "type": "OBJ",
+      "options": [
+        "monomitic",
+        "polymictic",
+        "dimictic",
+        "olipetimatic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "dimictic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Dimictic lakes experience two mixing periods annually (spring and fall turnover) due to temperature changes."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 70",
+    "Question": {
+      "content": "is an important part of aquatic ecosystem to man",
+      "type": "OBJ",
+      "options": [
+        "agriculture",
+        "transportation",
+        "roaring",
+        "electricity"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "roaring"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Note: This appears incorrect. Likely a typo for 'fishing' or 'boating'. Aquatic ecosystems provide food, transport, and resources."
+    }
+  }
+]
