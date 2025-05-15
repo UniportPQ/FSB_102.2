@@ -1,0 +1,1473 @@
+[{
+  "type": "pageInfo",
+  "kind": "pureOBJ",
+  "course_title": "General Biology II",
+  "code": "GES 102.2",
+  "session": "2018/2019",
+  "time": "120"
+},
+{
+  "type": "Instruction",
+  "content": "Answer all questions."
+},
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Which of these is the first step of scientific method of science",
+      "type": "OBJ",
+      "options": [
+        "Theory",
+        "Experiment",
+        "Observation",
+        "Hypothesis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Observation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The scientific method begins with observation of natural phenomena, which leads to question formulation and hypothesis development."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "The study of the functions of organisms is",
+      "type": "OBJ",
+      "options": [
+        "Anatomy",
+        "Physiology",
+        "Histology",
+        "Cytology"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Physiology"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Physiology examines how living organisms function, while anatomy studies structure, histology studies tissues, and cytology studies cells."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "The ability of organisms (plants, animals and microbes) to move part of its body is called",
+      "type": "OBJ",
+      "options": [
+        "Irritability",
+        "Locomotion",
+        "Tropism",
+        "Motility"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Irritability"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Note: The original options appear incorrect. Irritability (responsiveness to stimuli) is the correct biological concept for this question, though the provided options don't match."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "A metabolic resource plants mostly compete for in scarcity is",
+      "type": "OBJ",
+      "options": [
+        "Water",
+        "Nutrient",
+        "Light",
+        "Food"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Water"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Water is typically the most limited resource for terrestrial plants, affecting photosynthesis and turgor pressure more immediately than nutrients or light."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Allelopathic impact is to ______ plants",
+      "type": "OBJ",
+      "options": [
+        "Positive",
+        "Negative",
+        "Positive and negative",
+        "Positive or negative"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Positive and negative"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Allelopathy can have both positive (stimulatory) and negative (inhibitory) effects on neighboring plants through biochemical secretions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "______ Island is a narrow sand-island that parallels a shoreline",
+      "type": "OBJ",
+      "options": [
+        "Barrier",
+        "Opposite",
+        "Adjoining",
+        "Interconnecting"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Barrier"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Barrier islands are long, narrow sand deposits that run parallel to coastlines, protecting the mainland from storms and waves."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "Transitory zones between adjacent biotic communities is called",
+      "type": "OBJ",
+      "options": [
+        "Radioactive",
+        "Economic",
+        "Ecotype",
+        "Ecotone"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ecotone"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Note: The original options appear incorrect. Ecotone is the correct term for transitional zones between ecosystems, though it wasn't listed among the given choices."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "All but one is associated with an area",
+      "type": "OBJ",
+      "options": [
+        "Position",
+        "Role",
+        "Function",
+        "Trade"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Trade"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Trade is an economic activity rather than a fundamental geographic or ecological characteristic of an area."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "A factor affecting the distribution of organism(s)",
+      "type": "OBJ",
+      "options": [
+        "Air",
+        "Water",
+        "Climate",
+        "Segregation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Climate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Climate (temperature, precipitation patterns) is the primary determinant of species distribution on a global scale."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "The symmetry that will produce the mirror images of each other is called ______",
+      "type": "OBJ",
+      "options": [
+        "Asymmetrical",
+        "Radial",
+        "Monosymmetrical",
+        "Bilateral"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bilateral"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Bilateral symmetry creates mirror-image halves along one plane (e.g., humans), while radial symmetry has multiple planes (e.g., starfish)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Which is true for Chondrichthyes",
+      "type": "OBJ",
+      "options": [
+        "Lack bony skeleton",
+        "Are all skeleton",
+        "Have operculum",
+        "Lay eggs"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lack bony skeleton"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Chondrichthyes (sharks, rays) have cartilaginous skeletons, unlike bony fish (Osteichthyes). Some are oviparous (egg-laying), but not all."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "Example of a jawless fish is ______",
+      "type": "OBJ",
+      "options": [
+        "Myxini",
+        "Skate",
+        "Tilapia",
+        "Salmon"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Myxini"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Myxini (hagfish) are jawless vertebrates (Agnatha), while skates, tilapia, and salmon are jawed fish. Note: The answer key appears incorrect as it marks 'Skate'."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "Approximately 71% of the Earth's surface is covered by ______",
+      "type": "OBJ",
+      "options": [
+        "Land",
+        "Trees",
+        "Ocean",
+        "Sand"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ocean"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Oceans cover about 71% of Earth's surface, while land constitutes the remaining 29%. The original question stated 7%, which is incorrect."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "Organisms that tolerate long range of temperature are ______",
+      "type": "OBJ",
+      "options": [
+        "Hemothermic",
+        "Monothermic",
+        "Heterothermic",
+        "Eurythermic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Eurythermic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Eurythermic species withstand wide temperature variations, unlike stenothermic organisms restricted to narrow ranges."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "Monkey belongs to Class ______",
+      "type": "OBJ",
+      "options": [
+        "Monatoda",
+        "Animalia",
+        "Mammalia",
+        "Primate"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mammalia"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Monkeys are mammals (class Mammalia), while 'Primate' is their order. 'Animalia' is their kingdom."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "______ is not a characteristic of living organisms",
+      "type": "OBJ",
+      "options": [
+        "Movement",
+        "Nutrition",
+        "Responsibility",
+        "Growth"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Responsibility"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "While movement, nutrition, and growth are biological characteristics, 'responsibility' is a social/ethical concept unrelated to life processes."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "______ is an organism in Subclass Chondrichthyes",
+      "type": "OBJ",
+      "options": [
+        "Chondrix",
+        "Shark",
+        "Planaria",
+        "Platyhelminthes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Shark"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Sharks are cartilaginous fish in Chondrichthyes, while planaria and Platyhelminthes are flatworms. 'Chondrix' appears to be a made-up term."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "Reptiles and insects have ______ outer coverings that conserve water",
+      "type": "OBJ",
+      "options": [
+        "Waterproof",
+        "Rubbery",
+        "Slime",
+        "Soft"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Waterproof"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Reptiles have keratinized scales and insects have chitinous exoskeletons - both are waterproof adaptations for terrestrial life."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "Many animals that live in caves adapt by losing their ______",
+      "type": "OBJ",
+      "options": [
+        "Scale",
+        "Pigment",
+        "Skin",
+        "Limbs"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pigment"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cave-dwelling organisms often evolve reduced pigmentation (albinism) and eyesight due to perpetual darkness, conserving energy for other senses."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "The first 200m depth of water is well-lighted zone called ______",
+      "type": "OBJ",
+      "options": [
+        "Photic zone",
+        "Photo zone",
+        "Euphotic zone",
+        "Aphotic zone"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Photic zone"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The photic zone (or euphotic zone) is the upper ocean layer where sunlight penetrates sufficiently for photosynthesis, typically extending to about 200m depth."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "Marine environment contains salt content of less than",
+      "type": "OBJ",
+      "options": [
+        "31%",
+        "0.05%",
+        "20%",
+        "45%"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "31%"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Average seawater salinity is about 3.5% (35 ppt). The highest recorded salinity is in the Dead Sea (~34%, not 31%), making this question problematic. The most plausible answer among options is 31%."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "Organisms that produce amniotic eggs does not include ______",
+      "type": "OBJ",
+      "options": [
+        "Bird",
+        "Lizard",
+        "Fish",
+        "Snake"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fish"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Amniotic eggs (with protective membranes) are produced by reptiles, birds, and monotremes - not fish, which lay anamniotic eggs in water."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "Negative staining is one method of staining ______",
+      "type": "OBJ",
+      "options": [
+        "Bacterial flagella",
+        "Bacteria capsule",
+        "Bacterial spore",
+        "Bacterial cell wall"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bacteria capsule"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Negative staining colors the background, leaving capsules as clear halos around cells. Other structures are better visualized with positive stains."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "A bacterial cell with flagella all around its surface is ______",
+      "type": "OBJ",
+      "options": [
+        "Bipolarly flagellated",
+        "Laterally flagellated",
+        "Peritrichously flagellated",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Peritrichously flagellated"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Peritrichous flagellation means flagella are distributed over the entire cell surface, unlike polar (single/bipolar) or lateral arrangements."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "Which of the following is not morphological criteria in classifying bacteria ______",
+      "type": "OBJ",
+      "options": [
+        "Colonial morphology",
+        "Shape of cell",
+        "Grouping of cell",
+        "Sugar fermentation tests"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sugar fermentation tests"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Sugar fermentation is a biochemical (not morphological) characteristic. Morphology includes cell shape, arrangement, and colony appearance."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "The Gram-staining technique is an example of a ______",
+      "type": "OBJ",
+      "options": [
+        "Single staining technique",
+        "Unipolar staining technique",
+        "Differential staining",
+        "Bipolar staining"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Differential staining"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Gram staining differentiates bacteria into Gram-positive (purple) and Gram-negative (pink) based on cell wall composition."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "In a fermentation test, two unknown bacterial strains showing the ability to ferment the same sugars ______",
+      "type": "OBJ",
+      "options": [
+        "Different strains",
+        "Similar strains",
+        "The same organism",
+        "Totally different strain"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Similar strains"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Identical fermentation patterns suggest closely related strains, though additional tests are needed for definitive identification."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "In a sugar fermentation test, a positive result is shown by ______",
+      "type": "OBJ",
+      "options": [
+        "A change in colour of the medium",
+        "A change in colour of the medium and the production of gas",
+        "Production of gas alone",
+        "No change in the colour of medium"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A change in colour of the medium and the production of gas"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Positive fermentation typically shows both pH indicator color change (due to acid production) and gas bubbles in Durham tubes."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "An example of a serological test is ______",
+      "type": "OBJ",
+      "options": [
+        "An agglutination test",
+        "An acidification test",
+        "Combining dilution test",
+        "Neutralization"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "An agglutination test"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Agglutination tests detect antigen-antibody reactions where particles clump together, widely used in blood typing and pathogen detection."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "The bases of serological tests shall of the following except ______",
+      "type": "OBJ",
+      "options": [
+        "Antigen-Antibiotic Reaction",
+        "Immunoglobin and Antigen Reaction",
+        "Antigen-Antigen Reaction",
+        "Antisera antigen reaction"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Antigen-Antibiotic Reaction"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Serological tests rely on antigen-antibody (not antigen-antibiotic) reactions. Antibiotics are antimicrobial compounds unrelated to immune recognition."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "Lysis of two bacterial species on the surface of different agar plates by a species bacteriophage suggests ______",
+      "type": "OBJ",
+      "options": [
+        "Both bacteria species are different",
+        "Both bacteria species are similar",
+        "Both bacterial cells are not to the image",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Both bacteria species are similar"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Phage specificity means lysis of both strains indicates they share surface receptors recognized by the same phage, suggesting genetic similarity."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "The clear zone resulting from lysis by a phage of bacterial growth on an agar plate called ______",
+      "type": "OBJ",
+      "options": [
+        "Lawn",
+        "Plaque",
+        "Mat",
+        "Growth"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Plaque"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Plaques are clear zones where phages have lysed bacterial cells in a lawn of bacterial growth, each representing one phage's progeny."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "T1003-C and A-T base composition of an isolate is 60%/40%. Which of these organisms is more closely related to the isolate ______",
+      "type": "OBJ",
+      "options": [
+        "Arthrobacter 20%/40%",
+        "Clostridium 10%/90%",
+        "Staphylococcus 65%/35%",
+        "Vibrio 50%/50%"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Staphylococcus 65%/35%"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Similar GC content (60% vs 65%) suggests closer evolutionary relationship, as GC content tends to be conserved within related taxa."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "The similarity in the sequence of DNA fragments, generated by subjecting DNA molecules to restriction endonuclease is the basis of ______",
+      "type": "OBJ",
+      "options": [
+        "DNA hybridization",
+        "DNA finger printing",
+        "RNA finger printing",
+        "RNA hybridization"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "DNA finger printing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "DNA fingerprinting compares restriction fragment length polymorphisms (RFLPs) generated by restriction enzyme digestion, unique to each individual/species."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "The advantage of Ribosomal RNA sequencing for determining relationship among organisms compared to other molecular approaches is due to the ______",
+      "type": "OBJ",
+      "options": [
+        "Resistance to mutation by RNA",
+        "Resistance to mutation by Ribosomes",
+        "Slow evolutionary rate of rRNA",
+        "Resistance to mutation by DNA"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Slow evolutionary rate of rRNA"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Note: The original options are problematic. rRNA genes are ideal for phylogenetics because they evolve slowly (conserved regions) but contain variable regions for differentiation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Which of the following statements is correct, ______",
+      "type": "OBJ",
+      "options": [
+        "Two microorganisms are closely related if their nucleic acid sequences are quite similar",
+        "The DNA sequence of strands from two different organisms are similar",
+        "DNA is transcribed from RNA",
+        "The amount of pairing of nucleotide is greater for two dissimilar organisms"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Two microorganisms are closely related if their nucleic acid sequences are quite similar"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "DNA/DNA hybridization shows that closely related organisms have higher sequence similarity due to shared evolutionary history."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "How many forms of sexual reproduction are known among algae ______",
+      "type": "OBJ",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "2"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Algae exhibit three main sexual reproduction types: isogamy (similar gametes), anisogamy (dissimilar gametes), and oogamy (large non-motile egg + small motile sperm)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "One of these is not an example of green algae, ______",
+      "type": "OBJ",
+      "options": [
+        "Porphyra",
+        "Chlamydomonas",
+        "Spirogyra",
+        "Volvox"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Porphyra"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Porphyra (nori) is a red alga (Rhodophyta), while the others (Chlamydomonas, Spirogyra, Volvox) are green algae (Chlorophyta)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "Question": {
+      "content": "Spores germinate to form gametophyte in pteridophytes called ______",
+      "type": "OBJ",
+      "options": [
+        "Microphylls",
+        "Macrophylls",
+        "Sporophylls",
+        "Prothallus"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Prothallus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "In ferns (pteridophytes), spores develop into heart-shaped prothalli - the free-living gametophyte generation that produces gametes."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "Question": {
+      "content": "Pinus, cycas and Gnetum are examples of ______",
+      "type": "OBJ",
+      "options": [
+        "Angiosperm",
+        "Pteridophyte",
+        "Bryophyte",
+        "Gymnosperm"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gymnosperm"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "These are all gymnosperms: Pinus (conifers), Cycas (cycads), and Gnetum (gnetophytes) - seed plants with naked seeds, not enclosed in ovaries."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "Question": {
+      "content": "Polyploidy is the occurrence of more than ______",
+      "type": "OBJ",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Polyploidy means having more than two complete sets of chromosomes (e.g., triploid 3n, tetraploid 4n). Diploid is 2n."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "Question": {
+      "content": "______ is an example of totally submerged plants",
+      "type": "OBJ",
+      "options": [
+        "Duckweed",
+        "Water Star Wort",
+        "Quillwort",
+        "Cattails"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Quillwort"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Quillworts (Isoetes) are completely submerged aquatic plants, while duckweed floats and cattails are emergent. Note: Original options had typos ('Duclasseed', 'Quiliwort')."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "Question": {
+      "content": "All are features of terrestrial habitats except ______",
+      "type": "OBJ",
+      "options": [
+        "Stability of temperature",
+        "Dryness",
+        "Excess oxygen",
+        "Abundant light"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Stability of temperature"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Terrestrial habitats typically experience greater temperature fluctuations than aquatic environments. The original question had formatting issues."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "Question": {
+      "content": "Mangifera indica is an example of ______",
+      "type": "OBJ",
+      "options": [
+        "Hydrophyte",
+        "Mesophyte",
+        "Halophyte",
+        "Xerophyte"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mesophyte"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Mango trees (Mangifera indica) are mesophytes - adapted to moderate moisture conditions. Original options contained errors ('Inocaphyte', 'Ascrophage')."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "Question": {
+      "content": "Treeless plain biomes are ______",
+      "type": "OBJ",
+      "options": [
+        "Tundra",
+        "Chaparral",
+        "Taiga",
+        "Ice sheet"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tundra"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Arctic/alpine tundra has low-growing vegetation but no trees due to permafrost. Taiga has coniferous forests; chaparral has shrubs."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "Question": {
+      "content": "In what state of Nigeria is Mount Patti located?",
+      "type": "OBJ",
+      "options": [
+        "Plateau",
+        "Taraba",
+        "Kogi",
+        "Adamawa"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Kogi"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Mount Patti is in Lokoja, Kogi State. The original question had spelling errors ('Patialicated', 'Adunawa')."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "Question": {
+      "content": "The highest point in Nigeria is located in which state?",
+      "type": "OBJ",
+      "options": [
+        "Plateau",
+        "Taraba",
+        "Kogi",
+        "Adamawa"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Adamawa"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Chappal Waddi (2,419m) in the Adamawa Mountains is Nigeria's highest peak. The original question incorrectly mentioned Algeria."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "Question": {
+      "content": "The savanna belt of Benue state is ______",
+      "type": "OBJ",
+      "options": [
+        "Guinea",
+        "Derived",
+        "Sahel",
+        "Sudan"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Guinea"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Benue State lies within the Guinea savanna belt, characterized by tall grasses and scattered trees. 'Derived' savanna results from forest degradation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "Question": {
+      "content": "One of the following organism belongs to the acoelomate body plan",
+      "type": "OBJ",
+      "options": [
+        "Nematodes",
+        "Earthworm",
+        "Cichlids",
+        "Schistosomes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Schistosomes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Schistosomes (blood flukes) are flatworms (Platyhelminthes) lacking a body cavity (acoelomate). Nematodes have pseudocoeloms; earthworms are coelomate."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "Question": {
+      "content": "Adults of ______ have radial symmetry while their larvae are bilaterally symmetrical",
+      "type": "OBJ",
+      "options": [
+        "Echinodermata",
+        "Protozoa",
+        "Agnatha",
+        "Arthropoda"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Echinodermata"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Adult echinoderms (starfish, sea urchins) show pentaradial symmetry, but their larvae are bilaterally symmetrical, suggesting evolutionary links to chordates."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 51",
+    "Question": {
+      "content": "Example of an Osteichthyes is ______",
+      "type": "OBJ",
+      "options": [
+        "Lamprey",
+        "Agnatha",
+        "Salmon",
+        "Ray"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Salmon"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Salmon are bony fish (Osteichthyes). Lampreys are jawless fish (Agnatha); rays are cartilaginous fish (Chondrichthyes). 'Agnatha' is a class, not a species."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 52",
+    "Question": {
+      "content": "Arthropods have ______",
+      "type": "OBJ",
+      "options": [
+        "Respiratory organs",
+        "Jointed Appendages",
+        "Exoskeleton",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Arthropods (insects, crustaceans, etc.) are characterized by jointed legs, chitinous exoskeletons, and specialized respiratory structures (tracheae/gills)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 53",
+    "Question": {
+      "content": "Sea Anemones belong to the following phylum ______",
+      "type": "OBJ",
+      "options": [
+        "Cnidaria",
+        "Arthropoda",
+        "Echinodermata",
+        "Pisces"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cnidaria"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Sea anemones are cnidarians (formerly Coelenterata), sharing stinging cells (nematocysts) with jellyfish and corals. 'Pisces' is an obsolete taxonomic group."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 54",
+    "Question": {
+      "content": "Ascaris is a ______ organism",
+      "type": "OBJ",
+      "options": [
+        "Eucoelomate",
+        "Acoelomate",
+        "Pseudocoelomate",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pseudocoelomate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Roundworms (Ascaris) have a pseudocoelom - a fluid-filled cavity between the mesoderm and endoderm, not fully lined by mesodermal tissue."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 55",
+    "Question": {
+      "content": "Turbellaria, Trematodes and Cestodes belong to the phylum Echinodermata",
+      "options": ["True", "False", "Partially true", "All of the above"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "These organisms belong to the phylum Platyhelminthes (flatworms), not Echinodermata."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 56",
+    "Question": {
+      "content": "Cilia is completely absent in nematodes",
+      "options": ["True", "False", "Partially true", "All of the above"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nematodes (roundworms) lack cilia; they move via longitudinal muscles and a hydrostatic skeleton."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 57",
+    "Question": {
+      "content": "Platyhelminthes are usually referred to as ______ worms",
+      "options": ["Thorny headed", "Round", "Flat", "Spiny"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Flat"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Platyhelminthes are flatworms, characterized by their dorsoventrally flattened bodies."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 58",
+    "Question": {
+      "content": "Agnathans are jawless fishes",
+      "options": ["True", "False", "A and B correct", "All correct"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Agnathans (e.g., lampreys, hagfish) are primitive vertebrates lacking jaws."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 59",
+    "Question": {
+      "content": "Uniramians have ______ pair of antennae",
+      "options": ["2", "4", "1", "5"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Uniramians (e.g., insects, centipedes) possess a single pair of antennae."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 60",
+    "Question": {
+      "content": "The following class of vertebrates are endothermic",
+      "options": ["Pisces", "Reptilia", "Aves", "Amphibian"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Aves"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Birds (Aves) are endothermic (warm-blooded), maintaining a constant body temperature."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 61",
+    "Question": {
+      "content": "The following Phylum is characterized with spiny exoskeleton",
+      "options": ["Platyhelminthes", "Acanthocephalans", "Echinodermata", "Mollusca"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Echinodermata"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Echinoderms (e.g., starfish, sea urchins) have a calcareous, spiny exoskeleton."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 62",
+    "Question": {
+      "content": "Members have eggs covered by hard protective shell?",
+      "options": ["Reptiles", "Aves", "None of the above", "Both A and B correct"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Both A and B correct"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Both reptiles and birds (Aves) lay eggs with hard shells for protection."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 63",
+    "Question": {
+      "content": "What is the unit for measuring noise?",
+      "options": ["Decibel", "Mirabel", "Janabel", "Annabel"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Decibel"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Noise levels are quantified in decibels (dB), a logarithmic unit."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 64",
+    "Question": {
+      "content": "Accelerated Eutrophication is an effect of ______ pollution",
+      "options": ["water", "soil", "Light", "Air"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "water"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Eutrophication results from nutrient pollution (e.g., phosphates, nitrates) in water bodies, causing algal blooms."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 65",
+    "Question": {
+      "content": "In what part of the atmosphere do we find the ozone layer?",
+      "options": ["Troposphere", "Ionosphere", "Exosphere", "Stratosphere"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Stratosphere"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The ozone layer, which absorbs UV radiation, is located in the stratosphere (10–50 km above Earth)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 66",
+    "Question": {
+      "content": "Which of these state capitals in Nigeria is likely to have the least annual timber production?",
+      "options": ["Enugu", "Ibadan", "Sokoto", "Calabar"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sokoto"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Sokoto, in Nigeria's arid northwest, has minimal forest cover compared to southern states with rainforests."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 67",
+    "Question": {
+      "content": "Species diversity is a measure of ______",
+      "options": ["species richness", "species awareness", "Both A and B", "Species distribution"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Both A and B"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Species diversity combines richness (number of species) and evenness (distribution of individuals among species)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 68",
+    "Question": {
+      "content": "Solid wastes are classified into all except ______",
+      "options": ["Renewable waste", "Biodegradable", "Non-biodegradable", "Recyclable waste"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Renewable waste"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "'Renewable waste' is not a standard classification; solid waste is typically categorized by biodegradability or recyclability."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 69",
+    "Question": {
+      "content": "One of these is not a threat to biodiversity",
+      "options": ["Urbanization", "Under-harvesting", "Wildlife sanctuaries", "Gene banks"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Wildlife sanctuaries"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Wildlife sanctuaries protect biodiversity, whereas urbanization and overexploitation threaten it."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 70",
+    "Question": {
+      "content": "Ex-situ conservation involves one of these?",
+      "options": ["Nature reserves", "National parks", "Wildlife sanctuaries", "Gene banks"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gene banks"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Ex-situ conservation preserves species outside their habitats (e.g., gene banks, zoos), unlike protected areas (in-situ)."
+    }
+  }
+]

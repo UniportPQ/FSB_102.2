@@ -1,11 +1,11 @@
 [
    {
    "type": "pageInfo",
-   "kind": "OBJ",
+   "kind": "pureOBJ",
    "course_title": "General Biology II",
    "code": "FSB 102.2",
    "session": "2012/2013",
-   "time": "60"
+   "time": "120"
  },
  {
    "type": "Instruction",
