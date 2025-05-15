@@ -1,0 +1,1555 @@
+[ {
+   "type": "pageInfo",
+   "kind": "pureOBJ",
+   "course_title": "General Biology II",
+   "code": "GES 102.2",
+   "session": "2017/2018",
+   "time": "120"
+ },
+ {
+   "type": "Instruction",
+   "content": "Answer all questions."
+ },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "______ species is an example of unicellular free living algae",
+      "type": "OBJ",
+      "options": [
+        "Chlamydomonas",
+        "Volvox",
+        "Spirogyra",
+        "Sargassum"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Chlamydomonas"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Chlamydomonas is a unicellular, free-living green alga, while the other options are either colonial (Volvox) or multicellular (Spirogyra, Sargassum)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "The fusion of two motile and nonidentical gametes in Algae is called ___",
+      "type": "OBJ",
+      "options": [
+        "Oogamy",
+        "Polygamous",
+        "Anisogamy",
+        "Isogamy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Anisogamy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Anisogamy refers to sexual reproduction involving two motile gametes that differ in size/structure, intermediate between isogamy (identical gametes) and oogamy (large non-motile egg + small motile sperm)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": ".......... taxonomy is related to chromosome number, structure and behavior",
+      "type": "OBJ",
+      "options": [
+        "Numerical",
+        "Chemo-",
+        "Cyto-",
+        "Phylogenetic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cyto-"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cytotaxonomy uses chromosome characteristics (number, structure, behavior during meiosis) for classification and evolutionary studies."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "How many divisions are found in the Kingdom Plantae? ______",
+      "type": "OBJ",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "5"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Traditional plant kingdom divisions include: Thallophyta, Bryophyta, Pteridophyta, Gymnosperms, and Angiosperms (though modern classifications may vary)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Which of these is the correct order in Alternation of generation?",
+      "type": "OBJ",
+      "options": [
+        "Sporophyte-meiosis-Gametophyte–Fertilization",
+        "Meiosis-Sporophyte-Gametophyte–Fertilization",
+        "Gametophyte–Meiosis–Sporophyte–Fertilization",
+        "Meiosis–Gametophyte–Sporophyte–Fertilization"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sporophyte-meiosis-Gametophyte–Fertilization"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct sequence: Diploid sporophyte → meiosis → haploid spores → gametophyte → gametes → fertilization → zygote → sporophyte."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "______ are the amphibians of the plant kingdom?",
+      "type": "OBJ",
+      "options": [
+        "Thallophytes",
+        "Bryophytes",
+        "Pteridophyte",
+        "Gymnosperms"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bryophytes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Bryophytes (e.g., mosses) are called 'plant amphibians' as they require water for sexual reproduction but live on land, similar to biological amphibians."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "Hepatophytes are also called ______",
+      "type": "OBJ",
+      "options": [
+        "Mosses",
+        "Liverworts",
+        "Bladderworts",
+        "Hornworts"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Liverworts"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Hepatophytes (from Greek 'hepar' meaning liver) are commonly called liverworts due to their liver-shaped thalli in some species."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "______ bears naked seeds",
+      "type": "OBJ",
+      "options": [
+        "Thallophytes",
+        "Bryophytes",
+        "Pteridophytes",
+        "Gymnosperms"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gymnosperms"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Gymnosperms (meaning 'naked seeds') produce seeds that are not enclosed in an ovary/fruit, unlike angiosperms."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "One of the following are the first pioneering and colonizes bare rock surfaces",
+      "type": "OBJ",
+      "options": [
+        "Thallophytes",
+        "Bryophytes",
+        "Pteridophytes",
+        "Gymnosperms"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Thallophytes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Lichens (a symbiotic association of fungi and algae/cyanobacteria, classified under thallophytes) are typically the first colonizers of bare rocks through biological weathering."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "How many antipodal cells are found in the egg structure of angiosperms?",
+      "type": "OBJ",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The mature embryo sac in angiosperms typically contains three antipodal cells at the chalazal end, opposite the egg apparatus."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "The irreversible heritable change in the genetic material is called",
+      "type": "OBJ",
+      "options": [
+        "Clone",
+        "Hybridization",
+        "Saturation",
+        "Mutation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mutation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Mutations are permanent alterations in the DNA sequence that can be inherited, driving genetic variation and evolution."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "Polyploidy is the occurrence of more than sets of chromosome(s)?",
+      "type": "OBJ",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Polyploidy refers to having more than two complete sets of chromosomes (e.g., triploidy = 3n, tetraploidy = 4n)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "Genetically identical organisms that differ in response to different environmental stimuli are called ______ plasticity",
+      "type": "OBJ",
+      "options": [
+        "physiological",
+        "structural",
+        "Behavioural",
+        "Developmental"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Developmental"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Developmental plasticity allows organisms with identical genotypes to exhibit different phenotypes in response to environmental conditions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "All but one not a challenge of aquatic habitat",
+      "type": "OBJ",
+      "options": [
+        "sunlight for photosynthesis is low",
+        "Minerals are plentiful",
+        "Carbon dioxide concentration is low",
+        "moving water damages the organs in plant"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Minerals are plentiful"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Mineral availability is often limited in aquatic habitats, making this the correct choice among the options provided."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "……… are vascular plants that float freely on water surfaces",
+      "type": "OBJ",
+      "options": [
+        "Pleuston",
+        "Isoetids",
+        "Elodeids",
+        "Amphiphytes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pleuston"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Pleuston refers to organisms (including vascular plants like water hyacinth) that float at the water-air interface."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "One of the following is not an adaptation of terrestrial plants",
+      "type": "OBJ",
+      "options": [
+        "Absence of stomata",
+        "Development of Vascular tissues",
+        "Presence of cuticle",
+        "Large mechanical tissues"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Absence of stomata"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Stomata are crucial for gas exchange in terrestrial plants; their absence would be maladaptive in land environments."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "All but one of the following is not an adaptation of mesophytes",
+      "type": "OBJ",
+      "options": [
+        "Large root hairs",
+        "well developed tissues",
+        "Dorsiventral stomata",
+        "spongy stem"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "spongy stem"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Spongy stems are adaptations of hydrophytes (aquatic plants) for buoyancy, not mesophytes which are adapted to moderate water conditions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "All are favorable ecological conditions of xerophytes except",
+      "type": "OBJ",
+      "options": [
+        "intense sunlight",
+        "low diurnal temperature",
+        "Arid air",
+        "Low soil moisture"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "low diurnal temperature"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Xerophytes thrive in high temperatures, intense sunlight, and arid conditions. Low diurnal (daily) temperature variation is not typical of desert environments where xerophytes dominate."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "What type of aquatic plant dominates mangrove ecosystem?",
+      "type": "OBJ",
+      "options": [
+        "Hygrophytes",
+        "Hydrophytes",
+        "Mesophytes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hydrophytes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Mangrove plants are specialized hydrophytes (halophytes) adapted to saline coastal conditions, with features like pneumatophores and salt-excreting leaves."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "One of these forests is similar to scrub forest?",
+      "type": "OBJ",
+      "options": [
+        "Fragmented forest",
+        "Mosaic forest",
+        "Chaparral",
+        "Swamp Forest"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Chaparral"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Chaparral is a shrubland ecosystem (similar to scrub forest) found in Mediterranean climates, characterized by drought-resistant plants."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "The largest desert in the world is ……… desert",
+      "type": "OBJ",
+      "options": [
+        "Sahara",
+        "Antarctica",
+        "Atacama",
+        "Arabian"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Antarctica"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "While the Sahara is the largest hot desert, Antarctica is technically the world's largest desert (defined by precipitation) at about 14 million km²."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "The Serengeti National park in Tanzania has ……… distinct type(s) of savanna grassland",
+      "type": "OBJ",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Serengeti features two main savanna types: grassy plains in the south and wooded savanna in the north."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "Taiga is named after the biome of ______",
+      "type": "OBJ",
+      "options": [
+        "Russia",
+        "Spain",
+        "Italy",
+        "Netherland"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Russia"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The term 'taiga' originates from Russian, describing the vast boreal forests that cover much of Siberia."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "Temperate rain forest combines …… annual rainfall with temperate climate",
+      "type": "OBJ",
+      "options": [
+        "High",
+        "Moderate",
+        "Low",
+        "Optimal"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "High"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Temperate rainforests receive high precipitation (1400-4000mm annually) combined with mild temperatures, supporting lush vegetation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "Alpine tundra cannot be found in one of the following Countries:",
+      "type": "OBJ",
+      "options": [
+        "Tibet",
+        "China",
+        "India",
+        "Canada"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Canada"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Canada has Arctic tundra, not alpine tundra which occurs at high elevations in mountain ranges (like the Himalayas in Tibet/China/India)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "Southern Guinea savanna in Nigeria may not be found from",
+      "type": "OBJ",
+      "options": [
+        "Bida",
+        "Otukpo",
+        "Wukari",
+        "Kafachan"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Otukpo"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Otukpo lies in the derived savanna zone, while the other locations (Bida, Wukari, Kafachan) are within the Southern Guinea savanna belt."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "The highest point in Nigeria is found in what state of the federation?",
+      "type": "OBJ",
+      "options": [
+        "Niger",
+        "Plateau",
+        "Taraba",
+        "Adamawa"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Adamawa"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Chappal Waddi (2,419m) in the Adamawa Mountains is Nigeria's highest point, located on the border with Cameroon."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "What is the likely vegetation type of Bakassi peninsula?",
+      "type": "OBJ",
+      "options": [
+        "marginal savanna",
+        "tropical evergreen forest",
+        "mangrove forest",
+        "montane vegetation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "mangrove forest"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Bakassi peninsula's coastal location with brackish water supports extensive mangrove ecosystems, characteristic of Niger Delta regions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "Desertification is mostly common in which of the cardinal point in Nigeria",
+      "type": "OBJ",
+      "options": [
+        "West",
+        "East",
+        "South",
+        "North"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "North"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Northern Nigeria faces severe desertification due to the southward expansion of the Sahara Desert (a process called desert encroachment)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "Organisms that live on sand grains are",
+      "type": "OBJ",
+      "options": [
+        "Epipsammic",
+        "Eglozoic",
+        "Pelinhydes",
+        "Epilithic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Epipsammic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Epipsammic organisms inhabit sand particles, while epilithic live on rocks. The other terms appear to be misspellings or non-standard."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "A factor affecting the distribution of organisms is",
+      "type": "OBJ",
+      "options": [
+        "Air",
+        "Water",
+        "Climate",
+        "Segregation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Climate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Climate is the primary factor determining species distribution through temperature, precipitation, and seasonal patterns that affect survival and reproduction."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "Organisms with three layers of cells are",
+      "type": "OBJ",
+      "options": [
+        "Triploblast",
+        "Triploglea",
+        "Mesoglea",
+        "Germ layers"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Triploblast"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Triploblastic organisms develop from three embryonic germ layers (ectoderm, mesoderm, and endoderm), which give rise to all tissues and organs."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "______ refers to the locality where an organism lives",
+      "type": "OBJ",
+      "options": [
+        "Habitat",
+        "Village",
+        "Gathering",
+        "Climax"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Habitat"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "A habitat is the natural environment where a species lives, characterized by specific physical and biological features that meet its survival needs."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "Organisms that live within an animal are ______",
+      "type": "OBJ",
+      "options": [
+        "Endozoology",
+        "Endozoic",
+        "Endolithic",
+        "Endotherm"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Endozoic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Endozoic organisms live inside animals (e.g., gut parasites), while endolithic organisms inhabit rocks, and endotherms are warm-blooded animals."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "Organisms that tolerate a wide range of temperature are ______",
+      "type": "OBJ",
+      "options": [
+        "Homothermic",
+        "Monothermic",
+        "Heterothermic",
+        "Eurythermic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Eurythermic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Eurythermic species can survive broad temperature fluctuations, unlike stenothermic organisms that require narrow temperature ranges."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Monkey belongs to class",
+      "type": "OBJ",
+      "options": [
+        "Monatoda",
+        "Animalia",
+        "Mammalia",
+        "Pi"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mammalia"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Monkeys are mammals (class Mammalia) characterized by hair/fur, mammary glands, and three middle ear bones. 'Animalia' is their kingdom, not class."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "______ is an organism in subclass Chondrichthyes",
+      "type": "OBJ",
+      "options": [
+        "Tilapia",
+        "Shark",
+        "Planaria",
+        "Platyhelminthes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Shark"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Sharks belong to Chondrichthyes (cartilaginous fish), while tilapia are bony fish (Osteichthyes), and planaria/Platyhelminthes are flatworms."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "Characteristics of Mollusca include ______",
+      "type": "OBJ",
+      "options": [
+        "joint foot",
+        "joint body",
+        "soft body",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "soft body"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Mollusks are characterized by soft bodies, often protected by a hard shell. They have a muscular foot, but it's not jointed like arthropod appendages."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "Question": {
+      "content": "Example of a jawless fish is ______",
+      "type": "OBJ",
+      "options": [
+        "Myxini",
+        "Shark",
+        "Tilapia",
+        "S4"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Myxini"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Myxini (hagfish) are jawless fish (class Agnatha), while sharks and tilapia have jaws. 'S4' appears to be a placeholder or error."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "Question": {
+      "content": "Organism that produces amniotic eggs does not include",
+      "type": "OBJ",
+      "options": [
+        "Bird",
+        "Lizard",
+        "Fish",
+        "Rainfall"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fish"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Amniotic eggs (with protective membranes) are produced by reptiles, birds, and mammals—not fish, which lay simpler anamniotic eggs in water."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "Question": {
+      "content": "Stenohaline organisms tolerate short range of ______",
+      "type": "OBJ",
+      "options": [
+        "Temperature",
+        "Salinity",
+        "Pressure",
+        "Rainfall"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Salinity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Stenohaline organisms can only survive within narrow salinity ranges, unlike euryhaline species that tolerate wide salinity variations."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "Question": {
+      "content": "Streamlined body helps organisms to reduce ______",
+      "type": "OBJ",
+      "options": [
+        "Movement",
+        "Pressure",
+        "Friction",
+        "Changes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Friction"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Streamlined shapes minimize drag (friction) in fluid environments, enabling efficient swimming or flying."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "Question": {
+      "content": "______ helps aquatic organisms to take in air",
+      "type": "OBJ",
+      "options": [
+        "Air sacs",
+        "Lungs",
+        "Gills",
+        "Air bags"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Air sacs"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Some aquatic organisms like fish use air sacs (swim bladders) for buoyancy, though gills are primary respiratory structures. Note: 'Gif' appears to be a typo for 'Gills'."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "Question": {
+      "content": "Pneumatic bones are found in",
+      "type": "OBJ",
+      "options": [
+        "Birds",
+        "Fish",
+        "Lizards",
+        "Air bags"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Birds"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Pneumatic bones are hollow, air-filled bones that reduce weight in birds for flight. 'Air bags' is not a biological classification."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "Question": {
+      "content": "Lack of ______ is a major difference between viruses and viroids",
+      "type": "OBJ",
+      "options": [
+        "RNA",
+        "Protein coat",
+        "Chlorophyll",
+        "Nucleic acid"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Protein coat"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Viroids consist solely of circular RNA without protein coats, while viruses have nucleic acid genomes enclosed in protein capsids."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "Question": {
+      "content": "One goal of taxonomy is to determine the ……… history of organisms",
+      "type": "OBJ",
+      "options": [
+        "Physiological",
+        "Biochemical",
+        "Anatomical",
+        "Evolutionary"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Evolutionary"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Taxonomy aims to classify organisms based on evolutionary relationships (phylogeny), not just physical traits."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "Question": {
+      "content": "______ is an organism in the phylum Coelenterata",
+      "type": "OBJ",
+      "options": [
+        "Lumbricus",
+        "Butterfly",
+        "Ascaris",
+        "Jellyfish"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Jellyfish"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Jellyfish belong to Cnidaria (formerly Coelenterata), characterized by radial symmetry and cnidocytes. Other options are annelids, arthropods, and nematodes."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "Question": {
+      "content": "Nematodes are………organisms",
+      "type": "OBJ",
+      "options": [
+        "Coelomate",
+        "Acoelomate",
+        "Pseudocoelomate",
+        "Arboreal"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pseudocoelomate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Nematodes (roundworms) have a pseudocoelom—a fluid-filled cavity between the mesoderm and endoderm, not fully lined by mesoderm."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "Question": {
+      "content": "In medusa coelenterate reproduction is ______",
+      "type": "OBJ",
+      "options": [
+        "Budding",
+        "Transformation",
+        "Sexual",
+        "Parthenogenesis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sexual"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The medusa stage in cnidarians (e.g., jellyfish) typically reproduces sexually, while the polyp stage reproduces asexually by budding."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "Question": {
+      "content": "Crabs belong to the phylum ______",
+      "type": "OBJ",
+      "options": [
+        "Echinodermata",
+        "Vertebrate",
+        "Arthropoda",
+        "Porifera"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Arthropoda"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Crabs are arthropods, characterized by exoskeletons and jointed appendages. 'Vertebrate' is a subphylum, not a phylum."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 51",
+    "Question": {
+      "content": "Biological features from a common evolutionary origin are known as ______",
+      "type": "OBJ",
+      "options": [
+        "Homologous",
+        "Analogous",
+        "Homotoposis",
+        "Unusoidal"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Homologous"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Homologous structures (e.g., bat wings and human arms) share evolutionary ancestry, while analogous structures have similar functions but different origins."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 52",
+    "Question": {
+      "content": "Birds are………vertebrates",
+      "type": "OBJ",
+      "options": [
+        "Poikilothermic",
+        "Endothermic",
+        "Ectothermic",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Endothermic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Birds are endothermic (warm-blooded), maintaining constant body temperature through metabolic heat, unlike ectothermic reptiles."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 53",
+    "Question": {
+      "content": "Geese and seagulls belong to the class ______",
+      "type": "OBJ",
+      "options": [
+        "Aves",
+        "Pisces",
+        "Reptiles",
+        "Mammals"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Aves"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "All birds are in class Aves. 'Lives' appears to be a typo; corrected to 'Aves' for taxonomic accuracy."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 54",
+    "Question": {
+      "content": "Reptiles are……… animals with scales",
+      "type": "OBJ",
+      "options": [
+        "Poikilothermic",
+        "Endothermic",
+        "Homothermic",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Poikilothermic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Reptiles are poikilothermic (cold-blooded), relying on external heat sources to regulate body temperature."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 55",
+    "Question": {
+      "content": "Amphibians are represented by ______",
+      "type": "OBJ",
+      "options": [
+        "Newts",
+        "Snakes",
+        "Lizards",
+        "Sharks"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Newts"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Newts are amphibians, while snakes/lizards are reptiles, and sharks are fish. Amphibians typically undergo metamorphosis (e.g., tadpole to frog)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 56",
+    "Question": {
+      "content": "Notochord persists throughout the lives of some animals like ______",
+      "type": "OBJ",
+      "options": [
+        "Arthropods",
+        "Humans",
+        "Lampreys",
+        "Annelids"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lampreys"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "In most vertebrates, the notochord is replaced by vertebrae during development, but it persists in primitive chordates like lampreys."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 57",
+    "Question": {
+      "content": "Hagfish and lampreys are examples of ……. fishes",
+      "type": "OBJ",
+      "options": [
+        "Jawless",
+        "Jawed",
+        "Bony",
+        "Skeletal"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Jawless"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Hagfish and lampreys (class Agnatha) are primitive, jawless vertebrates with cartilaginous skeletons."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 58",
+    "Question": {
+      "content": "An example of diploblastic animal is ______",
+      "type": "OBJ",
+      "options": [
+        "Paramecium",
+        "Hydra",
+        "Euglena",
+        "Earthworm"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hydra"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Hydra (a cnidarian) is diploblastic, having only ectoderm and endoderm layers. Earthworms are triploblastic; others are protists."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 59",
+    "Question": {
+      "content": "Families with similar characteristics form ______",
+      "type": "OBJ",
+      "options": [
+        "Class",
+        "Order",
+        "Subclass",
+        "Phylum"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Order"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Related families are grouped into orders in taxonomic hierarchy (e.g., Carnivora order includes Felidae and Canidae families)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 60",
+    "Question": {
+      "content": "Negative staining technique is a method used for staining ______",
+      "type": "OBJ",
+      "options": [
+        "Bacteria capsules",
+        "Bacterial membrane",
+        "Bacterial cell",
+        "Bacterial spores"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bacteria capsules"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Negative staining colors the background, leaving capsules unstained as clear halos around cells."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 61",
+    "Question": {
+      "content": "The acid-fast stain is an example of a ______",
+      "type": "OBJ",
+      "options": [
+        "Differential stain",
+        "Simple stain",
+        "Monostain",
+        "Unistain"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Differential stain"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Acid-fast staining (e.g., Ziehl-Neelsen) differentiates mycobacteria (acid-fast) from other bacteria (non-acid-fast)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 62",
+    "Question": {
+      "content": "Colonial characteristics include the following: ______",
+      "type": "OBJ",
+      "options": [
+        "Colony size",
+        "Colony pigmentation",
+        "Colony elevation",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Microbial colonies are described by size, color, elevation, margin shape, texture, and optical properties."
+    }
+  },
+  {
+  "type": "Question",
+  "name": "Question 63",
+  "Question": {
+    "content": "The Gram stain reaction divides Eubacterial cells based on: ______",
+    "type": "OBJ",
+    "options": [
+      "Chemical composition of their membrane",
+      "Chemical composition of their cell walls",
+      "Chemical composition of their nuclear material",
+      "All of the above"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Chemical composition of their cell walls"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Gram staining differentiates bacteria based on cell wall structure - Gram-positive bacteria have thick peptidoglycan layers that retain crystal violet stain, while Gram-negative bacteria have thin peptidoglycan and outer lipid membranes that don't retain the stain."
+  }
+},
+  {
+    "type": "Question",
+    "name": "Question 64",
+    "Question": {
+      "content": "In question 7 a positive test for the three sugars is represented as",
+      "type": "OBJ",
+      "options": [
+        "Lactose-ve Sucrose-ve Glucose-ve",
+        "Lactose +ve Sucrose+ve Glucose+ve",
+        "Lactose+ve Sucrose-ve Glucose+ve",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lactose +ve Sucrose+ve Glucose+ve"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "A positive test for all three sugars would show positive (+ve) results for lactose, sucrose, and glucose. The other options show either partial or negative results."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 65",
+    "Question": {
+      "content": "Agglutination tests are example of ______",
+      "type": "OBJ",
+      "options": [
+        "Biochemical tests",
+        "Morphological tests",
+        "Serological tests",
+        "Hybridization tests"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Serological tests"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Agglutination tests detect antibodies or antigens in serum, making them serological tests that are widely used in blood typing and pathogen detection."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 66",
+    "Question": {
+      "content": "A susceptibility result in a phage typing test is shown by ______",
+      "type": "OBJ",
+      "options": [
+        "Confluent growth of the bacteria on the medium",
+        "Plaque",
+        "A hollow",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Plaque"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "In phage typing, clear zones (plaques) indicate bacterial susceptibility where bacteriophages have lysed the bacterial cells."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 67",
+    "Question": {
+      "content": "Organisms that have similar ribosomal RNA sequences are said to be ______",
+      "type": "OBJ",
+      "options": [
+        "Closely related",
+        "Unrelated",
+        "Dissimilar",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Closely related"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Ribosomal RNA (rRNA) sequences are highly conserved evolutionarily, so similarity indicates close phylogenetic relationships between organisms."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 68",
+    "Question": {
+      "content": "The first step in the scientific method is …..",
+      "type": "OBJ",
+      "options": [
+        "Observation",
+        "Hypothesis",
+        "Prediction",
+        "Theory"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Observation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The scientific method begins with observation of natural phenomena, followed by hypothesis formation, experimentation, and theory development."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 69",
+    "Question": {
+      "content": "The following played roles in the scientific method except ______",
+      "type": "OBJ",
+      "options": [
+        "Galileo",
+        "Socrates",
+        "Calculus",
+        "Newton"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Calculus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Calculus is a mathematical tool, not a historical figure. Galileo, Socrates, and Newton all contributed to scientific methodology development."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 70",
+    "Question": {
+      "content": "The most vital feature of living organisms is ______",
+      "type": "OBJ",
+      "options": [
+        "Excretion",
+        "Respiration",
+        "Reproduction",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reproduction"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "While all are life processes, reproduction is fundamental for species survival and evolution. The question appears to be missing option (a) in the original image."
+    }
+  }
+]
+
+
+
