@@ -1,0 +1,1551 @@
+[{
+  "type": "pageInfo",
+  "kind": "pureOBJ",
+  "course_title": "General Biology II",
+  "code": "FSB 102.2",
+  "session": "2019/2020",
+  "time": "90"
+},
+{
+  "type": "Instruction",
+  "content": "Attempt all Questions."
+},
+{
+  "type": "Question",
+  "name": "Question 1",
+  "Question": {
+    "content": "______ is the study of microscopic structures of cellular tissues.",
+    "type": "OBJ",
+    "options": [
+      "Histology",
+      "Cytology",
+      "Microbiology",
+      "Genetics"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Histology"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Histology</strong> is the branch of biology focused on the microscopic study of tissues and cells. It involves examining thin tissue sections under a microscope to understand their structure and function.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 2",
+  "Question": {
+    "content": "When a theory is tested and becomes proven to be true, then it becomes:",
+    "type": "OBJ",
+    "options": [
+      "Hypothesis",
+      "Thought",
+      "Theorem",
+      "Law"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Law"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>A <strong>scientific law</strong> is a statement based on repeated experimental observations that describes a natural phenomenon. It is more firmly established than a hypothesis or theory (e.g., Newton’s Laws of Motion).</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 3",
+  "Question": {
+    "content": "Taxis and Tactic are features of the living characteristic of:",
+    "type": "OBJ",
+    "options": [
+      "Respiration",
+      "Movement",
+      "Reproduction",
+      "Irritability"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Movement"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Taxis</strong> (directional movement) and <strong>Tactic</strong> (response to stimuli) are behaviors related to <strong>movement</strong>. Examples include phototaxis (movement toward light) in algae.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 4",
+  "Question": {
+    "content": "Fingerprinting and DNA analysis are biological principles used in:",
+    "type": "OBJ",
+    "options": [
+      "Forensic studies",
+      "Pharmacology",
+      "Hybridization",
+      "Conservation"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Forensic studies"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Forensic studies</strong> use DNA analysis and fingerprinting to identify individuals in criminal investigations or paternity tests.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 5",
+  "Question": {
+    "content": "Plants that live two growing seasons and fruit during the second are called ______ plants.",
+    "type": "OBJ",
+    "options": [
+      "Annual",
+      "Bi-Annual",
+      "Biennial",
+      "Perennial"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Biennial"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Biennial plants</strong> (e.g., carrots) complete their life cycle in two years: vegetative growth in the first year and flowering/fruiting in the second.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 6",
+  "Question": {
+    "content": "Attenuation is reduction in ______ due to a filtering medium.",
+    "type": "OBJ",
+    "options": [
+      "Space",
+      "Water",
+      "Light",
+      "Food"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Light"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Attenuation</strong> refers to the reduction of light intensity as it passes through a medium (e.g., water in aquatic ecosystems).</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 7",
+  "Question": {
+    "content": "The metabolic impact of one plant on another is called:",
+    "type": "OBJ",
+    "options": [
+      "Competition",
+      "Parasitism",
+      "Predation",
+      "Allelopathy"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Allelopathy"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Allelopathy</strong> occurs when plants release chemicals (e.g., juglone from walnut trees) to inhibit the growth of nearby competitors.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 8",
+  "Question": {
+    "content": "Mycorrhizae is a mutualistic association between ______ and plant roots.",
+    "type": "OBJ",
+    "options": [
+      "Bacteria",
+      "Fungi",
+      "Virus",
+      "Nematodes"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Fungi"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Mycorrhizae</strong> are symbiotic relationships where fungi enhance a plant’s nutrient absorption (especially phosphorus) in exchange for sugars.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 9",
+  "Question": {
+    "content": "A factor affecting the distribution of organisms is:",
+    "type": "OBJ",
+    "options": [
+      "Air",
+      "Water",
+      "Climate",
+      "Segregation"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Climate"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Climate</strong> (temperature, precipitation) is a primary factor determining where species can survive. Example: Polar bears are restricted to Arctic regions.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 10",
+  "Question": {
+    "content": "Approximately 71% of the Earth’s surface is covered by:",
+    "type": "OBJ",
+    "options": [
+      "Land",
+      "Trees",
+      "Water",
+      "Sand"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Water"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Earth is often called the <strong>Blue Planet</strong> because ~71% of its surface is covered by oceans, seas, and freshwater bodies.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 11",
+  "Question": {
+    "content": "Organisms that tolerate long range of temperatures are ______.",
+    "type": "OBJ",
+    "options": [
+      "Homothermic",
+      "Monothermic",
+      "Heterothermic",
+      "Eurythermic"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Eurythermic"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Eurythermic</strong> organisms can survive wide temperature ranges (e.g., desert lizards). Contrast with <em>stenothermic</em> species that tolerate only narrow ranges.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 12",
+  "Question": {
+    "content": "Reptiles and insects have ______ outer coverings that conserve water.",
+    "type": "OBJ",
+    "options": [
+      "waterproof",
+      "rubbery",
+      "slime",
+      "soft"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "waterproof"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Reptiles have <strong>keratinized scales</strong>, and insects have <strong>chitinous exoskeletons</strong>, both providing waterproofing to prevent desiccation.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 13",
+  "Question": {
+    "content": "Beyond the first 200m depth of water is a zone called ______.",
+    "type": "OBJ",
+    "options": [
+      "photic zone",
+      "photo zone",
+      "eutiphotic zone",
+      "aphotic zone"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "aphotic zone"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>aphotic zone</strong> lacks sunlight (below 200m), contrasting with the sunlit <em>photic zone</em>. Most deep-sea organisms rely on chemosynthesis here.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 14",
+  "Question": {
+    "content": "Euryhaline organisms tolerate long range of ______.",
+    "type": "OBJ",
+    "options": [
+      "Temperature",
+      "Salinity",
+      "Pressure",
+      "Rainfall"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Salinity"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Euryhaline</strong> species (e.g., salmon, mangroves) survive in both fresh and saltwater by osmoregulation.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 15",
+  "Question": {
+    "content": "Pneumatic bones are found in ______.",
+    "type": "OBJ",
+    "options": [
+      "Birds",
+      "Fish",
+      "Lizard",
+      "Frog"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Birds"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Birds have <strong>pneumatic bones</strong> (hollow, air-filled) to reduce weight for flight, connected to their respiratory system.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 16",
+  "Question": {
+    "content": "Organisms that live on sand grains are ______.",
+    "type": "OBJ",
+    "options": [
+      "Epipsamic",
+      "Endozoic",
+      "Periphytes",
+      "Epilithic"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Epipsamic"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Epipsamic</strong> organisms (e.g., diatoms) live on sand surfaces. <em>Epilithic</em> refers to rock-dwellers, while <em>endozoic</em> means inside animals.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 17",
+  "Question": {
+    "content": "Organisms that live within an animal are ______.",
+    "type": "OBJ",
+    "options": [
+      "Endozoology",
+      "Endozoic",
+      "Endolithic",
+      "Endotherm"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Endozoic"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Endozoic</strong> organisms (e.g., gut parasites like tapeworms) live inside other animals. <em>Endolithic</em> refers to rock-inhabiting microbes.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 18",
+  "Question": {
+    "content": "One component of the Biosphere is called ______.",
+    "type": "OBJ",
+    "options": [
+      "Biogeosphere",
+      "Hydrosphere",
+      "Chemosphere",
+      "Endosphere"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Hydrosphere"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>hydrosphere</strong> includes all water bodies (oceans, lakes, etc.). The biosphere also includes the <em>lithosphere</em> (land) and <em>atmosphere</em> (air).</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 19",
+  "Question": {
+    "content": "Organisms exhibit negative interaction such as ______.",
+    "type": "OBJ",
+    "options": [
+      "Mutualism",
+      "Symbiosis",
+      "Biosis",
+      "Parasitism"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Parasitism"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Parasitism</strong> harms the host while benefiting the parasite (e.g., ticks on dogs). Contrast with <em>mutualism</em> (both benefit).</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 20",
+  "Question": {
+    "content": "Fish breathe in water through the ______.",
+    "type": "OBJ",
+    "options": [
+      "gills",
+      "fin",
+      "scale",
+      "nostril"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "gills"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Gills</strong> extract dissolved oxygen from water via countercurrent exchange. Nostrils in fish detect chemicals but aren't for breathing.</div>"
+  }
+},  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "Limb in fish is modified into ______.",
+      "type": "OBJ",
+      "options": [
+        "fins",
+        "legs",
+        "tail",
+        "fingers"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "fins"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Fish limbs are modified into <strong>fins</strong> (pectoral and pelvic fins) for stability and maneuverability in water. They lack true legs or fingers.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "Strong moving current of air is ______.",
+      "type": "OBJ",
+      "options": [
+        "Pave",
+        "Tide",
+        "Wind",
+        "Current"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Wind"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Wind</strong> refers to the horizontal movement of air caused by atmospheric pressure differences. Tides involve water, and 'pave' is unrelated.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "Haplo-Diplontic cycle occurs in Pteridophytes and ______.",
+      "type": "OBJ",
+      "options": [
+        "Protista",
+        "Thallophytes",
+        "Bryophytes",
+        "Spermatophytes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bryophytes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>haplo-diplontic</strong> life cycle (alternation of generations) is seen in <em>Pteridophytes</em> (ferns) and <em>Bryophytes</em> (mosses). Spermatophytes (seed plants) are predominantly diplontic.</div>"
+    }
+  },
+{
+  "type": "Question",
+  "name": "Question 24",
+  "Question": {
+    "content": "An example of filamentous algae is ______.",
+    "type": "OBJ",
+    "options": [
+      "Clamydomonas",
+      "Yolava",
+      "Spirogopyra",
+      "Kelp"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Spirogopyra"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Spirogyra</strong> is a filamentous green algae (note the spiral chloroplasts). <em>Clamydomonas</em> is unicellular, while <em>kelp</em> is multicellular but not filamentous.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 25",
+  "Question": {
+    "content": "What is the colour of the pigments found in Phaeophyceae?",
+    "type": "OBJ",
+    "options": [
+      "Brown",
+      "Yellow",
+      "Red",
+      "Green"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Brown"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Phaeophyceae</strong> (brown algae, e.g., kelp) contain <em>fucoxanthin</em>, a brown pigment masking chlorophyll. Red algae (<em>Rhodophyta</em>) have phycoerythrin.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 26",
+  "Question": {
+    "content": "The ovules of what category of plants are not enclosed in the ovary?",
+    "type": "OBJ",
+    "options": [
+      "Bryophyte",
+      "Pteridophyte",
+      "Gymnosperm",
+      "Angiosperm"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Gymnosperm"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Gymnosperms</strong> (e.g., pines) have \"naked\" ovules on cone scales. <em>Angiosperms</em> enclose ovules in ovaries (fruits). Bryophytes lack seeds entirely.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 27",
+  "Question": {
+    "content": "In the hierarchical order of grouping in animal Kingdom, Class comes before:",
+    "type": "OBJ",
+    "options": [
+      "Order",
+      "Family",
+      "Genus",
+      "Kingdom"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Order"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Taxonomic ranks: <strong>Kingdom → Phylum → Class → Order → Family → Genus → Species</strong>. Class is broader than Order.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 28",
+  "Question": {
+    "content": "One of the following organisms belongs to the acoelomate body plan:",
+    "type": "OBJ",
+    "options": [
+      "Nematodes",
+      "Earthworm",
+      "Cichlids",
+      "Schistosoma"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Schistosoma"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Schistosoma</strong> (a flatworm) is <em>acoelomate</em> (lacks a body cavity). Nematodes are pseudocoelomate; earthworms are coelomate.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 29",
+  "Question": {
+    "content": "One major difference between a virus and a viroid is that the latter lacks:",
+    "type": "OBJ",
+    "options": [
+      "RNA",
+      "Protein coat",
+      "Chlorophyll",
+      "Nucleic acid"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Protein coat"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Viroids</strong> are infectious RNA strands without a protein capsid (unlike viruses). Both lack chlorophyll.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 30",
+  "Question": {
+    "content": "One goal of taxonomy is to determine the ______ history of organisms.",
+    "type": "OBJ",
+    "options": [
+      "Physiological",
+      "Biochemical",
+      "Anatomical",
+      "Evolutionary"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Evolutionary"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Taxonomy aims to reconstruct <strong>evolutionary relationships</strong> (phylogeny) using morphological, genetic, and fossil data.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 31",
+  "Question": {
+    "content": "______ is an organism in the phylum Cnidaria.",
+    "type": "OBJ",
+    "options": [
+      "Paramecium",
+      "Butterfly",
+      "Ascaris",
+      "Jellyfish"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Jellyfish"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Jellyfish</strong> (Cnidaria) have stinging cells (nematocysts). <em>Paramecium</em> is a protozoan; <em>Ascaris</em> is a nematode.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 32",
+  "Question": {
+    "content": "An example of an Osteichthyes is:",
+    "type": "OBJ",
+    "options": [
+      "Lamprey",
+      "Squatina",
+      "Salmon",
+      "Ray"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Salmon"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Osteichthyes</strong> (bony fish) include salmon. <em>Lampreys</em> are jawless fish; <em>rays</em> are cartilaginous (Chondrichthyes).</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 33",
+  "Question": {
+    "content": "Nematodes are ______ organisms.",
+    "type": "OBJ",
+    "options": [
+      "Coelomate",
+      "Acoelomate",
+      "Pseudocoelomate",
+      "Arboreal"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Pseudocoelomate"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Nematodes (e.g., <em>Ascaris</em>) have a <strong>pseudocoelom</strong> (fluid-filled cavity not lined by mesoderm).</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 34",
+  "Question": {
+    "content": "In the Phylum Cnidaria, reproduction in Medusa is ______.",
+    "type": "OBJ",
+    "options": [
+      "Budding",
+      "Transformation",
+      "Sexual",
+      "Parthenogenesis"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Sexual"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>In Cnidarians, the <strong>medusa</strong> stage (e.g., jellyfish) reproduces <strong>sexually</strong> to produce polyps, while polyps reproduce asexually (budding).</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 35",
+  "Question": {
+    "content": "Adults of ______ have radial symmetry while their larvae are bilaterally symmetrical.",
+    "type": "OBJ",
+    "options": [
+      "Echinodermata",
+      "Protozoans",
+      "Aquatins",
+      "Arthropoda"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Echinodermata"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Echinoderms</strong> (e.g., starfish) exhibit radial symmetry as adults but have bilateral larvae. This reflects their evolutionary link to chordates.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 36",
+  "Question": {
+    "content": "Crabs belong to the class ______.",
+    "type": "OBJ",
+    "options": [
+      "Echinodermata",
+      "Vertebrata",
+      "Arthropoda",
+      "Porifera"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Arthropoda"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Crabs are <strong>arthropods</strong> (subphylum Crustacea), characterized by jointed appendages and exoskeletons. Echinoderms lack these features.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 37",
+  "Question": {
+    "content": "Geese and seagulls belong to the class ______.",
+    "type": "OBJ",
+    "options": [
+      "Aves",
+      "Pisces",
+      "Reptiles",
+      "Mammals"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Aves"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Aves</strong> (birds) include all feathered, winged species. Geese and seagulls are not mammals (no mammary glands) or reptiles (scales).</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 38",
+  "Question": {
+    "content": "Amphibians are represented by ______.",
+    "type": "OBJ",
+    "options": [
+      "Newts and Salamanders",
+      "Snakes",
+      "Lizards",
+      "Sharks"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Newts and Salamanders"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Amphibians</strong> (Class Amphibia) include newts, salamanders, frogs, and toads. Snakes/lizards are reptiles; sharks are fish.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 39",
+  "Question": {
+    "content": "Arthropods have ______.",
+    "type": "OBJ",
+    "options": [
+      "Respiratory organs",
+      "Joined appendages",
+      "Exoskeleton",
+      "All of the above"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "All of the above"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Arthropods (e.g., insects, crabs) have <strong>all these traits</strong>: exoskeletons (chitin), jointed legs, and specialized respiratory structures (tracheae/gills).</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 40",
+  "Question": {
+    "content": "In the history of classification, ______ proposed the idea of special creation which lasted for nearly 2000 years.",
+    "type": "OBJ",
+    "options": [
+      "John Ray",
+      "Aristotle",
+      "Carolus Linnaeus",
+      "Mendel"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Aristotle"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Aristotle</strong> (384–322 BCE) advocated the <em>Scala Naturae</em> (fixed species hierarchy). Linnaeus later formalized binomial nomenclature.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 41",
+  "Question": {
+    "content": "Albinism is an example of what factor of adaptation?",
+    "type": "OBJ",
+    "options": [
+      "Habitat alteration",
+      "Polyploidy",
+      "Hybridization",
+      "Mutation"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Mutation"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Albinism</strong> results from a <em>mutation</em> in genes encoding melanin production (e.g., tyrosinase enzyme defects). It is not caused by hybridization or polyploidy.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 42",
+  "Question": {
+    "content": "Plants rooted in the bottom with leaves above the waterline are called ______.",
+    "type": "OBJ",
+    "options": [
+      "Elodeids",
+      "Isoetids",
+      "Helophytes",
+      "Pleuston"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Helophytes"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Helophytes</strong> (e.g., reeds) are emergent aquatic plants rooted underwater with aerial leaves. <em>Pleuston</em> float freely (e.g., duckweed).</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 43",
+  "Question": {
+    "content": "One of these is not a feature of terrestrial habitat:",
+    "type": "OBJ",
+    "options": [
+      "High availability of nutrients",
+      "Desiccation",
+      "Abundance of oxygen",
+      "Abundance of light"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "High availability of nutrients"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Terrestrial habitats often have <strong>limited nutrients</strong> (unlike aquatic systems). Desiccation risk, oxygen, and light are typical challenges/advantages.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 44",
+  "Question": {
+    "content": "All but one of these are ecological conditions under which xerophytes thrive:",
+    "type": "OBJ",
+    "options": [
+      "Low soil moisture",
+      "Strong wind",
+      "Low temperature during the day",
+      "High sunlight"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Low temperature during the day"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Xerophytes</strong> (e.g., cacti) adapt to <em>high temperatures</em>, arid conditions, and intense sunlight. Low daytime temps are atypical.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 45",
+  "Question": {
+    "content": "Taiga is named after the biome in ______.",
+    "type": "OBJ",
+    "options": [
+      "Russia",
+      "West Indies",
+      "Oceania",
+      "Latin America"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Russia"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>taiga</strong> (boreal forest) dominates Russia’s landscape. It’s characterized by coniferous trees and cold winters.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 46",
+  "Question": {
+    "content": "Derived savanna is likely not to be found in one of these states in Nigeria:",
+    "type": "OBJ",
+    "options": [
+      "Benue",
+      "Oyo",
+      "Imo",
+      "Edo"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Imo"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Derived savannas</strong> (resulting from deforestation) are common in Nigeria’s middle belt (Benue) and southwest (Oyo). <em>Imo</em> (southeast) is predominantly rainforest.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 47",
+  "Question": {
+    "content": "The highest point in Nigeria is found in which state?",
+    "type": "OBJ",
+    "options": [
+      "Plateau",
+      "Kogi",
+      "Taraba",
+      "Adamawa"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Taraba"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Nigeria’s highest peak is <strong>Chappal Waddi</strong> (2,419m) in Taraba’s Mambilla Plateau. Adamawa’s Gotel Mountains are second.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 48",
+  "Question": {
+    "content": "Abuja is in what vegetational zone of Nigeria?",
+    "type": "OBJ",
+    "options": [
+      "Guinea savanna",
+      "Sudan Savanna",
+      "Sahel Savanna",
+      "Tropical evergreen forest"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Guinea savanna"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Abuja lies in the <strong>Guinea savanna</strong> belt, characterized by tall grasses and scattered trees. Sudan savanna is drier (northern Nigeria).</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 49",
+  "Question": {
+    "content": "Microscopic characteristics in bacteria include the following except:",
+    "type": "OBJ",
+    "options": [
+      "Presence of flagella",
+      "Presence of capsule",
+      "Presence of endospores",
+      "Presence of colonies"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Presence of colonies"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Colony formation</strong> is a <em>macroscopic</em> characteristic (observed on agar plates). Microscopic features include flagella (motility), capsules (slime layers), and endospores (dormant structures).</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 50",
+  "Question": {
+    "content": "Colonial characteristics of bacteria include all of the following except:",
+    "type": "OBJ",
+    "options": [
+      "Shape of colony",
+      "Pigmentation of colony",
+      "Degenerate of colony",
+      "Depth of colony"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Degenerate of colony"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Colony traits include shape, color (pigmentation), and elevation (depth). <strong>Degeneration</strong> is not a standard descriptor.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 51",
+  "Question": {
+    "content": "The Gram stain technique is an example of a:",
+    "type": "OBJ",
+    "options": [
+      "Negative staining technique",
+      "Simple staining technique",
+      "Differential staining technique",
+      "Selective staining technique"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Differential staining technique"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Gram staining</strong> differentiates bacteria into Gram-positive (purple) and Gram-negative (pink) based on cell wall composition (peptidoglycan thickness).</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 52",
+  "Question": {
+    "content": "Bacterial strains possessing capsules are usually:",
+    "type": "OBJ",
+    "options": [
+      "Pathogenic",
+      "Non-pathogenic",
+      "Saprophytic",
+      "Commensals"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Pathogenic"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Capsules (e.g., in <em>Streptococcus pneumoniae</em>) enhance virulence by evading host immune responses (phagocytosis).</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 53",
+  "Question": {
+    "content": "Sugar fermentation tests are an example of:",
+    "type": "OBJ",
+    "options": [
+      "Serological tests",
+      "Cultural tests",
+      "Biochemical tests",
+      "Morphological tests"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Biochemical tests"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>These tests detect metabolic activity (e.g., acid/gas production) to identify bacteria (e.g., <em>E. coli</em> ferments lactose).</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 54",
+  "Question": {
+    "content": "Acid and gas production by bacteria in a sugar fermentation test is indicated by:",
+    "type": "OBJ",
+    "options": [
+      "Change in color of the medium",
+      "Effervescence",
+      "A clear space in the inverted Durham tube",
+      "A and C"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "A and C"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Acid turns pH indicators (e.g., phenol red) yellow; gas bubbles trapped in the <strong>Durham tube</strong> confirm fermentation.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 55",
+  "Question": {
+    "content": "The basis of bacterial serological tests is:",
+    "type": "OBJ",
+    "options": [
+      "Unknown bacterial and antisera reactions",
+      "Protein and protein interaction",
+      "Blood serum antibody reaction",
+      "None of the above"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Blood serum antibody reaction"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Serological tests</strong> (e.g., ELISA) detect antigen-antibody interactions. Antibodies in serum bind to bacterial antigens.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 56",
+  "Question": {
+    "content": "The technique whereby bacterial viruses are used to identify bacteria is called:",
+    "type": "OBJ",
+    "options": [
+      "Protein typing",
+      "Phage typing",
+      "Serotyping",
+      "Bacteriocin typing"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Phage typing"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Phage typing</strong> exploits bacteriophages’ host specificity. Lysis patterns identify bacterial strains (e.g., <em>Salmonella</em>).</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 57",
+  "Question": {
+    "content": "Which organism is similar to organism A (G+C ratio of 80%?",
+    "type": "OBJ",
+    "options": [
+      "B (G+C 78%)",
+      "C (G+C 60%)",
+      "D (G+C 57%)",
+      "E (G+C 40%)"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "B (G+C 78%)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Similar <strong>G+C ratios</strong> (within 2-5%) suggest evolutionary relatedness. B’s 78% is closest to A’s 80%.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 58",
+  "Question": {
+    "content": "Restriction endonuclease enzyme cuts DNA into fragments; comparing their lengths forms the basis of:",
+    "type": "OBJ",
+    "options": [
+      "Polymerase Chain Reaction",
+      "DNA fingerprinting",
+      "Restriction endonuclease typing",
+      "B and C"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "B and C"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>DNA fingerprinting</strong> and <strong>restriction typing</strong> analyze fragment length polymorphisms (RFLPs) for identification.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 59",
+  "Question": {
+    "content": "Ribosomal RNA sequencing involves:",
+    "type": "OBJ",
+    "options": [
+      "Comparison of ribosomal RNA sequences of organisms",
+      "Comparison of transfer RNA sequences of organisms",
+      "Comparison of RNA sequences of organisms",
+      "All of the above"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Comparison of ribosomal RNA sequences of organisms"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>rRNA sequencing</strong> (e.g., 16S rRNA) is a gold standard for phylogenetic studies due to its slow mutation rate.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 60",
+  "Question": {
+    "content": "Southern blotting is based on:",
+    "type": "OBJ",
+    "options": [
+      "Multisequence typing",
+      "Polymerase Chain Reaction",
+      "Nucleic acid hybridization",
+      "Protein typing"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Nucleic acid hybridization"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Southern blotting</strong> detects DNA sequences by hybridizing probe DNA to target DNA on a membrane.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 61",
+  "Question": {
+    "content": "When single strands of DNA from two similar organisms are mixed:",
+    "type": "OBJ",
+    "options": [
+      "The strands will not pair up",
+      "The strands will pair up completely",
+      "The strands will pair up depending on the extent of their relatedness",
+      "B and C"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "The strands will pair up depending on the extent of their relatedness"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>DNA hybridization depends on <strong>sequence similarity</strong>. More matches = stronger bonding (used in DNA-DNA hybridization studies).</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 62",
+  "Question": {
+    "content": "The technique that allows specific DNA sequences to be amplified is called:",
+    "type": "OBJ",
+    "options": [
+      "DNA hybridization",
+      "Polymerase Chain Reaction",
+      "DNA chip",
+      "DNA sequencing"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Polymerase Chain Reaction"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>PCR</strong> uses primers and Taq polymerase to exponentially amplify target DNA sequences (e.g., for diagnostics).</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 63",
+  "Question": {
+    "content": "Solid waste is classified into how many types?",
+    "type": "OBJ",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "2"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "3"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Solid waste is categorized as <strong>municipal</strong> (household), <strong>industrial</strong>, and <strong>hazardous</strong> (toxic/flammable).</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 64",
+  "Question": {
+    "content": "Noise pollution can be controlled by the following except:",
+    "type": "OBJ",
+    "options": [
+      "Reduction of noise from loudspeakers",
+      "Construction of rail lines in low-density areas",
+      "Prohibition of heavy guns in public places",
+      "Enforcement of legislation against loudspeakers in public places"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Construction of rail lines in low-density areas"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Building rail lines in <strong>low-density areas</strong> spreads noise pollution rather than reducing it. Other options are direct mitigation strategies.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 65",
+  "Question": {
+    "content": "Rise in environmental temperature due to excessive heat energy is called ______ pollution.",
+    "type": "OBJ",
+    "options": [
+      "Heat",
+      "Temperature",
+      "Thermal",
+      "Environment"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Thermal"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Thermal pollution</strong> occurs when industrial processes (e.g., power plants) discharge heated water into ecosystems, disrupting aquatic life.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 66",
+  "Question": {
+    "content": "Ozone (O₃) is formed in which part of the atmosphere?",
+    "type": "OBJ",
+    "options": [
+      "Troposphere",
+      "Ionosphere",
+      "Mesosphere",
+      "Stratosphere"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Stratosphere"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>stratospheric ozone layer</strong> (15–35 km altitude) absorbs UV radiation. Tropospheric ozone is a pollutant.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 67",
+  "Question": {
+    "content": "Biodiversity can be studied at all these levels except:",
+    "type": "OBJ",
+    "options": [
+      "Genetic diversity",
+      "Species diversity",
+      "Genus diversity",
+      "Ecosystem diversity"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Genus diversity"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Biodiversity is assessed at <strong>genetic</strong> (within species), <strong>species</strong> (richness/evenness), and <strong>ecosystem</strong> levels. Genus-level studies are atypical.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 68",
+  "Question": {
+    "content": "An alien species competing with Rhizophora sp. in Nigeria's Niger Delta waterways is:",
+    "type": "OBJ",
+    "options": [
+      "Water hyacinth",
+      "Nipa palm",
+      "Water lettuce",
+      "Water cabbage"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Nipa palm"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The invasive <strong>Nipa palm</strong> (<em>Nypa fruticans</em>) displaces native mangroves (<em>Rhizophora</em>) by altering sediment dynamics.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 69",
+  "Question": {
+    "content": "Ex-situ conservation can be done in:",
+    "type": "OBJ",
+    "options": [
+      "Botanic gardens",
+      "Game reserves",
+      "Forest reserves",
+      "Wildlife sanctuaries"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Botanic gardens"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Ex-situ conservation</strong> involves protecting species outside natural habitats (e.g., botanic gardens, seed banks). Reserves/sanctuaries are <em>in-situ</em>.</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 70",
+  "Question": {
+    "content": "The 1992 Earth Summit on biodiversity was held in:",
+    "type": "OBJ",
+    "options": [
+      "Barcelona",
+      "Milan",
+      "Liverpool",
+      "Rio de Janeiro"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Rio de Janeiro"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>Rio Earth Summit</strong> (1992) led to the Convention on Biological Diversity (CBD). Key for global conservation policies.</div>"
+  }
+}]
