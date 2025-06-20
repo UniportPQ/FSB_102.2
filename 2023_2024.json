@@ -1,0 +1,1447 @@
+[{
+  "type": "pageInfo",
+  "kind": "pureOBJ",
+  "course_title": "General Biology II",
+  "code": "FSB 102.2",
+  "session": "2023/2024",
+  "time": "90"
+},
+{
+  "type": "Instruction",
+  "content": "Attempt all Questions."
+},
+    {
+        "type": "Question",
+        "name": "Question 1",
+        "Question": {
+            "content": "One of these does not describe body cavity or coelom:",
+            "type": "OBJ",
+            "options": [
+                "Eucoelom",
+                "Coelomates",
+                "Pseudocoelomates",
+                "Acoelomates"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Eucoelom"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Eucoelom</strong> is not a standard term. The correct classifications are <em>coelomates</em> (true coelom), <em>pseudocoelomates</em> (partial cavity), and <em>acoelomates</em> (no cavity).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 2",
+        "Question": {
+            "content": "One of these is not a type of symmetry:",
+            "type": "OBJ",
+            "options": [
+                "Radial",
+                "Asymmetry",
+                "Spherical",
+                "Diagonal"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Diagonal"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Diagonal</strong> is not a biological symmetry type. <em>Radial</em> (e.g., starfish), <em>spherical</em> (e.g., some protists), and <em>asymmetry</em> (e.g., sponges) are recognized.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 3",
+        "Question": {
+            "content": "One of these attributes does not define adaptation:",
+            "type": "OBJ",
+            "options": [
+                "Behavioural",
+                "Physiological",
+                "Morphological",
+                "Genetic"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Genetic"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>While <strong>genetic</strong> changes underlie adaptations, the term refers to observable traits: <em>behavioral</em> (actions), <em>physiological</em> (internal processes), and <em>morphological</em> (physical features).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 4",
+        "Question": {
+            "content": "One of these is not a barrier that controls migration and dispersal of animals:",
+            "type": "OBJ",
+            "options": [
+                "Physical barrier",
+                "Climatic barrier",
+                "Morphological barrier",
+                "Biological barrier"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Morphological barrier"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Morphological barriers</strong> (body structures) do not restrict migration. <em>Physical</em> (mountains), <em>climatic</em> (temperature), and <em>biological</em> (predation) barriers do.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 5",
+        "Question": {
+            "content": "One of these does not belong to the description of a wetland:",
+            "type": "OBJ",
+            "options": [
+                "Dogs",
+                "Estuary",
+                "Swamps",
+                "Marshes"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Dogs"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Dogs</strong> are terrestrial animals. Wetlands include <em>estuaries</em>, <em>swamps</em>, and <em>marshes</em> (water-saturated ecosystems).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 6",
+        "Question": {
+            "content": "One of these does not belong to the Phylum Echinodermata:",
+            "type": "OBJ",
+            "options": [
+                "Echinus",
+                "Holothuria",
+                "Asterias",
+                "Nereis"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Nereis"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Nereis</strong> is a polychaete worm (Annelida), not an echinoderm. <em>Echinus</em> (sea urchin), <em>Holothuria</em> (sea cucumber), and <em>Asterias</em> (starfish) are echinoderms.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 7",
+        "Question": {
+            "content": "Archaebacteria comprises of:",
+            "type": "OBJ",
+            "options": [
+                "Typical bacteria",
+                "Methanogenic bacteria",
+                "Eukaryotic bacteria",
+                "Eubacteria"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Methanogenic bacteria"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Archaebacteria include <strong>methanogens</strong>, halophiles, and thermophiles. <em>Eubacteria</em> are \"typical\" bacteria; eukaryotic bacteria do not exist.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 8",
+        "Question": {
+            "content": "... is the group of organisms of the same species that live together in a certain area:",
+            "type": "OBJ",
+            "options": [
+                "Community",
+                "Population",
+                "Ecosystem",
+                "Biome"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Population"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>A <strong>population</strong> consists of individuals of one species in an area. <em>Community</em> (multiple species), <em>ecosystem</em> (biotic + abiotic), and <em>biome</em> (large ecological region) are broader.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 9",
+        "Question": {
+            "content": "Which of the following is not an abiotic factor that may affect a community:",
+            "type": "OBJ",
+            "options": [
+                "Light intensity",
+                "Temperature",
+                "Soil pH",
+                "Nitrogen"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Nitrogen"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Nitrogen</strong> is a chemical element (biotic when cycled by organisms). <em>Light</em>, <em>temperature</em>, and <em>soil pH</em> are purely abiotic.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 10",
+        "Question": {
+            "content": "The soil properties that affect the diversity of organisms within and around the soil environment are called:",
+            "type": "OBJ",
+            "options": [
+                "Edaphic factors",
+                "Pyric factors",
+                "Physiographic factors",
+                "None of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Edaphic factors"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Edaphic factors</strong> include soil texture, pH, and nutrient content. <em>Pyric</em> relates to fire; <em>physiographic</em> refers to landscape features.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 11",
+        "Question": {
+            "content": "... is a negative interaction in which one of the organisms is inhibited or destroyed and the other is unaffected:",
+            "type": "OBJ",
+            "options": [
+                "Parasitism",
+                "Neutralism",
+                "Amensalism",
+                "Mutualism"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Amensalism"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Amensalism</strong> describes one-sided harm (e.g., penicillin killing bacteria). <em>Parasitism</em> harms the host; <em>mutualism</em> benefits both; <em>neutralism</em> has no effect.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 12",
+        "Question": {
+            "content": "... are areas where freshwater streams or rivers merge with the ocean:",
+            "type": "OBJ",
+            "options": [
+                "Coral reefs",
+                "Estuaries",
+                "Hydrothermal vents",
+                "Coastal zone"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Estuaries"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Estuaries</strong> are transitional zones where freshwater meets seawater. Coral reefs and hydrothermal vents are marine; coastal zones are broader.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 13",
+        "Question": {
+            "content": "Which of the following kingdom system of fungi is regarded as the true fungi:",
+            "type": "OBJ",
+            "options": [
+                "Chromista",
+                "Protocrista",
+                "Eumycota",
+                "None of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Eumycota"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Eumycota</strong> (true fungi) includes molds, yeasts, and mushrooms. <em>Chromista</em> and <em>Protocrista</em> contain fungus-like protists.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 14",
+        "Question": {
+            "content": "... is not an asexual method of reproduction by fungi:",
+            "type": "OBJ",
+            "options": [
+                "Fragmentation",
+                "Budding",
+                "Fission",
+                "Somatogamy"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Somatogamy"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Somatogamy</strong> is a sexual reproduction process (fusion of hyphae). <em>Fragmentation</em>, <em>budding</em>, and <em>fission</em> are asexual.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 15",
+        "Question": {
+            "content": "Internal cross walls that divide the hyphae of fungi into separate cells are called:",
+            "type": "OBJ",
+            "options": [
+                "Septa",
+                "Coenocytic",
+                "Hyphae",
+                "Mycelium"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Septa"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Septa</strong> are cross-walls in fungal hyphae. <em>Coenocytic</em> hyphae lack septa; <em>hyphae</em> are filaments; <em>mycelium</em> is the network.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 16",
+        "Question": {
+            "content": "The motile fungi move with the help of:",
+            "type": "OBJ",
+            "options": [
+                "Whiplash",
+                "Tinsel",
+                "Flagellum",
+                "Mycelium"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Flagellum"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Motile fungi (e.g., chytrids) use <strong>flagella</strong> for movement. <em>Whiplash</em> and <em>tinsel</em> describe flagella types; <em>mycelium</em> is the non-motile fungal network.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 17",
+        "Question": {
+            "content": "The habitat that is 99% water can be called:",
+            "type": "OBJ",
+            "options": [
+                "Aquatic habitat",
+                "Hydrobiology habitat",
+                "Ecosystem aquatic",
+                "Niche habitat"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Aquatic habitat"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>An <strong>aquatic habitat</strong> (e.g., oceans, lakes) is predominantly water. Other terms are either non-standard or describe subsets (e.g., niche).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 18",
+        "Question": {
+            "content": "... is known as a self-sustaining ecological system:",
+            "type": "OBJ",
+            "options": [
+                "Ecosystem",
+                "Aquatic ecosystem",
+                "Terrestrial ecosystem",
+                "Tundra habitat"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Ecosystem"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>An <strong>ecosystem</strong> is self-sustaining, with energy flow and nutrient cycling. Aquatic/terrestrial/tundra are ecosystem subtypes.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 19",
+        "Question": {
+            "content": "... of these is not a biome in Nigeria:",
+            "type": "OBJ",
+            "options": [
+                "Rain forest",
+                "Guinea Savanna",
+                "Sahel",
+                "Desert habitat"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Desert habitat"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Nigeria lacks true <strong>deserts</strong>. It has rainforests (south), Guinea savannas (central), and Sahel (northern arid zone).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 20",
+        "Question": {
+            "content": "In terms of symmetry ... is superior:",
+            "type": "OBJ",
+            "options": [
+                "Bilateral symmetry is superior to radial",
+                "Radial is superior to bilateral",
+                "Bi-radial is superior",
+                "None of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "None of the above"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Symmetry types are adaptations to specific niches; none is universally \"superior.\" <em>Bilateral</em> aids directional movement; <em>radial</em> suits sessile organisms.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 21",
+        "Question": {
+            "content": "Animals that have three germ layers are called:",
+            "type": "OBJ",
+            "options": [
+                "Pseudocoelomates",
+                "Coelomate",
+                "Triploblastic",
+                "Diploblastic"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Triploblastic"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Triploblastic</strong> animals have ectoderm, mesoderm, and endoderm. <em>Diploblastic</em> (e.g., jellyfish) lack mesoderm; coelomates/pseudocoelomates describe body cavities.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 22",
+        "Question": {
+            "content": "Animals with true body cavity are called:",
+            "type": "OBJ",
+            "options": [
+                "Acoelomates",
+                "Pseudocoelomates",
+                "Triploblastic",
+                "Coelomates"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Coelomates"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Coelomates</strong> (e.g., vertebrates) have a true coelom (mesoderm-lined cavity). <em>Pseudocoelomates</em> (e.g., nematodes) have a partial cavity; <em>acoelomates</em> lack one.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 23",
+        "Question": {
+            "content": "The plants with the fibrous root system are mostly:",
+            "type": "OBJ",
+            "options": [
+                "Dicotyledons",
+                "Monocotyledons",
+                "Buttercup",
+                "Deciduous"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Monocotyledons"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Monocots</strong> (e.g., grasses) have fibrous roots. <em>Dicots</em> (e.g., buttercup) typically have taproots; deciduous refers to leaf-shedding.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 24",
+        "Question": {
+            "content": "Secondary thickening is a characteristic of:",
+            "type": "OBJ",
+            "options": [
+                "Dicotyledons",
+                "Monocotyledons",
+                "Shrubs",
+                "Herbs"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Dicotyledons"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Dicots</strong> undergo secondary growth (wood formation via vascular cambium). Monocots lack this ability; shrubs/herbs are growth forms.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 25",
+        "Question": {
+            "content": "Multiplication in the bacteria is through:",
+            "type": "OBJ",
+            "options": [
+                "Binary fission",
+                "Binary fusion",
+                "Sexual reproduction",
+                "None of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Binary fission"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Bacteria reproduce asexually via <strong>binary fission</strong> (splitting into two). <em>Binary fusion</em> is a non-term; sexual reproduction (conjugation) is rare.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 26",
+        "Question": {
+            "content": "In the phylogenetic plant tree, all but one are members of dicots:",
+            "type": "OBJ",
+            "options": [
+                "Ann grade",
+                "Magnoloids",
+                "Eudicots",
+                "Ginkgo"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Ginkgo"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Ginkgo</strong> is a gymnosperm, not a dicot. <em>Ann grade</em> (basal dicots), <em>magnoloids</em>, and <em>eudicots</em> are dicot groups.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 27",
+        "Question": {
+            "content": "How many types of adaptations occur in higher organisms?",
+            "type": "OBJ",
+            "options": [
+                "5",
+                "4",
+                "3",
+                "2"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "3"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Adaptations are categorized as <strong>morphological</strong>, <strong>physiological</strong>, and <strong>behavioral</strong>. Genetic changes underlie these but are not a separate type.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 28",
+        "Question": {
+            "content": "One of the following is among the three basic systems of plant classification:",
+            "type": "OBJ",
+            "options": [
+                "Phylogenetic",
+                "Chemotaxonomy",
+                "Cytotaxonomy",
+                "Numerical taxonomy"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Phylogenetic"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The core systems are <strong>artificial</strong>, <strong>natural</strong>, and <strong>phylogenetic</strong>. Chemo-/cyto-/numerical taxonomy are supplemental methods.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 29",
+        "Question": {
+            "content": "The oldest known vascular plants belong to which subphylum under pteridophytes?",
+            "type": "OBJ",
+            "options": [
+                "Sphenopsida",
+                "Pteropsida",
+                "Psilopsida",
+                "Lycopsida"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Psilopsida"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Psilopsida</strong> (e.g., <em>Cooksonia</em>) are the earliest vascular plants (~400 MYA). Other groups evolved later.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 30",
+        "Question": {
+            "content": "The male sex organ in flowers is called:",
+            "type": "OBJ",
+            "options": [
+                "Pistil",
+                "Style",
+                "Stigma",
+                "Stamen"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Stamen"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>stamen</strong> (anther + filament) produces pollen. <em>Pistil</em>, <em>style</em>, and <em>stigma</em> are female floral parts.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 31",
+        "Question": {
+            "content": "The occurrence of three sets of chromosomes in cells is known as:",
+            "type": "OBJ",
+            "options": [
+                "Mutation",
+                "Polyploidy",
+                "Hybridization",
+                "Somatic"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Polyploidy"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Polyploidy</strong> refers to cells with multiple chromosome sets (e.g., triploid = 3n). <em>Mutation</em> is a DNA change; <em>hybridization</em> combines species; <em>somatic</em> refers to body cells.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 32",
+        "Question": {
+            "content": "Duckweeds are examples of ... aquatic plants:",
+            "type": "OBJ",
+            "options": [
+                "Free floating",
+                "Totally submerged",
+                "Emergent and rooted",
+                "Totally emergent"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Free floating"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Duckweeds</strong> (e.g., <em>Lemna</em>) float on water surfaces without anchoring. Submerged/emergent plants (e.g., water lilies) are rooted.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 33",
+        "Question": {
+            "content": "Ecological grouping of plants that have cutinized and thick epidermis are:",
+            "type": "OBJ",
+            "options": [
+                "Hygrophytes",
+                "Epiphytes",
+                "Hydrophytes",
+                "Halophyte"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Halophyte"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Halophytes</strong> (salt-tolerant plants) have thick cuticles to reduce water loss. <em>Hydrophytes</em> lack cuticles; <em>hygrophytes/epiphytes</em> thrive in moist/air habitats.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 34",
+        "Question": {
+            "content": "One of these is not an adaptation of mesophytes:",
+            "type": "OBJ",
+            "options": [
+                "Possession of weak stems",
+                "Tissues are well developed",
+                "Possession of cuticles and stomata",
+                "Root possesses root hairs"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Possession of weak stems"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Mesophytes (moderate-water plants) have <strong>strong stems</strong>. Weak stems are typical of hydrophytes. Other options describe mesophytic traits (cuticles, root hairs).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 35",
+        "Question": {
+            "content": "According to taxonomic principles in organisms:",
+            "type": "OBJ",
+            "options": [
+                "Differences unite",
+                "Similarities unite",
+                "Differences do not matter",
+                "None of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Similarities unite"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Taxonomy groups organisms based on <strong>shared similarities</strong> (morphological, genetic). Differences define species boundaries.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 36",
+        "Question": {
+            "content": "In the phylogenetic plant tree, all but one are members of dicots:",
+            "type": "OBJ",
+            "options": [
+                "Ana grade",
+                "Magnoliths",
+                "Eudicots",
+                "Ginkgo"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Ginkgo"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Ginkgo</strong> is a gymnosperm, not a dicot. <em>Ana grade</em> (basal dicots), <em>eudicots</em>, and <em>magnoliids</em> are dicot groups.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 37",
+        "Question": {
+            "content": "How many types of adaptations occur in higher organisms?",
+            "type": "OBJ",
+            "options": [
+                "5",
+                "4",
+                "3",
+                "2"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "3"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Adaptations are <strong>morphological</strong>, <strong>physiological</strong>, and <strong>behavioral</strong>. Genetic changes underpin these but are not a separate category.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 38",
+        "Question": {
+            "content": "One of the following is among the three basic systems of plant classification:",
+            "type": "OBJ",
+            "options": [
+                "Phylogenetic",
+                "Chemotaxonomy",
+                "Cytotaxonomy",
+                "Numerical taxonomy"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Phylogenetic"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The core systems are <strong>artificial</strong>, <strong>natural</strong>, and <strong>phylogenetic</strong>. Chemo-/cyto-/numerical taxonomy are specialized methods.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 39",
+        "Question": {
+            "content": "The oldest known vascular plants belong to which subphylum under pteridophytes?",
+            "type": "OBJ",
+            "options": [
+                "Sphenopsida",
+                "Pteropsida",
+                "Psilopsida",
+                "Lycopsida"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Psilopsida"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Psilopsida</strong> (e.g., <em>Cooksonia</em>) are the earliest vascular plants (~400 MYA). Other groups evolved later.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 40",
+        "Question": {
+            "content": "The male sex organ in flowers is called:",
+            "type": "OBJ",
+            "options": [
+                "Pistil",
+                "Style",
+                "Stigma",
+                "Stamen"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Stamen"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>stamen</strong> (anther + filament) produces pollen. <em>Pistil</em>, <em>style</em>, and <em>stigma</em> are female floral parts.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 46",
+        "Question": {
+            "content": "... trees with prop roots are usually found in the vegetation of Nigeria:",
+            "type": "OBJ",
+            "options": [
+                "Sahel",
+                "Guinea Savanna",
+                "Hambres",
+                "Mangrove swamps"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Mangrove swamps"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Mangroves</strong> (e.g., <em>Rhizophora</em>) develop prop roots for stability in coastal swamps. Sahel/savannas lack such trees; \"Hambres\" is non-standard.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 47",
+        "Question": {
+            "content": "The ability to inter-reproduce makes an organism to be classified as:",
+            "type": "OBJ",
+            "options": [
+                "Phylum",
+                "Kingdom",
+                "Family",
+                "Species"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Species"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Species</strong> is the lowest taxonomic rank where organisms can interbreed and produce fertile offspring. Higher ranks like Phylum, Kingdom, and Family group organisms based on broader characteristics.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 48",
+        "Question": {
+            "content": "One of these must be in capital letters when writing a biological name:",
+            "type": "OBJ",
+            "options": [
+                "Species",
+                "Genus",
+                "Family",
+                "Phylum"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Genus"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>In binomial nomenclature, the <strong>Genus</strong> name is capitalized (e.g., <em>Homo</em> in <em>Homo sapiens</em>), while the species name is lowercase. Family and Phylum are not part of the two-part naming system.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 49",
+        "Question": {
+            "content": "The use of two names to represent an organism is known as ... nomenclature:",
+            "type": "OBJ",
+            "options": [
+                "Biological",
+                "Binomial",
+                "Dianomial",
+                "None"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Binomial"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Binomial nomenclature</strong> is the formal system of naming species with two parts: Genus (capitalized) and species (lowercase), e.g., <em>Panthera leo</em> for a lion.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 50",
+        "Question": {
+            "content": "In taxonomy there are ... kingdoms of organisms:",
+            "type": "OBJ",
+            "options": [
+                "5",
+                "6",
+                "2",
+                "4"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "6"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Modern taxonomy typically recognizes <strong>6 kingdoms</strong>: Animalia, Plantae, Fungi, Protista, Archaea, and Bacteria. Earlier systems had fewer (e.g., 5 excluding Archaea).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 51",
+        "Question": {
+            "content": "The fungus feeds through:",
+            "type": "OBJ",
+            "options": [
+                "Parasitism",
+                "Commensalism",
+                "Saprophytism",
+                "Mutualism"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Saprophytism"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Fungi primarily feed via <strong>saprophytism</strong>, decomposing dead organic matter. Some fungi may also engage in parasitism or mutualism, but saprophytism is their dominant mode.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 52",
+        "Question": {
+            "content": "One of these is an annelid:",
+            "type": "OBJ",
+            "options": [
+                "Earthworm",
+                "Ascaris lumbricoides",
+                "Schistosoma species",
+                "None"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Earthworm"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Earthworms</strong> belong to the phylum Annelida (segmented worms). <em>Ascaris</em> is a nematode, and <em>Schistosoma</em> is a flatworm (Platyhelminthes).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 53",
+        "Question": {
+            "content": "The movement of organisms from one place to another is called:",
+            "type": "OBJ",
+            "options": [
+                "Photosynthesis",
+                "Phagocytosis",
+                "Migration",
+                "Evasion"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Migration"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Migration</strong> refers to the seasonal or periodic movement of organisms (e.g., birds, whales). <em>Photosynthesis</em> is energy production in plants; <em>phagocytosis</em> is cell ingestion.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 54",
+        "Question": {
+            "content": "The ability of organisms to cope with their ambient environments is called:",
+            "type": "OBJ",
+            "options": [
+                "Evolution",
+                "Motivation",
+                "Migration",
+                "Adaptation"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Adaptation"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Adaptation</strong> describes traits that help organisms survive in their environment (e.g., camouflage). <em>Evolution</em> is the process of trait changes over generations.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 55",
+        "Question": {
+            "content": "The fish group are classified as:",
+            "type": "OBJ",
+            "options": [
+                "Aves",
+                "Arthropods",
+                "Pisces",
+                "Reptiles"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Pisces"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Fish belong to the superclass <strong>Pisces</strong>. <em>Aves</em> are birds; <em>Arthropods</em> include insects; <em>Reptiles</em> are a separate vertebrate class.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 56",
+        "Question": {
+            "content": "The amphibians are known for ... life:",
+            "type": "OBJ",
+            "options": [
+                "Aquatic",
+                "Terrestrial",
+                "Aquatic and Terrestrial",
+                "Estuary"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Aquatic and Terrestrial"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Amphibians (e.g., frogs) live <strong>both in water (as larvae) and on land (as adults)</strong>, hence the name meaning \"double life.\"</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 57",
+        "Question": {
+            "content": "The ability to reproduce in animals is called:",
+            "type": "OBJ",
+            "options": [
+                "Fecundity",
+                "Sexuality",
+                "Bisexuality",
+                "Commensalism"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Fecundity"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Fecundity</strong> measures reproductive potential (number of offspring). <em>Sexuality</em> refers to mating types; <em>commensalism</em> is a symbiotic relationship.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 58",
+        "Question": {
+            "content": "In the environment, two of these play unique roles in mineralization activities:",
+            "type": "OBJ",
+            "options": [
+                "Arthropods/Nematodes",
+                "Fungi/Bacteria",
+                "Nematodes/Platyhelminthes",
+                "Nematodes/Echinoderms"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Fungi/Bacteria"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Fungi and Bacteria</strong> are key decomposers that break down organic matter into inorganic nutrients (mineralization), recycling nutrients in ecosystems.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 59",
+        "Question": {
+            "content": "The cell wall is only found in:",
+            "type": "OBJ",
+            "options": [
+                "Saprophytes",
+                "Fungi",
+                "Plantae",
+                "Animalia"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Plantae"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Plants (<strong>Plantae</strong>) have rigid cellulose cell walls. Fungi also have cell walls (made of chitin), but the question specifies \"only,\" implying exclusivity. Animalia lack cell walls.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 60",
+        "Question": {
+            "content": "The ability to digest complex whole materials is seen in:",
+            "type": "OBJ",
+            "options": [
+                "Heterotrophs",
+                "Autotrophs",
+                "Chemotrophs",
+                "Saprophytes"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Heterotrophs"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Heterotrophs</strong> (e.g., animals) digest complex organic materials for energy. <em>Autotrophs</em> produce their own food (e.g., via photosynthesis).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 61",
+        "Question": {
+            "content": "Fructose and glucose source from:",
+            "type": "OBJ",
+            "options": [
+                "Fruits only",
+                "Carbohydrates",
+                "Sucrose only",
+                "Honey only"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Carbohydrates"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Fructose and glucose are monosaccharides found in <strong>carbohydrates</strong> (e.g., fruits, honey, sucrose). They are not exclusive to one source.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 62",
+        "Question": {
+            "content": "Cells without nuclear membrane are called:",
+            "type": "OBJ",
+            "options": [
+                "Eukaryote",
+                "Prokaryote",
+                "Phagocytes",
+                "Meristematic"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Prokaryote"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Prokaryotes</strong> (e.g., bacteria) lack a nuclear membrane and other membrane-bound organelles. <em>Eukaryotes</em> have a nucleus enclosed by a membrane.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 63",
+        "Question": {
+            "content": "The growth found in green plant is:",
+            "type": "OBJ",
+            "options": [
+                "Intercalary",
+                "Apical",
+                "Cytologic",
+                "None of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Apical"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Primary growth in plants occurs at <strong>apical meristems</strong> (tips of roots and shoots). <em>Intercalary</em> meristems (e.g., in grasses) are less common.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 64",
+        "Question": {
+            "content": "Respiration in the cell takes place in:",
+            "type": "OBJ",
+            "options": [
+                "Cytoplasm",
+                "Cytoplasm/Mitochondrion",
+                "Ribosome",
+                "Chromoplast"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Cytoplasm/Mitochondrion"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Cellular respiration begins in the <strong>cytoplasm</strong> (glycolysis) and completes in the <strong>mitochondrion</strong> (Krebs cycle and electron transport chain). Ribosomes synthesize proteins; chromoplasts store pigments.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 65",
+        "Question": {
+            "content": "The exchange of hereditary materials between male and female parents is assured in:",
+            "type": "OBJ",
+            "options": [
+                "Asexual reproduction",
+                "Sexual reproduction",
+                "Hybridization",
+                "Mutualism"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Sexual reproduction"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Sexual reproduction</strong> involves gamete fusion, ensuring genetic diversity. <em>Asexual reproduction</em> produces clones; <em>hybridization</em> crosses species; <em>mutualism</em> is a symbiotic relationship.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 66",
+        "Question": {
+            "content": "The chloroplast contains:",
+            "type": "OBJ",
+            "options": [
+                "Chlorophyll",
+                "Xanthophyll",
+                "Carotene",
+                "Mitochondrion"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Chlorophyll"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Chloroplasts primarily contain <strong>chlorophyll</strong>, the green pigment for photosynthesis. Xanthophyll and carotene are accessory pigments, while mitochondria are separate organelles.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 67",
+        "Question": {
+            "content": "The reptiles have ... digits:",
+            "type": "OBJ",
+            "options": [
+                "five",
+                "Three",
+                "Four",
+                "Six"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "five"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Most reptiles (e.g., lizards, turtles) have <strong>five digits</strong> per limb, a trait inherited from early tetrapods. Some species may exhibit reduced digits (e.g., snakes).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 68",
+        "Question": {
+            "content": "The presence of evergreen canopy vegetation is a characteristic of:",
+            "type": "OBJ",
+            "options": [
+                "Guinea Savanna",
+                "Sahel Savanna",
+                "Sudan Savanna",
+                "Rain Forest"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Rain Forest"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Rain forests</strong> feature dense, evergreen canopies due to year-round rainfall. Savannas (Guinea, Sahel, Sudan) have seasonal grasses and scattered trees.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 69",
+        "Question": {
+            "content": "Sparse vegetation with tall dry grasses is characteristic of ... biome:",
+            "type": "OBJ",
+            "options": [
+                "Rainforest",
+                "Sahel",
+                "Desert",
+                "Guinea savanna"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Guinea savanna"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>Guinea savanna</strong> has tall grasses and sparse trees, adapted to wet/dry seasons. Deserts are arid; rainforests are densely vegetated; the Sahel is drier with shorter grasses.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 70",
+        "Question": {
+            "content": "The gradual change that occurs in organisms over time is called...",
+            "type": "OBJ",
+            "options": [
+                "Mutation",
+                "Evolution",
+                "Motivation",
+                "Assortment"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Evolution"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Evolution</strong> describes genetic changes in populations over generations. <em>Mutation</em> is a DNA alteration; <em>motivation</em> and <em>assortment</em> are unrelated.</div>"
+        }
+    }
+]
+
+
+
+

@@ -1,0 +1,1551 @@
+[{
+  "type": "pageInfo",
+  "kind": "pureOBJ",
+  "course_title": "General Biology II",
+  "code": "FSB 102.2",
+  "session": "2021/2022",
+  "time": "90"
+},
+{
+  "type": "Instruction",
+  "content": "Attempt all Questions."
+},
+{
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "The species concept which rests on the assumption that members share an overall similarity and are separated from other species by a gap in variation is:",
+      "type": "OBJ",
+      "options": [
+        "Biological",
+        "Morphological-based taxonomic",
+        "Phenetic",
+        "Phylogenetic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Phenetic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>phenetic species concept</strong> groups organisms based on overall similarity (morphology, behavior) without considering evolutionary history. Contrast with <em>phylogenetic</em> (shared ancestry) or <em>biological</em> (reproductive isolation) concepts.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "How many periods/phases are there in the development of plant classification?",
+      "type": "OBJ",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "2"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "4"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Plant classification evolved through <strong>4 phases</strong>: (1) Artificial (Linnaeus), (2) Natural (morphology), (3) Phylogenetic (evolution), and (4) Modern (molecular data).</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Which organism undergoes heteromorphic alternation of generations between haploid gamont and diploid agamont forms?",
+      "type": "OBJ",
+      "options": [
+        "Fungi",
+        "Foraminifera",
+        "Animals"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Foraminifera"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Foraminifera</strong> (marine protists) exhibit a life cycle alternating between haploid (gamont) and diploid (agamont) stages. Animals lack alternation of generations.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Which is true about ribosomal RNA sequence characterization in living systems?",
+      "type": "OBJ",
+      "options": [
+        "Archaea comprises methanogenic bacteria",
+        "Eukaryotes lack representative cytoplasmic components",
+        "Eubacteria do not comprise all bacteria",
+        "Eubacteria are both unicellular and multicellular"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Archaea comprises methanogenic bacteria"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Archaea</strong> include methanogens (e.g., <em>Methanobacterium</em>), distinct from Eubacteria. rRNA sequencing reveals this division (Three-Domain System).</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Which is not a Gymnosperm?",
+      "type": "OBJ",
+      "options": [
+        "Gnetophytes",
+        "Mangolids",
+        "Ginkgo",
+        "Cycads"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mangolids"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Gymnosperms include <strong>Gnetophytes</strong>, <strong>Ginkgo</strong>, and <strong>Cycads</strong>. 'Mangolids' is a fabricated term; mangroves are angiosperms.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "A classification system based on evolutionary relationships is called:",
+      "type": "OBJ",
+      "options": [
+        "Chemotaxonomy",
+        "Numerical",
+        "Cytotaxonomy",
+        "Phylogenetic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Phylogenetic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Phylogenetic classification</strong> groups organisms by shared ancestry (e.g., cladistics). <em>Chemotaxonomy</em> uses biochemical traits; <em>numerical</em> relies on statistical similarity.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "An example of Rhodophyceae is:",
+      "type": "OBJ",
+      "options": [
+        "Chlamydomonas sp",
+        "Ectocarpus sp",
+        "Polysiphonia sp",
+        "Spirogyra sp"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Polysiphonia sp"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Polysiphonia</strong> is a red alga (Rhodophyceae), containing phycoerythrin. <em>Chlamydomonas</em> (green algae) and <em>Ectocarpus</em> (brown algae) are incorrect.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "Which class of algae possesses chlorophyll a and c, carotenoids, and xanthophyll?",
+      "type": "OBJ",
+      "options": [
+        "Chlorophyceae",
+        "Phaeophyceae",
+        "Rhodophyceae",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Phaeophyceae"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Phaeophyceae</strong> (brown algae, e.g., kelp) contain chlorophyll a/c, fucoxanthin (xanthophyll), and carotenoids. Chlorophyceae have chlorophyll a/b.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "In which group do male and female gametophytes lack free-living independence?",
+      "type": "OBJ",
+      "options": [
+        "Thallophytes",
+        "Bryophytes",
+        "Pteridophytes",
+        "Gymnosperms"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gymnosperms"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Gymnosperms</strong> have reduced gametophytes dependent on the sporophyte (e.g., pollen grains). Bryophytes/Pteridophytes have free-living gametophytes.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "All but one are advantages of adaptation:",
+      "type": "OBJ",
+      "options": [
+        "Defense against natural enemies",
+        "Do not survive marginal climatic changes",
+        "Increased fecundity",
+        "Easily secure livelihood"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Do not survive marginal climatic changes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Adaptations <strong>enhance survival</strong> (e.g., camouflage, drought tolerance). Inability to tolerate climate shifts is a <em>disadvantage</em>.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Functional adaptation is also called:",
+      "type": "OBJ",
+      "options": [
+        "Behavioral",
+        "Physiological",
+        "Structural",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Physiological"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Physiological adaptations</strong> involve internal processes (e.g., enzyme function in extremophiles). Contrast with <em>structural</em> (morphology) or <em>behavioral</em> (actions).</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "Striga hermonthica exhibits:",
+      "type": "OBJ",
+      "options": [
+        "Antibiosis",
+        "Parasitism",
+        "Predation",
+        "Competition"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Parasitism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Striga</strong> (witchweed) is a parasitic plant that attaches to host roots, stealing nutrients. It does not kill the host directly (unlike predation).</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "Which ocean zone meets the land?",
+      "type": "OBJ",
+      "options": [
+        "Abyssal",
+        "Intertidal",
+        "Benthic",
+        "Pelagic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Intertidal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>intertidal zone</strong> lies between high and low tide marks, directly contacting land. <em>Benthic</em> refers to the seafloor; <em>pelagic</em> is open water.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "Differential survival/reproduction due to phenotypic differences is:",
+      "type": "OBJ",
+      "options": [
+        "Polyploidy",
+        "Mutation",
+        "Hybridization",
+        "Natural selection"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Natural selection"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Natural selection</strong> favors traits enhancing survival/reproduction (e.g., Darwin’s finches). Other options are mechanisms of variation, not selection.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "Plants adapted to live on land or submerged in water are called:",
+      "type": "OBJ",
+      "options": [
+        "Elodoids",
+        "Helophytes",
+        "Isoetids",
+        "Amphiphytes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amphiphytes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Amphiphytes</strong> (e.g., mangroves) tolerate both aquatic and terrestrial conditions. <em>Helophytes</em> are rooted in water with emergent leaves.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "Which is not an adaptation of halophytes?",
+      "type": "OBJ",
+      "options": [
+        "Surfaces covered with trichomes",
+        "Absence of fleshy stems/leaves",
+        "Presence of spines/prickles",
+        "Presence of cutinized thick epidermis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Presence of spines and prickles"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Halophytes (salt-tolerant plants) have <strong>salt glands (trichomes)</strong>, succulent tissues, and thick cuticles. Spines are typical of xerophytes (desert plants).</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "Temperate grasslands receive ______ precipitation.",
+      "type": "OBJ",
+      "options": [
+        "Moderate",
+        "Variable",
+        "Low",
+        "High"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Moderate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Temperate grasslands (e.g., prairies) have <strong>moderate rainfall (250–750 mm/year)</strong>, insufficient for forests but more than deserts.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "Which is not a threat to the Tundra biome?",
+      "type": "OBJ",
+      "options": [
+        "Excessive evaporation",
+        "Climate change",
+        "Invasive species",
+        "Oil spill pollution"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Excessive evaporation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The tundra faces <strong>permafrost thaw</strong> (climate change), invasive species, and oil spills. Evaporation is minimal due to cold temperatures.</div>"
+    }
+  },
+  {
+        "type": "Question",
+        "name": "Question 19",
+        "Question": {
+            "content": "Chaparral may not be found in",
+            "type": "OBJ",
+            "options": [
+                "U.S.A",
+                "Ukraine",
+                "Morocco",
+                "New Zealand"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Ukraine"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Chaparral is a shrubland biome found in regions with a Mediterranean climate, such as parts of the <strong>U.S.A (California)</strong>, <strong>Morocco</strong>, and <strong>New Zealand</strong>. <strong>Ukraine</strong> has a different climate (temperate grassland/steppe) and does not support chaparral vegetation.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 20",
+        "Question": {
+            "content": "Excluding FCT, how many states border Kogi state - a southern Guinea savanna state?",
+            "type": "OBJ",
+            "options": [
+                "3",
+                "5",
+                "7",
+                "9"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "9"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Kogi State in Nigeria borders <strong>9 states</strong> (excluding the Federal Capital Territory): Niger, Kwara, Ekiti, Ondo, Edo, Anambra, Enugu, Benue, and Nassarawa.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 21",
+        "Question": {
+            "content": "Organisms with three layers of cells are ______",
+            "type": "OBJ",
+            "options": [
+                "Tripicblast",
+                "Tripoelec",
+                "Mesoglea",
+                "Germ layers"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Germ layers"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Triploblastic organisms have <strong>three germ layers</strong> (ectoderm, mesoderm, and endoderm). <em>Tripicblast</em> and <em>Tripoelec</em> are misspellings, while <em>Mesoglea</em> refers to a gelatinous layer in diploblastic animals (e.g., jellyfish).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 22",
+        "Question": {
+            "content": "Monkey belongs to class ______",
+            "type": "OBJ",
+            "options": [
+                "Monatoda",
+                "Animalia",
+                "Mammalian",
+                "Primate"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Mammalian"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Monkeys are <strong>mammals</strong> (class Mammalia), characterized by hair, mammary glands, and three middle ear bones. While they belong to the order <em>Primates</em>, the question asks for their class. <em>Animalia</em> is their kingdom.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 23",
+        "Question": {
+            "content": "______ is organism in subclass Chondrichtytes",
+            "type": "OBJ",
+            "options": [
+                "Tilapia",
+                "Shark",
+                "Planaria",
+                "Platyhelminthes"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Shark"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Sharks</strong> belong to the subclass Chondrichthyes (cartilaginous fish). <em>Tilapia</em> is a bony fish, while <em>Planaria</em> and <em>Platyhelminthes</em> are flatworms.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 24",
+        "Question": {
+            "content": "Characteristics of mollusca include ______",
+            "type": "OBJ",
+            "options": [
+                "Joint foot",
+                "Joint body",
+                "Soft body",
+                "All of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Soft body"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Mollusks (e.g., snails, octopuses) are characterized by a <strong>soft body</strong>, often protected by a hard shell. They have a muscular foot (not jointed) and no jointed body parts.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 25",
+        "Question": {
+            "content": "Example of a jawless fish is ______",
+            "type": "OBJ",
+            "options": [
+                "Myxuni",
+                "Shark",
+                "Tilapia",
+                "Salmon"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Myxuni"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Myxini</strong> (hagfish) are jawless fish (class Agnatha). <em>Shark</em>, <em>Tilapia</em>, and <em>Salmon</em> have jaws (Gnathostomata).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 26",
+        "Question": {
+            "content": "Organism that produces amniotic eggs does not include ______",
+            "type": "OBJ",
+            "options": [
+                "Bird",
+                "Lizard",
+                "Fish",
+                "Snake"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Fish"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Fish</strong> lay anamniotic eggs (lack amniotic membranes). <em>Birds</em>, <em>lizards</em>, and <em>snakes</em> are amniotes (produce eggs with protective membranes).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 27",
+        "Question": {
+            "content": "The symmetrical that will produce the mirror images of each other is called",
+            "type": "OBJ",
+            "options": [
+                "Asymmetrical",
+                "Radial",
+                "Monosymetrical",
+                "Bilateral"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Bilateral"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Bilateral symmetry</strong> divides an organism into mirror-image halves (e.g., humans). <em>Radial</em> symmetry (e.g., starfish) has multiple planes, while <em>asymmetrical</em> organisms lack symmetry.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 28",
+        "Question": {
+            "content": "One-celled organism is called ______",
+            "type": "OBJ",
+            "options": [
+                "Monocellular",
+                "Unicellular",
+                "Multicellular",
+                "Unicellate"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Unicellular"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>A <strong>unicellular</strong> organism consists of a single cell (e.g., bacteria, amoeba). <em>Monocellular</em> and <em>unicellate</em> are non-standard terms.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 29",
+        "Question": {
+            "content": "Common feature in organisms belonging to the class Aves is",
+            "type": "OBJ",
+            "options": [
+                "Hairs",
+                "Beak",
+                "Nails",
+                "Blate"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Beak"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Birds (class Aves) universally have <strong>beaks</strong> (modified jaws). <em>Hairs</em> are mammalian, <em>nails</em> are primate features, and <em>blate</em> is nonsensical.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 30",
+        "Question": {
+            "content": "______ is an organism in phylum Coelenterata",
+            "type": "OBJ",
+            "options": [
+                "Coral",
+                "Turbellaria",
+                "Planaria",
+                "Ascaris"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Coral"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Corals</strong> belong to phylum Cnidaria (formerly Coelenterata). <em>Turbellaria</em> and <em>Planaria</em> are flatworms (Platyhelminthes), while <em>Ascaris</em> is a nematode.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 31",
+        "Question": {
+            "content": "When a wide range of animals are distributed throughout the world in all climatic zones, it is referred to as distribution",
+            "type": "OBJ",
+            "options": [
+                "Continuous",
+                "Bipolar",
+                "Discontinuous",
+                "Isolated"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Continuous"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Continuous distribution</strong> describes species found across multiple climatic zones without major gaps. <em>Discontinuous</em> implies fragmented ranges, while <em>bipolar</em> refers to polar and opposite temperate regions.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 32",
+        "Question": {
+            "content": "Limbs are modified into paddles in some aquatic animals",
+            "type": "OBJ",
+            "options": [
+                "Primary",
+                "Secondary",
+                "Tertiary",
+                "None of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Secondary"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Secondary</strong> adaptation refers to re-evolution of aquatic traits in descendants of terrestrial animals (e.g., whale flippers). <em>Primary</em> adaptations are seen in animals never leaving water (e.g., fish).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 33",
+        "Question": {
+            "content": "______ were the earlier filter-feeding animals",
+            "type": "OBJ",
+            "options": [
+                "Arthropods",
+                "Echinoderms",
+                "Nemotodes",
+                "Sponges"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Sponges"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Sponges</strong> (phylum Porifera) are among the earliest filter-feeders, using choanocytes to trap food. <em>Arthropods</em> and <em>echinoderms</em> evolved later.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 34",
+        "Question": {
+            "content": "Which of these is a genus of Elephant surviving in Africa today?",
+            "type": "OBJ",
+            "options": [
+                "Elaphas",
+                "Loxodonta",
+                "Peripalus",
+                "Platypus"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Loxodonta"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The African elephant's genus is <strong>Loxodonta</strong>. <em>Elaphas</em> refers to Asian elephants, <em>Peripalus</em> is a misspelling, and <em>Platypus</em> is an egg-laying mammal.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 35",
+        "Question": {
+            "content": "The early animals include",
+            "type": "OBJ",
+            "options": [
+                "Parazoans",
+                "Flatworms",
+                "Coelenterates",
+                "All of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "All of the above"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Early animals included <strong>parazoans</strong> (sponges), <strong>flatworms</strong>, and <strong>coelenterates</strong> (cnidarians), representing simple body plans from the Precambrian/Cambrian periods.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 36",
+        "Question": {
+            "content": "Significant Animal adaptation in the tropical rainforest are",
+            "type": "OBJ",
+            "options": [
+                "Dense fur",
+                "Camouflage",
+                "Nocturnal life",
+                "Reduced sweating"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Camouflage"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Camouflage</strong> is critical for avoiding predators in dense rainforests. <em>Dense fur</em> is maladaptive in humid climates, while <em>nocturnal life</em> and <em>reduced sweating</em> are secondary.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 37",
+        "Question": {
+            "content": "Primary aquatic animals have no terrestrial ancestry",
+            "type": "OBJ",
+            "options": [
+                "True",
+                "False",
+                "Neither true nor false",
+                "All of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "True"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>True</strong>: Primary aquatic animals (e.g., fish) evolved directly in water without terrestrial ancestors. Secondary aquatic animals (e.g., whales) returned to water later.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 38",
+        "Question": {
+            "content": "Some aquatic invertebrates wear protective shells in order to do what?",
+            "type": "OBJ",
+            "options": [
+                "Avoid predation",
+                "Chase their prey",
+                "Pump water for digestion",
+                "Exchange oxygen"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Avoid predation"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Shells primarily serve to <strong>avoid predation</strong> (e.g., mollusks, crustaceans). Other functions (e.g., oxygen exchange) are secondary.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 39",
+        "Question": {
+            "content": "Animals of the polar regions are found in ______",
+            "type": "OBJ",
+            "options": [
+                "Iceland",
+                "Norway",
+                "Sweden",
+                "All of the above"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "All of the above"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Polar-adapted animals (e.g., polar bears, Arctic foxes) inhabit <strong>Iceland</strong>, <strong>Norway</strong> (Svalbard), and <strong>Sweden</strong> (northern regions).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 40",
+        "Question": {
+            "content": "The swim-bladder in most bony fishes is homologous with the",
+            "type": "OBJ",
+            "options": [
+                "Heart",
+                "Liver",
+                "Pancreas",
+                "Lungs"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Lungs"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>swim-bladder</strong> evolved from primitive lungs in early bony fish, sharing developmental origins with tetrapod <strong>lungs</strong>.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 41",
+        "Question": {
+            "content": "The scientific study of fungi is termed",
+            "type": "OBJ",
+            "options": [
+                "Fungus",
+                "Mycelium",
+                "Mycology",
+                "Mycology"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Mycology"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The study of fungi is called <strong>mycology</strong> (from Greek <em>mykes</em> = fungus). <em>Mycelium</em> refers to fungal hyphae networks.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 42",
+        "Question": {
+            "content": "Two types of flagellum found in motile fungi are",
+            "type": "OBJ",
+            "options": [
+                "Cilia and podia",
+                "Whiplash and Cilia",
+                "Whiplash and Tinsel",
+                "Penicilia and Aspergillia"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Whiplash and Tinsel"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Fungal flagella include <strong>whiplash</strong> (smooth) and <strong>tinsel</strong> (hairy) types. <em>Cilia</em> are unrelated (found in protozoa), and <em>Penicilia/Aspergillia</em> are fungal genera.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 43",
+        "Question": {
+            "content": "Lichen is a mutual association between",
+            "type": "OBJ",
+            "options": [
+                "Algae and plants",
+                "Fungi and Algae",
+                "Mushroom and Rhizopus",
+                "Puccina and Taphrina"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Fungi and Algae"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Lichens are symbiotic partnerships between <strong>fungi</strong> (usually Ascomycota) and <strong>algae</strong> (or cyanobacteria). The fungus provides structure, while the algae contribute photosynthesis.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 44",
+        "Question": {
+            "content": "Lichens and Mycorrhizae are examples of ______ mode of nutrition",
+            "type": "OBJ",
+            "options": [
+                "Parasitic",
+                "Symbiotic",
+                "Saprophytic",
+                "Commensal"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Symbiotic"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Lichens</strong> (fungi + algae) and <strong>mycorrhizae</strong> (fungi + plant roots) are <em>symbiotic</em> relationships where both partners benefit. <em>Parasitic</em> harms the host, <em>saprophytic</em> feeds on dead matter, and <em>commensal</em> benefits one without affecting the other.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 45",
+        "Question": {
+            "content": "All the Species in the Kingdom Chromista produce zoospores and each zoospore has at least a ______ flagellum",
+            "type": "OBJ",
+            "options": [
+                "Tinsel",
+                "Cilia",
+                "Whiplash",
+                "Podia"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Whiplash"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Chromista zoospores have a <strong>whiplash</strong> flagellum (smooth, for propulsion). <em>Tinsel</em> flagella (hairy) may also occur, but the question specifies \"at least one,\" and whiplash is universal. <em>Cilia</em> and <em>podia</em> are unrelated structures.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 46",
+        "Question": {
+            "content": "Zygomycete is a class of Zygomycota in the Kingdom Emycota, its common example is",
+            "type": "OBJ",
+            "options": [
+                "Rhizopus stolonifera",
+                "Zygospore amycotira",
+                "Flagellus sparangii",
+                "Bifiggellus zoosporis"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Rhizopus stolonifera"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Rhizopus stolonifer</strong> (bread mold) is a classic zygomycete. Other options are fabricated names. Note: \"Emycota\" is likely a typo for \"Eumycota\" (true fungi).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 47",
+        "Question": {
+            "content": "Slime moulds are peculiar examples of Kingdom Protista, two of the moulds are extensively studied",
+            "type": "OBJ",
+            "options": [
+                "Modular and circular slime moulds",
+                "Cellular and Modular slime moulds",
+                "Plasmodial and Modular slime moulds",
+                "Cellular and Plasmodial slime moulds"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Cellular and Plasmodial slime moulds"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The two major slime mold groups are <strong>cellular</strong> (e.g., <em>Dictyostelium</em>) and <strong>plasmodial</strong> (e.g., <em>Physarum</em>). \"Modular\" is not a recognized classification.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 48",
+        "Question": {
+            "content": "All of these are medicines produced from fungi except",
+            "type": "OBJ",
+            "options": [
+                "Penicillin",
+                "Griseofulvin",
+                "Fusidic acid",
+                "Ascorbic acid"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Ascorbic acid"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Ascorbic acid</strong> (vitamin C) is synthesized by plants/animals, not fungi. <em>Penicillin</em>, <em>griseofulvin</em>, and <em>fusidic acid</em> are fungal-derived antibiotics.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 49",
+        "Question": {
+            "content": "Some fungi produce ______ substances that are biologically toxic to plants and animals",
+            "type": "OBJ",
+            "options": [
+                "Ciclsporins",
+                "Dermatophoxins",
+                "Mycotoxins",
+                "Ciclotoxins"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Mycotoxins"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Mycotoxins</strong> (e.g., aflatoxins) are fungal toxins. <em>Ciclsporins</em> (misspelling of cyclosporins) are immunosuppressants, while other options are nonsensical.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 50",
+        "Question": {
+            "content": "Fungi are generally grouped as",
+            "type": "OBJ",
+            "options": [
+                "Autotrophs",
+                "Chemotrophs",
+                "Heterotrophs",
+                "Saprophytes"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Heterotrophs"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Fungi are <strong>heterotrophs</strong> (absorb organic matter). While many are <em>saprophytes</em> (feed on dead material), this is a subset of heterotrophy. <em>Autotrophs</em> (e.g., plants) produce their own food.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 51",
+        "Question": {
+            "content": "Carle Woese, in 1990 grouped living organisms into three domains. These are",
+            "type": "OBJ",
+            "options": [
+                "Archibacteria, Eubacteria and the Eucarya",
+                "Monera, Plantae and Animalia",
+                "Protista, Monera and Animalia",
+                "Eubacteria, Plantae and Protista"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Archibacteria, Eubacteria and the Eucarya"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Woese's domains are <strong>Archaea</strong> (archaebacteria), <strong>Bacteria</strong> (eubacteria), and <strong>Eukarya</strong> (eucarya). Other options reflect outdated kingdoms.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 52",
+        "Question": {
+            "content": "Archae consist of the following **except**",
+            "type": "OBJ",
+            "options": [
+                "A cell membrane consisting of a monolayer of hydrocarbons with ether linkages",
+                "Nuclear material not surrounded by a nuclear membrane",
+                "Cytoplasmic membrane consisting of a unit membrane (two layers of lipids sandwiching a protein layer)",
+                "Cell wall made up of proteins and glycoproteins"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Cytoplasmic membrane consisting of a unit membrane (two layers of lipids sandwiching a protein layer)"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Archaea have <strong>unique lipid monolayers with ether linkages</strong> (not bilayer unit membranes). They lack nuclei (like bacteria) and often have protein/glycoprotein cell walls.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 53",
+        "Question": {
+            "content": "Which of the following statements is **false**",
+            "type": "OBJ",
+            "options": [
+                "The cell wall of the Eubacteria is composed of peptidoglycan",
+                "Archaea possess coenzyme M involved in CH<sub>4</sub> metabolism",
+                "The cell wall of Eubacteria is made up of proteins and glycoproteins",
+                "Archibacteria possess factor F<sub>420</sub> involved in electron transport"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "The cell wall of Eubacteria is made up of proteins and glycoproteins"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Eubacteria have <strong>peptidoglycan</strong> cell walls, not protein/glycoprotein (which describes some archaea). Other statements about archaea (coenzyme M, F<sub>420</sub>) are true.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 54",
+        "Question": {
+            "content": "Microscopy can enable observation of the following **except**",
+            "type": "OBJ",
+            "options": [
+                "The shape, size (diameter) of the cell",
+                "Characteristic arrangement of the species (e.g., singly, in pairs, chains)",
+                "The presence of flagella, the number of flagella and the arrangement of flagella",
+                "The pigmentation, diameter, elevation, margins, translucency of the colonies"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "The pigmentation, diameter, elevation, margins, translucency of the colonies"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Colony morphology (pigmentation, elevation) is observed with the <strong>naked eye or macroscopy</strong>, not microscopy. Microscopy reveals cellular features (shape, flagella).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 55",
+        "Question": {
+            "content": "Cultural characteristics may involve the ability of bacteria to",
+            "type": "OBJ",
+            "options": [
+                "Grow in aerobic conditions (in the presence of air) or under anaerobic conditions in the complete absence of oxygen",
+                "Catalyze certain reactions and produce a product because of the possession of certain specific enzymes which is detected by the production of a colour change in the medium",
+                "Recognize complementary sequences within microorganisms and bind to them",
+                "Antibiotics binding with antigen"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Grow in aerobic conditions (in the presence of air) or under anaerobic conditions in the complete absence of oxygen"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Cultural characteristics include <strong>oxygen requirements</strong> (aerobic/anaerobic growth). Other options describe biochemical tests (b), DNA hybridization (c), or serology (d).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 56",
+        "Question": {
+            "content": "Serology makes use of",
+            "type": "OBJ",
+            "options": [
+                "Specific enzymes possessed by bacteria to catalyze certain reactions and produce a product",
+                "Specific antisera binding to antigens to produce agglutination reactions",
+                "Hybridization of DNA molecules",
+                "Annealing of RNA Molecules"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Specific antisera binding to antigens to produce agglutination reactions"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Serology detects <strong>antigen-antibody interactions</strong> (e.g., agglutination). DNA/RNA methods are molecular techniques, and enzyme reactions are biochemical tests.</div>"
+        }
+    },
+{
+  "type": "Question",
+  "name": "Question 57",
+  "Question": {
+    "content": "Haemagglutination reactions are caused by",
+    "type": "OBJ",
+    "options": [
+      "Bacteria acting as bridge linking more than one red blood cell to produce visible clumps",
+      "Protozoa acting as bridge linking more than one red blood cell to produce visible clumps",
+      "Antibodies cross-linking antigens on red blood cell surfaces",
+      "Red blood cells acting as bridge linking more than one red blood cell to produce visible clumps"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Antibodies cross-linking antigens on red blood cell surfaces"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Hemagglutination occurs when <strong>antibodies bind to antigens on RBCs</strong>, forming visible clumps. Viruses (e.g., influenza) can also cause this, but the primary mechanism involves immune complexes. Bacteria/protozoa are not typical agents of hemagglutination.</div>"
+  }
+},
+{
+        "type": "Question",
+        "name": "Question 58",
+        "Question": {
+            "content": "Which of the following statements is NOT TRUE",
+            "type": "OBJ",
+            "options": [
+                "A plaque is produced by the lysis of the bacteria by a phage",
+                "Similarity of rRNA of two different organisms is believed to show how far back in the past the two organisms branched off a common ancestor",
+                "DNA fingerprinting involves determination of the sequence of bases in the DNA of an organism",
+                "Nucleic acid Hybridization does not involve the heating, breaking of bonds, cooling of the strands and the Reformation of hydrogen bonds again"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Nucleic acid Hybridization does not involve the heating, breaking of bonds, cooling of the strands and the Reformation of hydrogen bonds again"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Nucleic acid hybridization <strong>requires denaturation (heating) and renaturation (cooling)</strong> to allow complementary strands to bind. The false statement contradicts this process. Other options are true: plaques result from phage lysis, rRNA similarities indicate evolutionary relationships, and DNA fingerprinting analyzes base sequences.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 59",
+        "Question": {
+            "content": "Which of the following statements is TRUE",
+            "type": "OBJ",
+            "options": [
+                "Obligate anaerobes are able to use oxygen as final electron acceptor during respiratory metabolism",
+                "Obligate anaerobes are not able to use oxygen as terminal electron acceptor during respiratory metabolism",
+                "Aerobes are able to use nitrates or sulphates as terminal electron acceptors"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Obligate anaerobes are not able to use oxygen as terminal electron acceptor during respiratory metabolism"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Obligate anaerobes</strong> are poisoned by oxygen and rely on anaerobic respiration (e.g., using sulfate/nitrate). Aerobes use oxygen, not alternative acceptors. The first option is false (obligate anaerobes cannot use O<sub>2</sub>).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 60",
+        "Question": {
+            "content": "Capnophilics are",
+            "type": "OBJ",
+            "options": [
+                "Require sulphate for growth",
+                "Require 21% of oxygen for growth",
+                "Require concentrations of CO<sub>2</sub> 5% - 10% for growth"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Require concentrations of CO<sub>2</sub> 5% - 10% for growth"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Capnophiles</strong> (e.g., <em>Neisseria</em>) thrive in high CO<sub>2</sub> (5–10%), mimicking host environments. They do not require sulfate or standard oxygen levels (21%).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 61",
+        "Question": {
+            "content": "The Kingdom Protista was initially proposed by",
+            "type": "OBJ",
+            "options": [
+                "Ernst Haeckel",
+                "John Hogg",
+                "Herbert Copeland",
+                "Robert Whittaker"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Ernst Haeckel"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Ernst Haeckel</strong> proposed Protista in 1866 for unicellular organisms. Whittaker later included it in his five-kingdom system (1969). Hogg and Copeland contributed to classification but did not originate Protista.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 62",
+        "Question": {
+            "content": "Which of the following is NOT a subphylum of plant-like protists?",
+            "type": "OBJ",
+            "options": [
+                "Myxomycophyta",
+                "Pyrrophyta",
+                "Chrysophyta",
+                "Euglenophyta"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Myxomycophyta"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Myxomycophyta</strong> are slime molds (fungus-like protists). <em>Pyrrophyta</em> (dinoflagellates), <em>Chrysophyta</em> (golden algae), and <em>Euglenophyta</em> are photosynthetic plant-like protists.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 63",
+        "Question": {
+            "content": "The following are examples of fungal-like protists except:",
+            "type": "OBJ",
+            "options": [
+                "Slime moulds",
+                "Downy mildews",
+                "Diatoms",
+                "Water moulds"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Diatoms"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Diatoms</strong> are plant-like protists (algae) with silica shells. <em>Slime molds</em>, <em>downy mildews</em>, and <em>water molds</em> are fungus-like protists (Oomycota/Myxomycota).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 64",
+        "Question": {
+            "content": "The five-kingdom system of classification where the kingdom Protista was one of them was proposed by",
+            "type": "OBJ",
+            "options": [
+                "Carle Woese",
+                "Edouard Chatton",
+                "Robert Whittaker",
+                "Herbert Copeland"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Robert Whittaker"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Robert Whittaker</strong> proposed the five-kingdom system (Monera, Protista, Fungi, Plantae, Animalia) in 1969. Woese introduced the three-domain system (1977), while Chatton/Copeland contributed earlier classifications.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 65",
+        "Question": {
+            "content": "Classification of algae into taxonomic groups is based on the rule of the classification of",
+            "type": "OBJ",
+            "options": [
+                "Lichens",
+                "Plant-like protist",
+                "Land plant",
+                "Plant generally"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Plant-like protist"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Algae are classified as <strong>plant-like protists</strong> (eukaryotic, photosynthetic). Lichens are symbiotic, and land plants are a separate kingdom. Algae lack true roots/stems, distinguishing them from \"plants generally.\"</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 66",
+        "Question": {
+            "content": "Which of the following is NOT TRUE of the division Euglenophyta?",
+            "type": "OBJ",
+            "options": [
+                "They are green and photosynthetic in nature",
+                "They are Unicellular Flagellates",
+                "Possession of a single type of flagella",
+                "Their chlorophyll is stored outside the chloroplast"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Their chlorophyll is stored outside the chloroplast"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Euglenophytes store chlorophyll <strong>inside chloroplasts</strong> (like all photosynthetic eukaryotes). They are unicellular, flagellated, and mixotrophic (photosynthetic + heterotrophic).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 67",
+        "Question": {
+            "content": "The major groups of protozoans comprise the following EXCEPT:",
+            "type": "OBJ",
+            "options": [
+                "Flagellated",
+                "Sporozoans",
+                "Parasitic",
+                "Amoeboid"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Parasitic"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Protozoans are grouped by <strong>locomotion</strong> (flagellated, amoeboid, sporozoans, ciliated). \"Parasitic\" is a lifestyle, not a taxonomic group (e.g., some flagellates/sporozoans are parasitic).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 68",
+        "Question": {
+            "content": "Which of these organelles is absent in Amoeba?",
+            "type": "OBJ",
+            "options": [
+                "Cytoplasm",
+                "Food vacuoles",
+                "Pellicle",
+                "Nucleus"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Pellicle"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Amoebas</strong> lack a <em>pellicle</em> (rigid outer layer found in euglenoids/paramecia). They have cytoplasm, food vacuoles (phagocytosis), and nuclei.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 69",
+        "Question": {
+            "content": "Protista is a wide complex group of mainly:",
+            "type": "OBJ",
+            "options": [
+                "Multicellular eukaryotes",
+                "Unicellular eukaryotes",
+                "Prokaryotes",
+                "Free living organisms"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Unicellular eukaryotes"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Protists are primarily <strong>unicellular eukaryotes</strong> (e.g., amoebas, paramecia). Some are multicellular (e.g., kelp), but this is secondary. They are distinct from prokaryotes (bacteria/archaea).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 70",
+        "Question": {
+            "content": "All of the following are classes of the Division Chlorophyta EXCEPT:",
+            "type": "OBJ",
+            "options": [
+                "Chlorophyceae",
+                "Charophyceae",
+                "Prasinophyceae",
+                "Chrysophyceae"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Chrysophyceae"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Chrysophyceae</strong> are golden algae (division Chrysophyta), not green algae (Chlorophyta). <em>Chlorophyceae</em>, <em>Charophyceae</em>, and <em>Prasinophyceae</em> are Chlorophyta classes.</div>"
+        }
+    }
+]
+
