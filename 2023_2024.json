@@ -1019,28 +1019,6 @@
         },
         "Explanation": {
             "type": "string",
-            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Mangrove trees</strong> (e.g., <em>Rhizophora</em>) develop prop roots for stability in Nigeria's coastal swamps. The Sahel and savanna lack such adaptations.</div>"
-        }
-    },
-    {
-        "type": "Question",
-        "name": "Question 46",
-        "Question": {
-            "content": "... trees with prop roots are usually found in the vegetation of Nigeria:",
-            "type": "OBJ",
-            "options": [
-                "Sahel",
-                "Guinea Savanna",
-                "Hambres",
-                "Mangrove swamps"
-            ]
-        },
-        "Answer": {
-            "type": "string",
-            "content": "Mangrove swamps"
-        },
-        "Explanation": {
-            "type": "string",
             "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Mangroves</strong> (e.g., <em>Rhizophora</em>) develop prop roots for stability in coastal swamps. Sahel/savannas lack such trees; \"Hambres\" is non-standard.</div>"
         }
     },
