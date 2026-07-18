@@ -1,0 +1,835 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "General Biology II",
+    "code": "FSB_102.2",
+    "session": "Animal Form and Function",
+    "time": 90,
+    "topics": [
+      "Animal Development",
+      "Animal Form and Function",
+      "Biodiversity and Classification",
+      "Community Ecology",
+      "Ecosystems and Biomes",
+      "Evolutionary Biology",
+      "Phylogeny and Systematics",
+      "Plant Structure and Function",
+      "Population Ecology",
+      "Prokaryotic Biology",
+      "Protists and Fungi"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 57 @ 2023/2024",
+    "Question": {
+      "content": "The ability to reproduce in animals is called:",
+      "type": "OBJ",
+      "options": [
+        "Fecundity",
+        "Sexuality",
+        "Bisexuality",
+        "Commensalism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fecundity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Fecundity</strong> measures reproductive potential (number of offspring). <em>Sexuality</em> refers to mating types; <em>commensalism</em> is a symbiotic relationship.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Animal Form and Function",
+      "Reproduction",
+      "Population Ecology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 67 @ 2023/2024",
+    "Question": {
+      "content": "The reptiles have ... digits:",
+      "type": "OBJ",
+      "options": [
+        "five",
+        "Three",
+        "Four",
+        "Six"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "five"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Most reptiles (e.g., lizards, turtles) have <strong>five digits</strong> per limb, a trait inherited from early tetrapods. Some species may exhibit reduced digits (e.g., snakes).</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Animal Diversity",
+      "Animal Form and Function",
+      "Biodiversity and Systematics",
+      "Taxonomy"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 1 @ 2019/2020",
+    "Question": {
+      "content": "______ is the study of microscopic structures of cellular tissues.",
+      "type": "OBJ",
+      "options": [
+        "Histology",
+        "Cytology",
+        "Microbiology",
+        "Genetics"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Histology"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Histology</strong> is the branch of biology focused on the microscopic study of tissues and cells. It involves examining thin tissue sections under a microscope to understand their structure and function.</div>"
+    },
+    "topic": [
+      "Histology",
+      "Animal Form and Function",
+      "Plant Structure and Function"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 3 @ 2019/2020",
+    "Question": {
+      "content": "Taxis and Tactic are features of the living characteristic of:",
+      "type": "OBJ",
+      "options": [
+        "Respiration",
+        "Movement",
+        "Reproduction",
+        "Irritability"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Movement"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Taxis</strong> (directional movement) and <strong>Tactic</strong> (response to stimuli) are behaviors related to <strong>movement</strong>. Examples include phototaxis (movement toward light) in algae.</div>"
+    },
+    "topic": [
+      "Movement",
+      "Animal Form and Function",
+      "Plant Structure and Function"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 11 @ 2019/2020",
+    "Question": {
+      "content": "Organisms that tolerate long range of temperatures are ______.",
+      "type": "OBJ",
+      "options": [
+        "Homothermic",
+        "Monothermic",
+        "Heterothermic",
+        "Eurythermic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Eurythermic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Eurythermic</strong> organisms can survive wide temperature ranges (e.g., desert lizards). Contrast with <em>stenothermic</em> species that tolerate only narrow ranges.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Animal Form and Function",
+      "Ecosystems and Biomes"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 12 @ 2019/2020",
+    "Question": {
+      "content": "Reptiles and insects have ______ outer coverings that conserve water.",
+      "type": "OBJ",
+      "options": [
+        "waterproof",
+        "rubbery",
+        "slime",
+        "soft"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "waterproof"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Reptiles have <strong>keratinized scales</strong>, and insects have <strong>chitinous exoskeletons</strong>, both providing waterproofing to prevent desiccation.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Animal Form and Function",
+      "Adaptation"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 14 @ 2019/2020",
+    "Question": {
+      "content": "Euryhaline organisms tolerate long range of ______.",
+      "type": "OBJ",
+      "options": [
+        "Temperature",
+        "Salinity",
+        "Pressure",
+        "Rainfall"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Salinity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Euryhaline</strong> species (e.g., salmon, mangroves) survive in both fresh and saltwater by osmoregulation.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Animal Form and Function",
+      "Adaptation",
+      "Ecosystems and Biomes"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 15 @ 2019/2020",
+    "Question": {
+      "content": "Pneumatic bones are found in ______.",
+      "type": "OBJ",
+      "options": [
+        "Birds",
+        "Fish",
+        "Lizard",
+        "Frog"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Birds"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Birds have <strong>pneumatic bones</strong> (hollow, air-filled) to reduce weight for flight, connected to their respiratory system.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Animal Form and Function",
+      "Anatomy"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 17 @ 2019/2020",
+    "Question": {
+      "content": "Organisms that live within an animal are ______.",
+      "type": "OBJ",
+      "options": [
+        "Endozoology",
+        "Endozoic",
+        "Endolithic",
+        "Endotherm"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Endozoic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Endozoic</strong> organisms (e.g., gut parasites like tapeworms) live inside other animals. <em>Endolithic</em> refers to rock-inhabiting microbes.</div>"
+    },
+    "topic": [
+      "Symbiosis",
+      "Community Ecology",
+      "Animal Form and Function",
+      "Habitat"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 20 @ 2019/2020",
+    "Question": {
+      "content": "Fish breathe in water through the ______.",
+      "type": "OBJ",
+      "options": [
+        "gills",
+        "fin",
+        "scale",
+        "nostril"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "gills"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Gills</strong> extract dissolved oxygen from water via countercurrent exchange. Nostrils in fish detect chemicals but aren't for breathing.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Animal Form and Function",
+      "Anatomy",
+      "Respiration"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 21 @ 2019/2020",
+    "Question": {
+      "content": "Limb in fish is modified into ______.",
+      "type": "OBJ",
+      "options": [
+        "fins",
+        "legs",
+        "tail",
+        "fingers"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "fins"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Fish limbs are modified into <strong>fins</strong> (pectoral and pelvic fins) for stability and maneuverability in water. They lack true legs or fingers.</div>"
+    },
+    "topic": [
+      "Animal Form and Function",
+      "Anatomy",
+      "Adaptation",
+      "Movement"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 28 @ 2019/2020",
+    "Question": {
+      "content": "One of the following organisms belongs to the acoelomate body plan:",
+      "type": "OBJ",
+      "options": [
+        "Nematodes",
+        "Earthworm",
+        "Cichlids",
+        "Schistosoma"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Schistosoma"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Schistosoma</strong> (a flatworm) is <em>acoelomate</em> (lacks a body cavity). Nematodes are pseudocoelomate; earthworms are coelomate.</div>"
+    },
+    "topic": [
+      "Animal Form and Function",
+      "Biodiversity",
+      "Phylogeny and Systematics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 31 @ 2019/2020",
+    "Question": {
+      "content": "______ is an organism in the phylum Cnidaria.",
+      "type": "OBJ",
+      "options": [
+        "Paramecium",
+        "Butterfly",
+        "Ascaris",
+        "Jellyfish"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Jellyfish"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Jellyfish</strong> (Cnidaria) have stinging cells (nematocysts). <em>Paramecium</em> is a protozoan; <em>Ascaris</em> is a nematode.</div>"
+    },
+    "topic": [
+      "Taxonomy",
+      "Phylogeny and Systematics",
+      "Animal Form and Function",
+      "General Biology II"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 32 @ 2019/2020",
+    "Question": {
+      "content": "An example of an Osteichthyes is:",
+      "type": "OBJ",
+      "options": [
+        "Lamprey",
+        "Squatina",
+        "Salmon",
+        "Ray"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Salmon"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Osteichthyes</strong> (bony fish) include salmon. <em>Lampreys</em> are jawless fish; <em>rays</em> are cartilaginous (Chondrichthyes).</div>"
+    },
+    "topic": [
+      "Taxonomy",
+      "Phylogeny and Systematics",
+      "Animal Form and Function",
+      "Biodiversity"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 33 @ 2019/2020",
+    "Question": {
+      "content": "Nematodes are ______ organisms.",
+      "type": "OBJ",
+      "options": [
+        "Coelomate",
+        "Acoelomate",
+        "Pseudocoelomate",
+        "Arboreal"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pseudocoelomate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Nematodes (e.g., <em>Ascaris</em>) have a <strong>pseudocoelom</strong> (fluid-filled cavity not lined by mesoderm).</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Animal Form and Function",
+      "Taxonomy",
+      "Body Cavities"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 34 @ 2019/2020",
+    "Question": {
+      "content": "In the Phylum Cnidaria, reproduction in Medusa is ______.",
+      "type": "OBJ",
+      "options": [
+        "Budding",
+        "Transformation",
+        "Sexual",
+        "Parthenogenesis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sexual"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>In Cnidarians, the <strong>medusa</strong> stage (e.g., jellyfish) reproduces <strong>sexually</strong> to produce polyps, while polyps reproduce asexually (budding).</div>"
+    },
+    "topic": [
+      "Animal Reproductive Strategies",
+      "Animal Form and Function",
+      "Phylogeny and Systematics",
+      "General Biology II"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 35 @ 2019/2020",
+    "Question": {
+      "content": "Adults of ______ have radial symmetry while their larvae are bilaterally symmetrical.",
+      "type": "OBJ",
+      "options": [
+        "Echinodermata",
+        "Protozoans",
+        "Aquatins",
+        "Arthropoda"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Echinodermata"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Echinoderms</strong> (e.g., starfish) exhibit radial symmetry as adults but have bilateral larvae. This reflects their evolutionary link to chordates.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Animal Form and Function",
+      "Phylogeny and Systematics",
+      "Anatomy",
+      "Biodiversity"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 36 @ 2019/2020",
+    "Question": {
+      "content": "Crabs belong to the class ______.",
+      "type": "OBJ",
+      "options": [
+        "Echinodermata",
+        "Vertebrata",
+        "Arthropoda",
+        "Porifera"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Arthropoda"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Crabs are <strong>arthropods</strong> (subphylum Crustacea), characterized by jointed appendages and exoskeletons. Echinoderms lack these features.</div>"
+    },
+    "topic": [
+      "Taxonomy",
+      "Phylogeny and Systematics",
+      "Animal Form and Function"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 37 @ 2019/2020",
+    "Question": {
+      "content": "Geese and seagulls belong to the class ______.",
+      "type": "OBJ",
+      "options": [
+        "Aves",
+        "Pisces",
+        "Reptiles",
+        "Mammals"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Aves"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Aves</strong> (birds) include all feathered, winged species. Geese and seagulls are not mammals (no mammary glands) or reptiles (scales).</div>"
+    },
+    "topic": [
+      "Taxonomy",
+      "Phylogeny and Systematics",
+      "Animal Form and Function",
+      "General Biology II"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 38 @ 2019/2020",
+    "Question": {
+      "content": "Amphibians are represented by ______.",
+      "type": "OBJ",
+      "options": [
+        "Newts and Salamanders",
+        "Snakes",
+        "Lizards",
+        "Sharks"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Newts and Salamanders"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Amphibians</strong> (Class Amphibia) include newts, salamanders, frogs, and toads. Snakes/lizards are reptiles; sharks are fish.</div>"
+    },
+    "topic": [
+      "Taxonomy",
+      "Phylogeny and Systematics",
+      "Biodiversity",
+      "Animal Form and Function",
+      "General Biology II"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 39 @ 2019/2020",
+    "Question": {
+      "content": "Arthropods have ______.",
+      "type": "OBJ",
+      "options": [
+        "Respiratory organs",
+        "Joined appendages",
+        "Exoskeleton",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Arthropods (e.g., insects, crabs) have <strong>all these traits</strong>: exoskeletons (chitin), jointed legs, and specialized respiratory structures (tracheae/gills).</div>"
+    },
+    "topic": [
+      "Arthropods",
+      "Animal Form and Function",
+      "Anatomy"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 52 @ 2011/2012",
+    "Question": {
+      "content": "______ fish builds nest and guards the eggs",
+      "options": [
+        "Gymnarchus",
+        "Salmon",
+        "Shark",
+        "Pila"
+      ],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gymnarchus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Gymnarchus (African knifefish) exhibits parental care by guarding nests."
+    },
+    "topic": [
+      "Animal Form and Function",
+      "Animal Development",
+      "Aquatic Ecology",
+      "Animal Behavior"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 58 @ 2011/2012",
+    "Question": {
+      "content": "Animals can be preserved through ______",
+      "options": [
+        "taxidermy",
+        "taxonomy",
+        "taxakology",
+        "none"
+      ],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "taxidermy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Taxidermy involves preserving animal specimens for display or study."
+    },
+    "topic": [
+      "General Biology II",
+      "Animal Form and Function",
+      "Biodiversity",
+      "Taxidermy"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 60 @ 2011/2012",
+    "Question": {
+      "content": "Phylum ______ are metamerically segmented",
+      "options": [
+        "Chordata",
+        "Arthropoda",
+        "Annelida",
+        "b and c are correct"
+      ],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "b and c are correct"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Both Arthropoda (e.g., insects) and Annelida (e.g., earthworms) exhibit body segmentation."
+    },
+    "topic": [
+      "Phylogenetics and Systematics",
+      "Animal Form and Function",
+      "Comparative Anatomy"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 63 @ 2011/2012",
+    "Question": {
+      "content": "Mammals characteristically have",
+      "options": [
+        "Large eyes",
+        "Small eyes",
+        "hairy bodies",
+        "none of the above"
+      ],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "hairy bodies"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Hair or fur is a defining characteristic of mammals, along with mammary glands."
+    },
+    "topic": [
+      "General Biology II",
+      "Animal Form and Function",
+      "Phylogenetics and Systematics",
+      "Mammalian Biology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 66 @ 2011/2012",
+    "Question": {
+      "content": "Echinodermata are ______ symmetrical",
+      "options": [
+        "Radially",
+        "Bilaterally",
+        "Metamerically",
+        "all of the above"
+      ],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Radially"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Adult echinoderms (e.g., starfish) exhibit radial symmetry, though their larvae are bilaterally symmetrical."
+    },
+    "topic": [
+      "General Biology II",
+      "Animal Form and Function",
+      "Phylogenetics and Systematics",
+      "Body Symmetry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 67 @ 2011/2012",
+    "Question": {
+      "content": "Vertebrates are also ______",
+      "options": [
+        "protochordates",
+        "chordates",
+        "non-chordates",
+        "all of the above"
+      ],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "chordates"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "All vertebrates possess a notochord at some stage, placing them within the phylum Chordata."
+    },
+    "topic": [
+      "General Biology II",
+      "Phylogenetics and Systematics",
+      "Taxonomy",
+      "Animal Form and Function"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 68 @ 2011/2012",
+    "Question": {
+      "content": "Which of these is not part of the layers of triploblastic organisms?",
+      "options": [
+        "Mesoderm",
+        "Ectoderm",
+        "mesogloea",
+        "Endoderm"
+      ],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "mesogloea"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Triploblastic animals have three germ layers (ectoderm, mesoderm, endoderm); mesogloea is a gelatinous layer in diploblastic organisms like jellyfish."
+    },
+    "topic": [
+      "General Biology II",
+      "Animal Development",
+      "Animal Form and Function",
+      "Germ Layers"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 70 @ 2011/2012",
+    "Question": {
+      "content": "Which of these exhibit radial symmetry?",
+      "options": [
+        "Hydra",
+        "Homo sapiens",
+        "Tapeworm",
+        "Rat"
+      ],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hydra"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Hydra, a cnidarian, displays radial symmetry, allowing equal access to prey from all directions."
+    },
+    "topic": [
+      "General Biology II",
+      "Body Symmetry",
+      "Animal Form and Function",
+      "Phylogenetics and Systematics",
+      "Taxonomy",
+      "Comparative Anatomy"
+    ]
+  }
+]
