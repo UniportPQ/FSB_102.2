@@ -1,0 +1,778 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "General Biology II",
+    "code": "FSB_102.2",
+    "session": "Plant Structure and Function",
+    "time": 90,
+    "topics": [
+      "Animal Development",
+      "Animal Form and Function",
+      "Biodiversity and Classification",
+      "Community Ecology",
+      "Ecosystems and Biomes",
+      "Evolutionary Biology",
+      "Phylogeny and Systematics",
+      "Plant Structure and Function",
+      "Population Ecology",
+      "Prokaryotic Biology",
+      "Protists and Fungi"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 23 @ 2023/2024",
+    "Question": {
+      "content": "The plants with the fibrous root system are mostly:",
+      "type": "OBJ",
+      "options": [
+        "Dicotyledons",
+        "Monocotyledons",
+        "Buttercup",
+        "Deciduous"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Monocotyledons"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Monocots</strong> (e.g., grasses) have fibrous roots. <em>Dicots</em> (e.g., buttercup) typically have taproots; deciduous refers to leaf-shedding.</div>"
+    },
+    "topic": [
+      "Plant Structure and Function",
+      "Biodiversity and Systematics",
+      "Root Systems"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 24 @ 2023/2024",
+    "Question": {
+      "content": "Secondary thickening is a characteristic of:",
+      "type": "OBJ",
+      "options": [
+        "Dicotyledons",
+        "Monocotyledons",
+        "Shrubs",
+        "Herbs"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dicotyledons"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Dicots</strong> undergo secondary growth (wood formation via vascular cambium). Monocots lack this ability; shrubs/herbs are growth forms.</div>"
+    },
+    "topic": [
+      "Plant Structure and Function",
+      "Secondary thickening",
+      "Biodiversity and Systematics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 26 @ 2023/2024",
+    "Question": {
+      "content": "In the phylogenetic plant tree, all but one are members of dicots:",
+      "type": "OBJ",
+      "options": [
+        "Ann grade",
+        "Magnoloids",
+        "Eudicots",
+        "Ginkgo"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ginkgo"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Ginkgo</strong> is a gymnosperm, not a dicot. <em>Ann grade</em> (basal dicots), <em>magnoloids</em>, and <em>eudicots</em> are dicot groups.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Biodiversity and Systematics",
+      "Evolutionary Processes",
+      "Plant Structure and Function",
+      "Plant Phylogeny"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 30 @ 2023/2024",
+    "Question": {
+      "content": "The male sex organ in flowers is called:",
+      "type": "OBJ",
+      "options": [
+        "Pistil",
+        "Style",
+        "Stigma",
+        "Stamen"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Stamen"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>stamen</strong> (anther + filament) produces pollen. <em>Pistil</em>, <em>style</em>, and <em>stigma</em> are female floral parts.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Plant Structure and Function",
+      "Plant Reproduction"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 32 @ 2023/2024",
+    "Question": {
+      "content": "Duckweeds are examples of ... aquatic plants:",
+      "type": "OBJ",
+      "options": [
+        "Free floating",
+        "Totally submerged",
+        "Emergent and rooted",
+        "Totally emergent"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Free floating"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Duckweeds</strong> (e.g., <em>Lemna</em>) float on water surfaces without anchoring. Submerged/emergent plants (e.g., water lilies) are rooted.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Plant Structure and Function",
+      "Aquatic Ecology",
+      "Biodiversity and Systematics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 33 @ 2023/2024",
+    "Question": {
+      "content": "Ecological grouping of plants that have cutinized and thick epidermis are:",
+      "type": "OBJ",
+      "options": [
+        "Hygrophytes",
+        "Epiphytes",
+        "Hydrophytes",
+        "Halophyte"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Halophyte"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Halophytes</strong> (salt-tolerant plants) have thick cuticles to reduce water loss. <em>Hydrophytes</em> lack cuticles; <em>hygrophytes/epiphytes</em> thrive in moist/air habitats.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Ecology",
+      "Plant Structure and Function",
+      "Adaptation"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 34 @ 2023/2024",
+    "Question": {
+      "content": "One of these is not an adaptation of mesophytes:",
+      "type": "OBJ",
+      "options": [
+        "Possession of weak stems",
+        "Tissues are well developed",
+        "Possession of cuticles and stomata",
+        "Root possesses root hairs"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Possession of weak stems"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Mesophytes (moderate-water plants) have <strong>strong stems</strong>. Weak stems are typical of hydrophytes. Other options describe mesophytic traits (cuticles, root hairs).</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Plant Structure and Function",
+      "Adaptation",
+      "Ecology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 40 @ 2023/2024",
+    "Question": {
+      "content": "The male sex organ in flowers is called:",
+      "type": "OBJ",
+      "options": [
+        "Pistil",
+        "Style",
+        "Stigma",
+        "Stamen"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Stamen"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>stamen</strong> (anther + filament) produces pollen. <em>Pistil</em>, <em>style</em>, and <em>stigma</em> are female floral parts.</div>"
+    },
+    "topic": [
+      "Plant Structure and Function",
+      "Plant Reproduction",
+      "Flower Anatomy"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 42 @ 2023/2024",
+    "Question": {
+      "content": "Duckweeds are examples of ... aquatic plants:",
+      "type": "OBJ",
+      "options": [
+        "Free floating",
+        "Totally submerged",
+        "Emergent and rooted",
+        "Totally emergent"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Free floating"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Duckweeds</strong> (e.g., <em>Lemna</em>) float freely on water surfaces without roots anchored to the substrate, unlike submerged or emergent plants.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Plant Structure and Function",
+      "Aquatic Ecology",
+      "Adaptation",
+      "Aquatic Plants"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 43 @ 2023/2024",
+    "Question": {
+      "content": "Ecological grouping of plants that have cutinized and thick epidermis are:",
+      "type": "OBJ",
+      "options": [
+        "Hygrophytes",
+        "Epiphytes",
+        "Hydrophytes",
+        "Halophyte"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Halophyte"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Halophytes</strong> (salt-tolerant plants) develop thick, cutinized epidermis to reduce water loss in saline environments, unlike hydrophytes (water plants) or epiphytes.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Ecology",
+      "Plant Structure and Function",
+      "Adaptation"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 44 @ 2023/2024",
+    "Question": {
+      "content": "One of these is not an adaptation of mesophytes:",
+      "type": "OBJ",
+      "options": [
+        "Possession of weak stems",
+        "Tissues are well developed",
+        "Possession of cuticles and stomata",
+        "Root possesses root hairs"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Possession of weak stems"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Mesophytes (moderate-water plants) typically have <strong>strong stems</strong>. Weak stems are characteristic of hydrophytes (water plants), not mesophytes.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Adaptation",
+      "Plant Structure and Function",
+      "Ecology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 46 @ 2023/2024",
+    "Question": {
+      "content": "... trees with prop roots are usually found in the vegetation of Nigeria:",
+      "type": "OBJ",
+      "options": [
+        "Sahel",
+        "Guinea Savanna",
+        "Hambres",
+        "Mangrove swamps"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mangrove swamps"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Mangroves</strong> (e.g., <em>Rhizophora</em>) develop prop roots for stability in coastal swamps. Sahel/savannas lack such trees; \"Hambres\" is non-standard.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Plant Structure and Function",
+      "Root Systems",
+      "Adaptation",
+      "Ecology",
+      "Ecosystems and Biogeochemical Cycles",
+      "Wetlands",
+      "Biogeography"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 59 @ 2023/2024",
+    "Question": {
+      "content": "The cell wall is only found in:",
+      "type": "OBJ",
+      "options": [
+        "Saprophytes",
+        "Fungi",
+        "Plantae",
+        "Animalia"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Plantae"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Plants (<strong>Plantae</strong>) have rigid cellulose cell walls. Fungi also have cell walls (made of chitin), but the question specifies \"only,\" implying exclusivity. Animalia lack cell walls.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Biodiversity and Systematics",
+      "Fungi",
+      "Plant Structure and Function",
+      "Cell Wall"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 63 @ 2023/2024",
+    "Question": {
+      "content": "The growth found in green plant is:",
+      "type": "OBJ",
+      "options": [
+        "Intercalary",
+        "Apical",
+        "Cytologic",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Apical"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Primary growth in plants occurs at <strong>apical meristems</strong> (tips of roots and shoots). <em>Intercalary</em> meristems (e.g., in grasses) are less common.</div>"
+    },
+    "topic": [
+      "Plant Structure and Function"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 66 @ 2023/2024",
+    "Question": {
+      "content": "The chloroplast contains:",
+      "type": "OBJ",
+      "options": [
+        "Chlorophyll",
+        "Xanthophyll",
+        "Carotene",
+        "Mitochondrion"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Chlorophyll"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Chloroplasts primarily contain <strong>chlorophyll</strong>, the green pigment for photosynthesis. Xanthophyll and carotene are accessory pigments, while mitochondria are separate organelles.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Cell Structure",
+      "Plant Structure and Function",
+      "Photosynthesis"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 68 @ 2023/2024",
+    "Question": {
+      "content": "The presence of evergreen canopy vegetation is a characteristic of:",
+      "type": "OBJ",
+      "options": [
+        "Guinea Savanna",
+        "Sahel Savanna",
+        "Sudan Savanna",
+        "Rain Forest"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Rain Forest"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Rain forests</strong> feature dense, evergreen canopies due to year-round rainfall. Savannas (Guinea, Sahel, Sudan) have seasonal grasses and scattered trees.</div>"
+    },
+    "topic": [
+      "Biomes",
+      "Ecology",
+      "Ecosystems and Biogeochemical Cycles",
+      "Plant Structure and Function"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 1 @ 2019/2020",
+    "Question": {
+      "content": "______ is the study of microscopic structures of cellular tissues.",
+      "type": "OBJ",
+      "options": [
+        "Histology",
+        "Cytology",
+        "Microbiology",
+        "Genetics"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Histology"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Histology</strong> is the branch of biology focused on the microscopic study of tissues and cells. It involves examining thin tissue sections under a microscope to understand their structure and function.</div>"
+    },
+    "topic": [
+      "Histology",
+      "Animal Form and Function",
+      "Plant Structure and Function"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 3 @ 2019/2020",
+    "Question": {
+      "content": "Taxis and Tactic are features of the living characteristic of:",
+      "type": "OBJ",
+      "options": [
+        "Respiration",
+        "Movement",
+        "Reproduction",
+        "Irritability"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Movement"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Taxis</strong> (directional movement) and <strong>Tactic</strong> (response to stimuli) are behaviors related to <strong>movement</strong>. Examples include phototaxis (movement toward light) in algae.</div>"
+    },
+    "topic": [
+      "Movement",
+      "Animal Form and Function",
+      "Plant Structure and Function"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 5 @ 2019/2020",
+    "Question": {
+      "content": "Plants that live two growing seasons and fruit during the second are called ______ plants.",
+      "type": "OBJ",
+      "options": [
+        "Annual",
+        "Bi-Annual",
+        "Biennial",
+        "Perennial"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Biennial"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Biennial plants</strong> (e.g., carrots) complete their life cycle in two years: vegetative growth in the first year and flowering/fruiting in the second.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Plant Structure and Function",
+      "Plant Life Cycles"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 6 @ 2019/2020",
+    "Question": {
+      "content": "Attenuation is reduction in ______ due to a filtering medium.",
+      "type": "OBJ",
+      "options": [
+        "Space",
+        "Water",
+        "Light",
+        "Food"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Light"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Attenuation</strong> refers to the reduction of light intensity as it passes through a medium (e.g., water in aquatic ecosystems).</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Plant Structure and Function",
+      "Ecosystems and Biomes",
+      "Biophysics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 7 @ 2019/2020",
+    "Question": {
+      "content": "The metabolic impact of one plant on another is called:",
+      "type": "OBJ",
+      "options": [
+        "Competition",
+        "Parasitism",
+        "Predation",
+        "Allelopathy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Allelopathy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Allelopathy</strong> occurs when plants release chemicals (e.g., juglone from walnut trees) to inhibit the growth of nearby competitors.</div>"
+    },
+    "topic": [
+      "Community Ecology",
+      "Plant Structure and Function",
+      "Allelopathy"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 8 @ 2019/2020",
+    "Question": {
+      "content": "Mycorrhizae is a mutualistic association between ______ and plant roots.",
+      "type": "OBJ",
+      "options": [
+        "Bacteria",
+        "Fungi",
+        "Virus",
+        "Nematodes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fungi"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Mycorrhizae</strong> are symbiotic relationships where fungi enhance a plant’s nutrient absorption (especially phosphorus) in exchange for sugars.</div>"
+    },
+    "topic": [
+      "Protists and Fungi",
+      "Plant Structure and Function",
+      "Community Ecology",
+      "Symbiosis"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 23 @ 2019/2020",
+    "Question": {
+      "content": "Haplo-Diplontic cycle occurs in Pteridophytes and ______.",
+      "type": "OBJ",
+      "options": [
+        "Protista",
+        "Thallophytes",
+        "Bryophytes",
+        "Spermatophytes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bryophytes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>haplo-diplontic</strong> life cycle (alternation of generations) is seen in <em>Pteridophytes</em> (ferns) and <em>Bryophytes</em> (mosses). Spermatophytes (seed plants) are predominantly diplontic.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Plant Life Cycles",
+      "Plant Structure and Function",
+      "Biodiversity"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 25 @ 2019/2020",
+    "Question": {
+      "content": "What is the colour of the pigments found in Phaeophyceae?",
+      "type": "OBJ",
+      "options": [
+        "Brown",
+        "Yellow",
+        "Red",
+        "Green"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Brown"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Phaeophyceae</strong> (brown algae, e.g., kelp) contain <em>fucoxanthin</em>, a brown pigment masking chlorophyll. Red algae (<em>Rhodophyta</em>) have phycoerythrin.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Protists and Fungi",
+      "Plant Structure and Function",
+      "Algae"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 26 @ 2019/2020",
+    "Question": {
+      "content": "The ovules of what category of plants are not enclosed in the ovary?",
+      "type": "OBJ",
+      "options": [
+        "Bryophyte",
+        "Pteridophyte",
+        "Gymnosperm",
+        "Angiosperm"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gymnosperm"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Gymnosperms</strong> (e.g., pines) have \"naked\" ovules on cone scales. <em>Angiosperms</em> enclose ovules in ovaries (fruits). Bryophytes lack seeds entirely.</div>"
+    },
+    "topic": [
+      "Plant Structure and Function",
+      "Plant Life Cycles",
+      "Phylogeny and Systematics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 42 @ 2019/2020",
+    "Question": {
+      "content": "Plants rooted in the bottom with leaves above the waterline are called ______.",
+      "type": "OBJ",
+      "options": [
+        "Elodeids",
+        "Isoetids",
+        "Helophytes",
+        "Pleuston"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Helophytes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Helophytes</strong> (e.g., reeds) are emergent aquatic plants rooted underwater with aerial leaves. <em>Pleuston</em> float freely (e.g., duckweed).</div>"
+    },
+    "topic": [
+      "Plant Structure and Function",
+      "Taxonomy",
+      "Ecosystems and Biomes",
+      "General Biology II"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 44 @ 2019/2020",
+    "Question": {
+      "content": "All but one of these are ecological conditions under which xerophytes thrive:",
+      "type": "OBJ",
+      "options": [
+        "Low soil moisture",
+        "Strong wind",
+        "Low temperature during the day",
+        "High sunlight"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Low temperature during the day"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Xerophytes</strong> (e.g., cacti) adapt to <em>high temperatures</em>, arid conditions, and intense sunlight. Low daytime temps are atypical.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Plant Structure and Function",
+      "Ecosystems and Biomes",
+      "Adaptation"
+    ]
+  }
+]
