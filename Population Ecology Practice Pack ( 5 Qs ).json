@@ -1,0 +1,166 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "General Biology II",
+    "code": "FSB_102.2",
+    "session": "Population Ecology",
+    "time": 90,
+    "topics": [
+      "Animal Development",
+      "Animal Form and Function",
+      "Biodiversity and Classification",
+      "Community Ecology",
+      "Ecosystems and Biomes",
+      "Evolutionary Biology",
+      "Phylogeny and Systematics",
+      "Plant Structure and Function",
+      "Population Ecology",
+      "Prokaryotic Biology",
+      "Protists and Fungi"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 4 @ 2023/2024",
+    "Question": {
+      "content": "One of these is not a barrier that controls migration and dispersal of animals:",
+      "type": "OBJ",
+      "options": [
+        "Physical barrier",
+        "Climatic barrier",
+        "Morphological barrier",
+        "Biological barrier"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Morphological barrier"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Morphological barriers</strong> (body structures) do not restrict migration. <em>Physical</em> (mountains), <em>climatic</em> (temperature), and <em>biological</em> (predation) barriers do.</div>"
+    },
+    "topic": [
+      "Population Ecology",
+      "Biogeography"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 8 @ 2023/2024",
+    "Question": {
+      "content": "... is the group of organisms of the same species that live together in a certain area:",
+      "type": "OBJ",
+      "options": [
+        "Community",
+        "Population",
+        "Ecosystem",
+        "Biome"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Population"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>A <strong>population</strong> consists of individuals of one species in an area. <em>Community</em> (multiple species), <em>ecosystem</em> (biotic + abiotic), and <em>biome</em> (large ecological region) are broader.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Population Ecology",
+      "Ecology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 53 @ 2023/2024",
+    "Question": {
+      "content": "The movement of organisms from one place to another is called:",
+      "type": "OBJ",
+      "options": [
+        "Photosynthesis",
+        "Phagocytosis",
+        "Migration",
+        "Evasion"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Migration"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Migration</strong> refers to the seasonal or periodic movement of organisms (e.g., birds, whales). <em>Photosynthesis</em> is energy production in plants; <em>phagocytosis</em> is cell ingestion.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Ecology",
+      "Population Ecology",
+      "Biogeography",
+      "Adaptation",
+      "Migration"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 57 @ 2023/2024",
+    "Question": {
+      "content": "The ability to reproduce in animals is called:",
+      "type": "OBJ",
+      "options": [
+        "Fecundity",
+        "Sexuality",
+        "Bisexuality",
+        "Commensalism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fecundity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Fecundity</strong> measures reproductive potential (number of offspring). <em>Sexuality</em> refers to mating types; <em>commensalism</em> is a symbiotic relationship.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Animal Form and Function",
+      "Reproduction",
+      "Population Ecology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 9 @ 2019/2020",
+    "Question": {
+      "content": "A factor affecting the distribution of organisms is:",
+      "type": "OBJ",
+      "options": [
+        "Air",
+        "Water",
+        "Climate",
+        "Segregation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Climate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Climate</strong> (temperature, precipitation) is a primary factor determining where species can survive. Example: Polar bears are restricted to Arctic regions.</div>"
+    },
+    "topic": [
+      "Ecosystems and Biomes",
+      "Community Ecology",
+      "Population Ecology",
+      "Biogeography"
+    ]
+  }
+]
