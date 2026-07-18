@@ -1,0 +1,139 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "General Biology II",
+    "code": "FSB_102.2",
+    "session": "Protists and Fungi",
+    "time": 90,
+    "topics": [
+      "Animal Development",
+      "Animal Form and Function",
+      "Biodiversity and Classification",
+      "Community Ecology",
+      "Ecosystems and Biomes",
+      "Evolutionary Biology",
+      "Phylogeny and Systematics",
+      "Plant Structure and Function",
+      "Population Ecology",
+      "Prokaryotic Biology",
+      "Protists and Fungi"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 8 @ 2019/2020",
+    "Question": {
+      "content": "Mycorrhizae is a mutualistic association between ______ and plant roots.",
+      "type": "OBJ",
+      "options": [
+        "Bacteria",
+        "Fungi",
+        "Virus",
+        "Nematodes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fungi"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Mycorrhizae</strong> are symbiotic relationships where fungi enhance a plant’s nutrient absorption (especially phosphorus) in exchange for sugars.</div>"
+    },
+    "topic": [
+      "Protists and Fungi",
+      "Plant Structure and Function",
+      "Community Ecology",
+      "Symbiosis"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 24 @ 2019/2020",
+    "Question": {
+      "content": "An example of filamentous algae is ______.",
+      "type": "OBJ",
+      "options": [
+        "Clamydomonas",
+        "Yolava",
+        "Spirogopyra",
+        "Kelp"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Spirogopyra"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Spirogyra</strong> is a filamentous green algae (note the spiral chloroplasts). <em>Clamydomonas</em> is unicellular, while <em>kelp</em> is multicellular but not filamentous.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Protists and Fungi",
+      "Biodiversity"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 25 @ 2019/2020",
+    "Question": {
+      "content": "What is the colour of the pigments found in Phaeophyceae?",
+      "type": "OBJ",
+      "options": [
+        "Brown",
+        "Yellow",
+        "Red",
+        "Green"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Brown"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Phaeophyceae</strong> (brown algae, e.g., kelp) contain <em>fucoxanthin</em>, a brown pigment masking chlorophyll. Red algae (<em>Rhodophyta</em>) have phycoerythrin.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Protists and Fungi",
+      "Plant Structure and Function",
+      "Algae"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 68 @ 2012/2013",
+    "Question": {
+      "content": "Which element is important for growth of diatoms",
+      "type": "OBJ",
+      "options": [
+        "iron",
+        "silicon",
+        "phosphorus",
+        "nitrogen"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "silicon"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Diatoms require silicon to build their characteristic glass-like cell walls (frustules)."
+    },
+    "topic": [
+      "General Biology II",
+      "Protists and Fungi",
+      "Aquatic Ecology",
+      "Primary Production",
+      "Nutrient Cycling"
+    ]
+  }
+]
