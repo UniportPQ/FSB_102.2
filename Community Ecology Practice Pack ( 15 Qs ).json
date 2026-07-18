@@ -1,0 +1,447 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "General Biology II",
+    "code": "FSB_102.2",
+    "session": "Community Ecology",
+    "time": 90,
+    "topics": [
+      "Animal Development",
+      "Animal Form and Function",
+      "Biodiversity and Classification",
+      "Community Ecology",
+      "Ecosystems and Biomes",
+      "Evolutionary Biology",
+      "Phylogeny and Systematics",
+      "Plant Structure and Function",
+      "Population Ecology",
+      "Prokaryotic Biology",
+      "Protists and Fungi"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 5 @ 2023/2024",
+    "Question": {
+      "content": "One of these does not belong to the description of a wetland:",
+      "type": "OBJ",
+      "options": [
+        "Dogs",
+        "Estuary",
+        "Swamps",
+        "Marshes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dogs"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Dogs</strong> are terrestrial animals. Wetlands include <em>estuaries</em>, <em>swamps</em>, and <em>marshes</em> (water-saturated ecosystems).</div>"
+    },
+    "topic": [
+      "Ecosystems and Biogeochemical Cycles",
+      "Community Ecology",
+      "Wetlands"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 9 @ 2023/2024",
+    "Question": {
+      "content": "Which of the following is not an abiotic factor that may affect a community:",
+      "type": "OBJ",
+      "options": [
+        "Light intensity",
+        "Temperature",
+        "Soil pH",
+        "Nitrogen"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nitrogen"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Nitrogen</strong> is a chemical element (biotic when cycled by organisms). <em>Light</em>, <em>temperature</em>, and <em>soil pH</em> are purely abiotic.</div>"
+    },
+    "topic": [
+      "Ecology",
+      "Community Ecology",
+      "Ecosystems and Biogeochemical Cycles",
+      "Abiotic Factors"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 10 @ 2023/2024",
+    "Question": {
+      "content": "The soil properties that affect the diversity of organisms within and around the soil environment are called:",
+      "type": "OBJ",
+      "options": [
+        "Edaphic factors",
+        "Pyric factors",
+        "Physiographic factors",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Edaphic factors"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Edaphic factors</strong> include soil texture, pH, and nutrient content. <em>Pyric</em> relates to fire; <em>physiographic</em> refers to landscape features.</div>"
+    },
+    "topic": [
+      "Ecology",
+      "Abiotic Factors",
+      "Community Ecology",
+      "Biodiversity and Systematics",
+      "Edaphic factors"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 12 @ 2023/2024",
+    "Question": {
+      "content": "... are areas where freshwater streams or rivers merge with the ocean:",
+      "type": "OBJ",
+      "options": [
+        "Coral reefs",
+        "Estuaries",
+        "Hydrothermal vents",
+        "Coastal zone"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Estuaries"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Estuaries</strong> are transitional zones where freshwater meets seawater. Coral reefs and hydrothermal vents are marine; coastal zones are broader.</div>"
+    },
+    "topic": [
+      "Estuaries",
+      "Wetlands",
+      "Ecosystems and Biogeochemical Cycles",
+      "Community Ecology",
+      "Ecology",
+      "General Biology II"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 7 @ 2019/2020",
+    "Question": {
+      "content": "The metabolic impact of one plant on another is called:",
+      "type": "OBJ",
+      "options": [
+        "Competition",
+        "Parasitism",
+        "Predation",
+        "Allelopathy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Allelopathy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Allelopathy</strong> occurs when plants release chemicals (e.g., juglone from walnut trees) to inhibit the growth of nearby competitors.</div>"
+    },
+    "topic": [
+      "Community Ecology",
+      "Plant Structure and Function",
+      "Allelopathy"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 8 @ 2019/2020",
+    "Question": {
+      "content": "Mycorrhizae is a mutualistic association between ______ and plant roots.",
+      "type": "OBJ",
+      "options": [
+        "Bacteria",
+        "Fungi",
+        "Virus",
+        "Nematodes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fungi"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Mycorrhizae</strong> are symbiotic relationships where fungi enhance a plant’s nutrient absorption (especially phosphorus) in exchange for sugars.</div>"
+    },
+    "topic": [
+      "Protists and Fungi",
+      "Plant Structure and Function",
+      "Community Ecology",
+      "Symbiosis"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 9 @ 2019/2020",
+    "Question": {
+      "content": "A factor affecting the distribution of organisms is:",
+      "type": "OBJ",
+      "options": [
+        "Air",
+        "Water",
+        "Climate",
+        "Segregation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Climate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Climate</strong> (temperature, precipitation) is a primary factor determining where species can survive. Example: Polar bears are restricted to Arctic regions.</div>"
+    },
+    "topic": [
+      "Ecosystems and Biomes",
+      "Community Ecology",
+      "Population Ecology",
+      "Biogeography"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 16 @ 2019/2020",
+    "Question": {
+      "content": "Organisms that live on sand grains are ______.",
+      "type": "OBJ",
+      "options": [
+        "Epipsamic",
+        "Endozoic",
+        "Periphytes",
+        "Epilithic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Epipsamic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Epipsamic</strong> organisms (e.g., diatoms) live on sand surfaces. <em>Epilithic</em> refers to rock-dwellers, while <em>endozoic</em> means inside animals.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Ecosystems and Biomes",
+      "Community Ecology",
+      "Biodiversity",
+      "Adaptation"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 17 @ 2019/2020",
+    "Question": {
+      "content": "Organisms that live within an animal are ______.",
+      "type": "OBJ",
+      "options": [
+        "Endozoology",
+        "Endozoic",
+        "Endolithic",
+        "Endotherm"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Endozoic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Endozoic</strong> organisms (e.g., gut parasites like tapeworms) live inside other animals. <em>Endolithic</em> refers to rock-inhabiting microbes.</div>"
+    },
+    "topic": [
+      "Symbiosis",
+      "Community Ecology",
+      "Animal Form and Function",
+      "Habitat"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 19 @ 2019/2020",
+    "Question": {
+      "content": "Organisms exhibit negative interaction such as ______.",
+      "type": "OBJ",
+      "options": [
+        "Mutualism",
+        "Symbiosis",
+        "Biosis",
+        "Parasitism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Parasitism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Parasitism</strong> harms the host while benefiting the parasite (e.g., ticks on dogs). Contrast with <em>mutualism</em> (both benefit).</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Community Ecology",
+      "Symbiosis",
+      "Parasitism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 68 @ 2019/2020",
+    "Question": {
+      "content": "An alien species competing with Rhizophora sp. in Nigeria's Niger Delta waterways is:",
+      "type": "OBJ",
+      "options": [
+        "Water hyacinth",
+        "Nipa palm",
+        "Water lettuce",
+        "Water cabbage"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nipa palm"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The invasive <strong>Nipa palm</strong> (<em>Nypa fruticans</em>) displaces native mangroves (<em>Rhizophora</em>) by altering sediment dynamics.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Community Ecology",
+      "Ecosystems and Biomes",
+      "Biodiversity",
+      "Invasive Species"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 7 @ 2018/2019",
+    "Question": {
+      "content": "Transitory zones between adjacent biotic communities is called",
+      "type": "OBJ",
+      "options": [
+        "Radioactive",
+        "Economic",
+        "Ecotype",
+        "Ecotone"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ecotone"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Note: The original options appear incorrect. Ecotone is the correct term for transitional zones between ecosystems, though it wasn't listed among the given choices."
+    },
+    "topic": [
+      "General Biology II",
+      "Ecology",
+      "Community Ecology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 8 @ 2018/2019",
+    "Question": {
+      "content": "All but one is associated with an area",
+      "type": "OBJ",
+      "options": [
+        "Position",
+        "Role",
+        "Function",
+        "Trade"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Trade"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Trade is an economic activity rather than a fundamental geographic or ecological characteristic of an area."
+    },
+    "topic": [
+      "General Biology II",
+      "Ecology",
+      "Community Ecology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 9 @ 2018/2019",
+    "Question": {
+      "content": "A factor affecting the distribution of organism(s)",
+      "type": "OBJ",
+      "options": [
+        "Air",
+        "Water",
+        "Climate",
+        "Segregation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Climate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Climate (temperature, precipitation patterns) is the primary determinant of species distribution on a global scale."
+    },
+    "topic": [
+      "General Biology II",
+      "Ecology",
+      "Community Ecology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 67 @ 2018/2019",
+    "Question": {
+      "content": "Species diversity is a measure of ______",
+      "options": [
+        "species richness",
+        "species awareness",
+        "Both A and B",
+        "Species distribution"
+      ],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Both A and B"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Species diversity combines richness (number of species) and evenness (distribution of individuals among species)."
+    },
+    "topic": [
+      "General Biology II",
+      "Biodiversity",
+      "Ecology",
+      "Community Ecology"
+    ]
+  }
+]
