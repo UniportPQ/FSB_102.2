@@ -1,0 +1,587 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "General Biology II",
+    "code": "FSB_102.2",
+    "session": "Prokaryotic Biology",
+    "time": 90,
+    "topics": [
+      "Animal Development",
+      "Animal Form and Function",
+      "Biodiversity and Classification",
+      "Community Ecology",
+      "Ecosystems and Biomes",
+      "Evolutionary Biology",
+      "Phylogeny and Systematics",
+      "Plant Structure and Function",
+      "Population Ecology",
+      "Prokaryotic Biology",
+      "Protists and Fungi"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 49 @ 2019/2020",
+    "Question": {
+      "content": "Microscopic characteristics in bacteria include the following except:",
+      "type": "OBJ",
+      "options": [
+        "Presence of flagella",
+        "Presence of capsule",
+        "Presence of endospores",
+        "Presence of colonies"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Presence of colonies"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Colony formation</strong> is a <em>macroscopic</em> characteristic (observed on agar plates). Microscopic features include flagella (motility), capsules (slime layers), and endospores (dormant structures).</div>"
+    },
+    "topic": [
+      "Prokaryotic Biology",
+      "General Biology II"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 50 @ 2019/2020",
+    "Question": {
+      "content": "Colonial characteristics of bacteria include all of the following except:",
+      "type": "OBJ",
+      "options": [
+        "Shape of colony",
+        "Pigmentation of colony",
+        "Degenerate of colony",
+        "Depth of colony"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Degenerate of colony"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Colony traits include shape, color (pigmentation), and elevation (depth). <strong>Degeneration</strong> is not a standard descriptor.</div>"
+    },
+    "topic": [
+      "Prokaryotic Biology",
+      "Bacterial Morphology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 51 @ 2019/2020",
+    "Question": {
+      "content": "The Gram stain technique is an example of a:",
+      "type": "OBJ",
+      "options": [
+        "Negative staining technique",
+        "Simple staining technique",
+        "Differential staining technique",
+        "Selective staining technique"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Differential staining technique"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Gram staining</strong> differentiates bacteria into Gram-positive (purple) and Gram-negative (pink) based on cell wall composition (peptidoglycan thickness).</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Prokaryotic Biology",
+      "Bacterial Morphology",
+      "Taxonomy",
+      "Gram Stain"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 52 @ 2019/2020",
+    "Question": {
+      "content": "Bacterial strains possessing capsules are usually:",
+      "type": "OBJ",
+      "options": [
+        "Pathogenic",
+        "Non-pathogenic",
+        "Saprophytic",
+        "Commensals"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pathogenic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Capsules (e.g., in <em>Streptococcus pneumoniae</em>) enhance virulence by evading host immune responses (phagocytosis).</div>"
+    },
+    "topic": [
+      "Prokaryotic Biology",
+      "Bacterial Morphology",
+      "Adaptation"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 53 @ 2019/2020",
+    "Question": {
+      "content": "Sugar fermentation tests are an example of:",
+      "type": "OBJ",
+      "options": [
+        "Serological tests",
+        "Cultural tests",
+        "Biochemical tests",
+        "Morphological tests"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Biochemical tests"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>These tests detect metabolic activity (e.g., acid/gas production) to identify bacteria (e.g., <em>E. coli</em> ferments lactose).</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Prokaryotic Biology",
+      "Taxonomy",
+      "Biochemical tests"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 54 @ 2019/2020",
+    "Question": {
+      "content": "Acid and gas production by bacteria in a sugar fermentation test is indicated by:",
+      "type": "OBJ",
+      "options": [
+        "Change in color of the medium",
+        "Effervescence",
+        "A clear space in the inverted Durham tube",
+        "A and C"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A and C"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Acid turns pH indicators (e.g., phenol red) yellow; gas bubbles trapped in the <strong>Durham tube</strong> confirm fermentation.</div>"
+    },
+    "topic": [
+      "Prokaryotic Biology",
+      "Biochemical tests",
+      "Fermentation"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 55 @ 2019/2020",
+    "Question": {
+      "content": "The basis of bacterial serological tests is:",
+      "type": "OBJ",
+      "options": [
+        "Unknown bacterial and antisera reactions",
+        "Protein and protein interaction",
+        "Blood serum antibody reaction",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Blood serum antibody reaction"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Serological tests</strong> (e.g., ELISA) detect antigen-antibody interactions. Antibodies in serum bind to bacterial antigens.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Prokaryotic Biology",
+      "Taxonomy",
+      "Serology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 56 @ 2019/2020",
+    "Question": {
+      "content": "The technique whereby bacterial viruses are used to identify bacteria is called:",
+      "type": "OBJ",
+      "options": [
+        "Protein typing",
+        "Phage typing",
+        "Serotyping",
+        "Bacteriocin typing"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Phage typing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Phage typing</strong> exploits bacteriophages’ host specificity. Lysis patterns identify bacterial strains (e.g., <em>Salmonella</em>).</div>"
+    },
+    "topic": [
+      "Prokaryotic Biology",
+      "Virology",
+      "Taxonomy",
+      "Phage Typing"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 57 @ 2019/2020",
+    "Question": {
+      "content": "Which organism is similar to organism A (G+C ratio of 80%?",
+      "type": "OBJ",
+      "options": [
+        "B (G+C 78%)",
+        "C (G+C 60%)",
+        "D (G+C 57%)",
+        "E (G+C 40%)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "B (G+C 78%)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Similar <strong>G+C ratios</strong> (within 2-5%) suggest evolutionary relatedness. B’s 78% is closest to A’s 80%.</div>"
+    },
+    "topic": [
+      "Prokaryotic Biology",
+      "Taxonomy",
+      "Phylogeny and Systematics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 23 @ 2018/2019",
+    "Question": {
+      "content": "Negative staining is one method of staining ______",
+      "type": "OBJ",
+      "options": [
+        "Bacterial flagella",
+        "Bacteria capsule",
+        "Bacterial spore",
+        "Bacterial cell wall"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bacteria capsule"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Negative staining colors the background, leaving capsules as clear halos around cells. Other structures are better visualized with positive stains."
+    },
+    "topic": [
+      "General Biology II",
+      "Prokaryotic Biology",
+      "Microbiology Techniques"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 24 @ 2018/2019",
+    "Question": {
+      "content": "A bacterial cell with flagella all around its surface is ______",
+      "type": "OBJ",
+      "options": [
+        "Bipolarly flagellated",
+        "Laterally flagellated",
+        "Peritrichously flagellated",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Peritrichously flagellated"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Peritrichous flagellation means flagella are distributed over the entire cell surface, unlike polar (single/bipolar) or lateral arrangements."
+    },
+    "topic": [
+      "General Biology II",
+      "Prokaryotic Biology",
+      "Motility",
+      "Bacterial Flagella",
+      "Bacterial Morphology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 25 @ 2018/2019",
+    "Question": {
+      "content": "Which of the following is not morphological criteria in classifying bacteria ______",
+      "type": "OBJ",
+      "options": [
+        "Colonial morphology",
+        "Shape of cell",
+        "Grouping of cell",
+        "Sugar fermentation tests"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sugar fermentation tests"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Sugar fermentation is a biochemical (not morphological) characteristic. Morphology includes cell shape, arrangement, and colony appearance."
+    },
+    "topic": [
+      "General Biology II",
+      "Prokaryotic Biology",
+      "Biological Classification",
+      "Bacterial Morphology",
+      "Microbiology Techniques"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 26 @ 2018/2019",
+    "Question": {
+      "content": "The Gram-staining technique is an example of a ______",
+      "type": "OBJ",
+      "options": [
+        "Single staining technique",
+        "Unipolar staining technique",
+        "Differential staining",
+        "Bipolar staining"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Differential staining"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Gram staining differentiates bacteria into Gram-positive (purple) and Gram-negative (pink) based on cell wall composition."
+    },
+    "topic": [
+      "General Biology II",
+      "Prokaryotic Biology",
+      "Microbiology Techniques",
+      "Differential Staining"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 27 @ 2018/2019",
+    "Question": {
+      "content": "In a fermentation test, two unknown bacterial strains showing the ability to ferment the same sugars ______",
+      "type": "OBJ",
+      "options": [
+        "Different strains",
+        "Similar strains",
+        "The same organism",
+        "Totally different strain"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Similar strains"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Identical fermentation patterns suggest closely related strains, though additional tests are needed for definitive identification."
+    },
+    "topic": [
+      "General Biology II",
+      "Prokaryotic Biology",
+      "Microbiology Techniques",
+      "Biological Classification"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 28 @ 2018/2019",
+    "Question": {
+      "content": "In a sugar fermentation test, a positive result is shown by ______",
+      "type": "OBJ",
+      "options": [
+        "A change in colour of the medium",
+        "A change in colour of the medium and the production of gas",
+        "Production of gas alone",
+        "No change in the colour of medium"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A change in colour of the medium and the production of gas"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Positive fermentation typically shows both pH indicator color change (due to acid production) and gas bubbles in Durham tubes."
+    },
+    "topic": [
+      "General Biology II",
+      "Prokaryotic Biology",
+      "Microbiology Techniques",
+      "Fermentation"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 31 @ 2018/2019",
+    "Question": {
+      "content": "Lysis of two bacterial species on the surface of different agar plates by a species bacteriophage suggests ______",
+      "type": "OBJ",
+      "options": [
+        "Both bacteria species are different",
+        "Both bacteria species are similar",
+        "Both bacterial cells are not to the image",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Both bacteria species are similar"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Phage specificity means lysis of both strains indicates they share surface receptors recognized by the same phage, suggesting genetic similarity."
+    },
+    "topic": [
+      "General Biology II",
+      "Prokaryotic Biology",
+      "Microbiology Techniques",
+      "Bacteriophages"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 32 @ 2018/2019",
+    "Question": {
+      "content": "The clear zone resulting from lysis by a phage of bacterial growth on an agar plate called ______",
+      "type": "OBJ",
+      "options": [
+        "Lawn",
+        "Plaque",
+        "Mat",
+        "Growth"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Plaque"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Plaques are clear zones where phages have lysed bacterial cells in a lawn of bacterial growth, each representing one phage's progeny."
+    },
+    "topic": [
+      "General Biology II",
+      "Prokaryotic Biology",
+      "Microbiology Techniques",
+      "Bacteriophages"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 33 @ 2018/2019",
+    "Question": {
+      "content": "T1003-C and A-T base composition of an isolate is 60%/40%. Which of these organisms is more closely related to the isolate ______",
+      "type": "OBJ",
+      "options": [
+        "Arthrobacter 20%/40%",
+        "Clostridium 10%/90%",
+        "Staphylococcus 65%/35%",
+        "Vibrio 50%/50%"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Staphylococcus 65%/35%"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Similar GC content (60% vs 65%) suggests closer evolutionary relationship, as GC content tends to be conserved within related taxa."
+    },
+    "topic": [
+      "General Biology II",
+      "Evolutionary Biology",
+      "Biological Classification",
+      "Prokaryotic Biology",
+      "Genetics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 35 @ 2018/2019",
+    "Question": {
+      "content": "The advantage of Ribosomal RNA sequencing for determining relationship among organisms compared to other molecular approaches is due to the ______",
+      "type": "OBJ",
+      "options": [
+        "Resistance to mutation by RNA",
+        "Resistance to mutation by Ribosomes",
+        "Slow evolutionary rate of rRNA",
+        "Resistance to mutation by DNA"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Slow evolutionary rate of rRNA"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Note: The original options are problematic. rRNA genes are ideal for phylogenetics because they evolve slowly (conserved regions) but contain variable regions for differentiation."
+    },
+    "topic": [
+      "General Biology II",
+      "Evolutionary Biology",
+      "Biological Classification",
+      "Genetics",
+      "Microbiology Techniques",
+      "Prokaryotic Biology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 36 @ 2018/2019",
+    "Question": {
+      "content": "Which of the following statements is correct, ______",
+      "type": "OBJ",
+      "options": [
+        "Two microorganisms are closely related if their nucleic acid sequences are quite similar",
+        "The DNA sequence of strands from two different organisms are similar",
+        "DNA is transcribed from RNA",
+        "The amount of pairing of nucleotide is greater for two dissimilar organisms"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Two microorganisms are closely related if their nucleic acid sequences are quite similar"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "DNA/DNA hybridization shows that closely related organisms have higher sequence similarity due to shared evolutionary history."
+    },
+    "topic": [
+      "General Biology II",
+      "Genetics",
+      "Molecular Biology",
+      "Evolutionary Biology",
+      "Biological Classification",
+      "Prokaryotic Biology"
+    ]
+  }
+]
