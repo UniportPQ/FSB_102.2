@@ -1,0 +1,585 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "General Biology II",
+    "code": "FSB_102.2",
+    "session": "Ecosystems and Biomes",
+    "time": 90,
+    "topics": [
+      "Animal Development",
+      "Animal Form and Function",
+      "Biodiversity and Classification",
+      "Community Ecology",
+      "Ecosystems and Biomes",
+      "Evolutionary Biology",
+      "Phylogeny and Systematics",
+      "Plant Structure and Function",
+      "Population Ecology",
+      "Prokaryotic Biology",
+      "Protists and Fungi"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 6 @ 2019/2020",
+    "Question": {
+      "content": "Attenuation is reduction in ______ due to a filtering medium.",
+      "type": "OBJ",
+      "options": [
+        "Space",
+        "Water",
+        "Light",
+        "Food"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Light"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Attenuation</strong> refers to the reduction of light intensity as it passes through a medium (e.g., water in aquatic ecosystems).</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Plant Structure and Function",
+      "Ecosystems and Biomes",
+      "Biophysics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 9 @ 2019/2020",
+    "Question": {
+      "content": "A factor affecting the distribution of organisms is:",
+      "type": "OBJ",
+      "options": [
+        "Air",
+        "Water",
+        "Climate",
+        "Segregation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Climate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Climate</strong> (temperature, precipitation) is a primary factor determining where species can survive. Example: Polar bears are restricted to Arctic regions.</div>"
+    },
+    "topic": [
+      "Ecosystems and Biomes",
+      "Community Ecology",
+      "Population Ecology",
+      "Biogeography"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 10 @ 2019/2020",
+    "Question": {
+      "content": "Approximately 71% of the Earth’s surface is covered by:",
+      "type": "OBJ",
+      "options": [
+        "Land",
+        "Trees",
+        "Water",
+        "Sand"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Water"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Earth is often called the <strong>Blue Planet</strong> because ~71% of its surface is covered by oceans, seas, and freshwater bodies.</div>"
+    },
+    "topic": [
+      "Ecosystems and Biomes",
+      "Earth's Geography",
+      "Environmental Science"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 11 @ 2019/2020",
+    "Question": {
+      "content": "Organisms that tolerate long range of temperatures are ______.",
+      "type": "OBJ",
+      "options": [
+        "Homothermic",
+        "Monothermic",
+        "Heterothermic",
+        "Eurythermic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Eurythermic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Eurythermic</strong> organisms can survive wide temperature ranges (e.g., desert lizards). Contrast with <em>stenothermic</em> species that tolerate only narrow ranges.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Animal Form and Function",
+      "Ecosystems and Biomes"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 13 @ 2019/2020",
+    "Question": {
+      "content": "Beyond the first 200m depth of water is a zone called ______.",
+      "type": "OBJ",
+      "options": [
+        "photic zone",
+        "photo zone",
+        "eutiphotic zone",
+        "aphotic zone"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "aphotic zone"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>aphotic zone</strong> lacks sunlight (below 200m), contrasting with the sunlit <em>photic zone</em>. Most deep-sea organisms rely on chemosynthesis here.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Ecosystems and Biomes",
+      "Environmental Science"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 14 @ 2019/2020",
+    "Question": {
+      "content": "Euryhaline organisms tolerate long range of ______.",
+      "type": "OBJ",
+      "options": [
+        "Temperature",
+        "Salinity",
+        "Pressure",
+        "Rainfall"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Salinity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Euryhaline</strong> species (e.g., salmon, mangroves) survive in both fresh and saltwater by osmoregulation.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Animal Form and Function",
+      "Adaptation",
+      "Ecosystems and Biomes"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 16 @ 2019/2020",
+    "Question": {
+      "content": "Organisms that live on sand grains are ______.",
+      "type": "OBJ",
+      "options": [
+        "Epipsamic",
+        "Endozoic",
+        "Periphytes",
+        "Epilithic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Epipsamic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Epipsamic</strong> organisms (e.g., diatoms) live on sand surfaces. <em>Epilithic</em> refers to rock-dwellers, while <em>endozoic</em> means inside animals.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Ecosystems and Biomes",
+      "Community Ecology",
+      "Biodiversity",
+      "Adaptation"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 18 @ 2019/2020",
+    "Question": {
+      "content": "One component of the Biosphere is called ______.",
+      "type": "OBJ",
+      "options": [
+        "Biogeosphere",
+        "Hydrosphere",
+        "Chemosphere",
+        "Endosphere"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hydrosphere"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>hydrosphere</strong> includes all water bodies (oceans, lakes, etc.). The biosphere also includes the <em>lithosphere</em> (land) and <em>atmosphere</em> (air).</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Ecosystems and Biomes",
+      "Environmental Science",
+      "Earth's Geography"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 22 @ 2019/2020",
+    "Question": {
+      "content": "Strong moving current of air is ______.",
+      "type": "OBJ",
+      "options": [
+        "Pave",
+        "Tide",
+        "Wind",
+        "Current"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Wind"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Wind</strong> refers to the horizontal movement of air caused by atmospheric pressure differences. Tides involve water, and 'pave' is unrelated.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Movement",
+      "Ecosystems and Biomes",
+      "Environmental Science",
+      "Earth's Geography"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 42 @ 2019/2020",
+    "Question": {
+      "content": "Plants rooted in the bottom with leaves above the waterline are called ______.",
+      "type": "OBJ",
+      "options": [
+        "Elodeids",
+        "Isoetids",
+        "Helophytes",
+        "Pleuston"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Helophytes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Helophytes</strong> (e.g., reeds) are emergent aquatic plants rooted underwater with aerial leaves. <em>Pleuston</em> float freely (e.g., duckweed).</div>"
+    },
+    "topic": [
+      "Plant Structure and Function",
+      "Taxonomy",
+      "Ecosystems and Biomes",
+      "General Biology II"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 43 @ 2019/2020",
+    "Question": {
+      "content": "One of these is not a feature of terrestrial habitat:",
+      "type": "OBJ",
+      "options": [
+        "High availability of nutrients",
+        "Desiccation",
+        "Abundance of oxygen",
+        "Abundance of light"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "High availability of nutrients"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Terrestrial habitats often have <strong>limited nutrients</strong> (unlike aquatic systems). Desiccation risk, oxygen, and light are typical challenges/advantages.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Ecosystems and Biomes",
+      "Habitat",
+      "Environmental Science"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 44 @ 2019/2020",
+    "Question": {
+      "content": "All but one of these are ecological conditions under which xerophytes thrive:",
+      "type": "OBJ",
+      "options": [
+        "Low soil moisture",
+        "Strong wind",
+        "Low temperature during the day",
+        "High sunlight"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Low temperature during the day"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Xerophytes</strong> (e.g., cacti) adapt to <em>high temperatures</em>, arid conditions, and intense sunlight. Low daytime temps are atypical.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Plant Structure and Function",
+      "Ecosystems and Biomes",
+      "Adaptation"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 45 @ 2019/2020",
+    "Question": {
+      "content": "Taiga is named after the biome in ______.",
+      "type": "OBJ",
+      "options": [
+        "Russia",
+        "West Indies",
+        "Oceania",
+        "Latin America"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Russia"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>taiga</strong> (boreal forest) dominates Russia’s landscape. It’s characterized by coniferous trees and cold winters.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Ecosystems and Biomes",
+      "Earth's Geography"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 46 @ 2019/2020",
+    "Question": {
+      "content": "Derived savanna is likely not to be found in one of these states in Nigeria:",
+      "type": "OBJ",
+      "options": [
+        "Benue",
+        "Oyo",
+        "Imo",
+        "Edo"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Imo"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Derived savannas</strong> (resulting from deforestation) are common in Nigeria’s middle belt (Benue) and southwest (Oyo). <em>Imo</em> (southeast) is predominantly rainforest.</div>"
+    },
+    "topic": [
+      "Ecosystems and Biomes",
+      "Earth's Geography",
+      "Biogeography",
+      "General Biology II"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 48 @ 2019/2020",
+    "Question": {
+      "content": "Abuja is in what vegetational zone of Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "Guinea savanna",
+        "Sudan Savanna",
+        "Sahel Savanna",
+        "Tropical evergreen forest"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Guinea savanna"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Abuja lies in the <strong>Guinea savanna</strong> belt, characterized by tall grasses and scattered trees. Sudan savanna is drier (northern Nigeria).</div>"
+    },
+    "topic": [
+      "Ecosystems and Biomes",
+      "Biogeography",
+      "Earth's Geography",
+      "Vegetation Zones"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 63 @ 2019/2020",
+    "Question": {
+      "content": "Solid waste is classified into how many types?",
+      "type": "OBJ",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "2"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Solid waste is categorized as <strong>municipal</strong> (household), <strong>industrial</strong>, and <strong>hazardous</strong> (toxic/flammable).</div>"
+    },
+    "topic": [
+      "Environmental Science",
+      "Ecosystems and Biomes"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 65 @ 2019/2020",
+    "Question": {
+      "content": "Rise in environmental temperature due to excessive heat energy is called ______ pollution.",
+      "type": "OBJ",
+      "options": [
+        "Heat",
+        "Temperature",
+        "Thermal",
+        "Environment"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Thermal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Thermal pollution</strong> occurs when industrial processes (e.g., power plants) discharge heated water into ecosystems, disrupting aquatic life.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Environmental Science",
+      "Ecosystems and Biomes",
+      "Thermal Pollution"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 66 @ 2019/2020",
+    "Question": {
+      "content": "Ozone (O₃) is formed in which part of the atmosphere?",
+      "type": "OBJ",
+      "options": [
+        "Troposphere",
+        "Ionosphere",
+        "Mesosphere",
+        "Stratosphere"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Stratosphere"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>stratospheric ozone layer</strong> (15–35 km altitude) absorbs UV radiation. Tropospheric ozone is a pollutant.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Environmental Science",
+      "Ecosystems and Biomes",
+      "Atmospheric Layers"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 67 @ 2019/2020",
+    "Question": {
+      "content": "Biodiversity can be studied at all these levels except:",
+      "type": "OBJ",
+      "options": [
+        "Genetic diversity",
+        "Species diversity",
+        "Genus diversity",
+        "Ecosystem diversity"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Genus diversity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Biodiversity is assessed at <strong>genetic</strong> (within species), <strong>species</strong> (richness/evenness), and <strong>ecosystem</strong> levels. Genus-level studies are atypical.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Biodiversity",
+      "Taxonomy",
+      "Ecosystems and Biomes",
+      "Phylogeny and Systematics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 68 @ 2019/2020",
+    "Question": {
+      "content": "An alien species competing with Rhizophora sp. in Nigeria's Niger Delta waterways is:",
+      "type": "OBJ",
+      "options": [
+        "Water hyacinth",
+        "Nipa palm",
+        "Water lettuce",
+        "Water cabbage"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nipa palm"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The invasive <strong>Nipa palm</strong> (<em>Nypa fruticans</em>) displaces native mangroves (<em>Rhizophora</em>) by altering sediment dynamics.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Community Ecology",
+      "Ecosystems and Biomes",
+      "Biodiversity",
+      "Invasive Species"
+    ]
+  }
+]
