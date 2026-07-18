@@ -1,0 +1,1221 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "General Biology II",
+    "code": "FSB_102.2",
+    "session": "Evolutionary Biology",
+    "time": 90,
+    "topics": [
+      "Animal Development",
+      "Animal Form and Function",
+      "Biodiversity and Classification",
+      "Community Ecology",
+      "Ecosystems and Biomes",
+      "Evolutionary Biology",
+      "Phylogeny and Systematics",
+      "Plant Structure and Function",
+      "Population Ecology",
+      "Prokaryotic Biology",
+      "Protists and Fungi"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 70 @ 2023/2024",
+    "Question": {
+      "content": "The gradual change that occurs in organisms over time is called...",
+      "type": "OBJ",
+      "options": [
+        "Mutation",
+        "Evolution",
+        "Motivation",
+        "Assortment"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Evolution"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Evolution</strong> describes genetic changes in populations over generations. <em>Mutation</em> is a DNA alteration; <em>motivation</em> and <em>assortment</em> are unrelated.</div>"
+    },
+    "topic": [
+      "Evolutionary Biology",
+      "Evolution"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 1 @ 2022/2023",
+    "Question": {
+      "content": "The smallest diagnosable cluster of individuals organisms within which there is parental pattern of ancestry and descent is ______ species concept.",
+      "type": "OBJ",
+      "options": [
+        "Phylogenetic diagnosable",
+        "Phylogenetic apomorphic",
+        "Morphology-based taxonomic",
+        "Biological"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Phylogenetic diagnosable"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>phylogenetic diagnosable</strong> species concept defines species as the smallest group with shared ancestry and diagnostic traits. Contrast with <em>biological</em> (reproductive isolation) or <em>morphology-based</em> (physical traits) concepts.</div>"
+    },
+    "topic": [
+      "Evolutionary Biology",
+      "Biodiversity",
+      "Phylogenetics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 2 @ 2022/2023",
+    "Question": {
+      "content": "The traditional species concepts is commonly accepted in ______",
+      "type": "OBJ",
+      "options": [
+        "Hexapartite",
+        "Pentapartite",
+        "Tetrapartite",
+        "Tripartite"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tripartite"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>tripartite</strong> system (morphological, biological, and phylogenetic concepts) is widely accepted. Other terms (hexa-/penta-/tetrapartite) are not standard in taxonomy.</div>"
+    },
+    "topic": [
+      "Evolutionary Biology",
+      "Biodiversity",
+      "Phylogenetics",
+      "Species Concepts"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 3 @ 2022/2023",
+    "Question": {
+      "content": "The third phase in the development of classification of plants is based on",
+      "type": "OBJ",
+      "options": [
+        "Habit and uses",
+        "Numerical classification",
+        "Phenetics",
+        "Phylogeny"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Phylogeny"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Plant classification evolved from <em>habit/usefulness</em> (1st phase) to <em>morphology</em> (2nd phase), culminating in <strong>phylogeny</strong> (3rd phase, based on evolutionary relationships).</div>"
+    },
+    "topic": [
+      "Plant Biology",
+      "Phylogenetics",
+      "Evolutionary Biology",
+      "Taxonomy"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 11 @ 2022/2023",
+    "Question": {
+      "content": "Which comes first in plant evolution",
+      "type": "OBJ",
+      "options": [
+        "Freshwater algae",
+        "Algal mats",
+        "Bryophytes",
+        "Ferns"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Freshwater algae"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Freshwater algae</strong> (e.g., charophytes) preceded land plants (~500 MYA). Bryophytes and ferns evolved later from algal ancestors.</div>"
+    },
+    "topic": [
+      "Evolutionary Biology",
+      "Plant Biology",
+      "Phylogenetics",
+      "Plant Diversity",
+      "Plant Evolution",
+      "Bryophytes"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 12 @ 2022/2023",
+    "Question": {
+      "content": "The earlier mega-fossils of land plants are ______",
+      "type": "OBJ",
+      "options": [
+        "Protozoa",
+        "Thallus",
+        "Glaucophytes",
+        "Bryophytes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bryophytes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The oldest land plant megafossils resemble <strong>bryophytes</strong> (e.g., <em>Cooksonia</em>). <em>Glaucophytes</em> are algae; <em>thallus</em> is a body form.</div>"
+    },
+    "topic": [
+      "Plant Evolution",
+      "Bryophytes",
+      "Evolutionary Biology",
+      "Taxonomy",
+      "Paleobotany"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 19 @ 2022/2023",
+    "Question": {
+      "content": "One of the key feature of adaption is ---",
+      "type": "OBJ",
+      "options": [
+        "Writing",
+        "Death",
+        "Survival",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Survival"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Adaptations enhance <strong>survival</strong> (e.g., camouflage, drought resistance). <em>Writing</em> and <em>death</em> are irrelevant to evolutionary fitness.</div>"
+    },
+    "topic": [
+      "Evolutionary Biology",
+      "Adaptation",
+      "General Biology II"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 20 @ 2022/2023",
+    "Question": {
+      "content": "______ influences adaptation of organisms.",
+      "type": "OBJ",
+      "options": [
+        "Cytoplasm",
+        "Cell membrane",
+        "Environment",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Environment"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>environment</strong> (e.g., climate, predators) drives natural selection. Cellular structures (cytoplasm/membrane) are outcomes of adaptation, not causes.</div>"
+    },
+    "topic": [
+      "Evolutionary Biology",
+      "Adaptation",
+      "Ecology",
+      "General Biology II"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 22 @ 2022/2023",
+    "Question": {
+      "content": "An example of fossorial adaptation is shown by ______",
+      "type": "OBJ",
+      "options": [
+        "Goat",
+        "Lion",
+        "Eagle",
+        "Rabbit"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Rabbit"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Rabbits</strong> exhibit fossorial adaptations (e.g., burrowing) to escape predators. Lions (hunters), eagles (flyers), and goats (climbers) lack such traits.</div>"
+    },
+    "topic": [
+      "Evolutionary Biology",
+      "Adaptation",
+      "Animal Diversity",
+      "Ecology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 24 @ 2022/2023",
+    "Question": {
+      "content": "An example of behavioral adaption is ______",
+      "type": "OBJ",
+      "options": [
+        "Hibernation",
+        "Webbed feet of duck",
+        "Leaves of cacti plant",
+        "Stomata on plant leaves"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hibernation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Hibernation</strong> is a behavioral adaptation (reduced metabolic activity in winter). Other options are structural adaptations (physical traits).</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Evolutionary Biology",
+      "Adaptation",
+      "Animal Behavior",
+      "Animal Diversity",
+      "Eiology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 25 @ 2022/2023",
+    "Question": {
+      "content": "Long root systems spread out wide or go deep into the ground to absorb water is ______ adaptation.",
+      "type": "OBJ",
+      "options": [
+        "Grassland",
+        "Aquatic",
+        "Boreal",
+        "Desert"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Desert"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Desert</strong> plants (e.g., cacti) develop deep/extensive roots to access scarce water. Grassland/aquatic plants have different adaptations.</div>"
+    },
+    "topic": [
+      "Adaptation",
+      "Plant Biology",
+      "Ecology",
+      "Evolutionary Biology",
+      "Plant Physiology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 26 @ 2022/2023",
+    "Question": {
+      "content": "Resistance to fire by some pine trees with thick bark is a feature of ______ adaptation",
+      "type": "OBJ",
+      "options": [
+        "Tundra",
+        "Tropical rainforest",
+        "Grassland",
+        "Temperate deciduous forest"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Temperate deciduous forest"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Pine trees with thick bark are adapted to <strong>temperate deciduous forests</strong>, where periodic fires occur. Tundra/rainforests lack fire-prone ecosystems.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Evolutionary Biology",
+      "Adaptation",
+      "Plant Biology",
+      "Ecology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 31 @ 2022/2023",
+    "Question": {
+      "content": "In the taxonomy of animals; similarities in features",
+      "type": "OBJ",
+      "options": [
+        "Unit organisms",
+        "Separate organisms",
+        "Expands the animals kingdom",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Unit organisms"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Shared features <strong>unit organisms</strong> into taxonomic groups (e.g., species, genera). They do not inherently separate organisms or expand kingdoms.</div>"
+    },
+    "topic": [
+      "Taxonomy",
+      "Animal Diversity",
+      "Phylogenetics",
+      "Evolutionary Biology",
+      "General Biology II"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 45 @ 2022/2023",
+    "Question": {
+      "content": "The ______ insect does a mimicry which enables it to resemble a piece of dead twig or dried up stalk",
+      "type": "OBJ",
+      "options": [
+        "Margin winged stick insect",
+        "Large winged butterfly",
+        "Beetle",
+        "Termite"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Margin winged stick insect"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>The <strong>stick insect</strong> uses camouflage to mimic twigs. Butterflies, beetles, and termites do not exhibit this specific mimicry.</div>"
+    },
+    "topic": [
+      "Animal Diversity",
+      "Evolutionary Biology",
+      "Adaptation",
+      "Animal Behavior",
+      "Ecology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 50 @ 2022/2023",
+    "Question": {
+      "content": "A thick subcutaneous layer of fat present in whales, seals and penguins is known as",
+      "type": "OBJ",
+      "options": [
+        "Burble",
+        "Gibber",
+        "Blubber",
+        "Jabber"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Blubber"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Blubber</strong> is the correct term for the fat layer in marine animals. Other options are nonsensical.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Animal Diversity",
+      "Animal Physiology",
+      "Adaptation",
+      "Evolutionary Biology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 51 @ 2022/2023",
+    "Question": {
+      "content": "______ division of algae have similar characteristics with both plants and animals",
+      "type": "OBJ",
+      "options": [
+        "Chlorophyta",
+        "Chromophyta",
+        "Rhodophyta",
+        "Euglenophyta"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Euglenophyta"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Euglenophytes</strong> are mixotrophic (photosynthetic like plants, motile like animals). Other groups are purely photosynthetic.</div>"
+    },
+    "topic": [
+      "Algae",
+      "Plant Biology",
+      "Animal Diversity",
+      "Phylogenetics",
+      "Evolutionary Biology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 58 @ 2022/2023",
+    "Question": {
+      "content": "In the three domain system classification, living organisms are classified into the following;",
+      "type": "OBJ",
+      "options": [
+        "Prokaryota, Eukaryota and Protista",
+        "Animalia, Plantae and Protista",
+        "Archaebacteria, Eubacteria and Eucaryota",
+        "Animalia, Plantae and Monera"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Archaebacteria, Eubacteria and Eucaryota"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'>Carl Woese's <strong>three-domain system</strong> divides life into Archaea, Bacteria, and Eukarya. Older systems (e.g., five-kingdom) are outdated.</div>"
+    },
+    "topic": [
+      "Taxonomy",
+      "Evolutionary Biology",
+      "Biodiversity",
+      "Microbiology",
+      "Prokaryotes"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 59 @ 2022/2023",
+    "Question": {
+      "content": "The three domain system of classification was introduced by",
+      "type": "OBJ",
+      "options": [
+        "Carl Woese (1990)",
+        "Ernst Haeckel (1866)",
+        "Edward Chatton (1925)",
+        "Charles Darwin (1859)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Carl Woese (1990)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><strong>Carl Woese</strong> proposed the three-domain system (Archaea, Bacteria, Eukarya) in 1990 based on rRNA analysis. Earlier systems by Haeckel/Chatton/Darwin were foundational but outdated.</div>"
+    },
+    "topic": [
+      "General Biology II",
+      "Taxonomy",
+      "Evolutionary Biology",
+      "Phylogenetics",
+      "Microbiology",
+      "Biodiversity"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 19 @ 2018/2019",
+    "Question": {
+      "content": "Many animals that live in caves adapt by losing their ______",
+      "type": "OBJ",
+      "options": [
+        "Scale",
+        "Pigment",
+        "Skin",
+        "Limbs"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pigment"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cave-dwelling organisms often evolve reduced pigmentation (albinism) and eyesight due to perpetual darkness, conserving energy for other senses."
+    },
+    "topic": [
+      "General Biology II",
+      "Evolutionary Biology",
+      "Ecology",
+      "Animal Anatomy and Physiology",
+      "Physiology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 33 @ 2018/2019",
+    "Question": {
+      "content": "T1003-C and A-T base composition of an isolate is 60%/40%. Which of these organisms is more closely related to the isolate ______",
+      "type": "OBJ",
+      "options": [
+        "Arthrobacter 20%/40%",
+        "Clostridium 10%/90%",
+        "Staphylococcus 65%/35%",
+        "Vibrio 50%/50%"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Staphylococcus 65%/35%"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Similar GC content (60% vs 65%) suggests closer evolutionary relationship, as GC content tends to be conserved within related taxa."
+    },
+    "topic": [
+      "General Biology II",
+      "Evolutionary Biology",
+      "Biological Classification",
+      "Prokaryotic Biology",
+      "Genetics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 35 @ 2018/2019",
+    "Question": {
+      "content": "The advantage of Ribosomal RNA sequencing for determining relationship among organisms compared to other molecular approaches is due to the ______",
+      "type": "OBJ",
+      "options": [
+        "Resistance to mutation by RNA",
+        "Resistance to mutation by Ribosomes",
+        "Slow evolutionary rate of rRNA",
+        "Resistance to mutation by DNA"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Slow evolutionary rate of rRNA"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Note: The original options are problematic. rRNA genes are ideal for phylogenetics because they evolve slowly (conserved regions) but contain variable regions for differentiation."
+    },
+    "topic": [
+      "General Biology II",
+      "Evolutionary Biology",
+      "Biological Classification",
+      "Genetics",
+      "Microbiology Techniques",
+      "Prokaryotic Biology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 36 @ 2018/2019",
+    "Question": {
+      "content": "Which of the following statements is correct, ______",
+      "type": "OBJ",
+      "options": [
+        "Two microorganisms are closely related if their nucleic acid sequences are quite similar",
+        "The DNA sequence of strands from two different organisms are similar",
+        "DNA is transcribed from RNA",
+        "The amount of pairing of nucleotide is greater for two dissimilar organisms"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Two microorganisms are closely related if their nucleic acid sequences are quite similar"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "DNA/DNA hybridization shows that closely related organisms have higher sequence similarity due to shared evolutionary history."
+    },
+    "topic": [
+      "General Biology II",
+      "Genetics",
+      "Molecular Biology",
+      "Evolutionary Biology",
+      "Biological Classification",
+      "Prokaryotic Biology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 41 @ 2018/2019",
+    "Question": {
+      "content": "Polyploidy is the occurrence of more than ______",
+      "type": "OBJ",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Polyploidy means having more than two complete sets of chromosomes (e.g., triploid 3n, tetraploid 4n). Diploid is 2n."
+    },
+    "topic": [
+      "General Biology II",
+      "Genetics",
+      "Evolutionary Biology",
+      "Polyploidy"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 3 @ 2017/2018",
+    "Question": {
+      "content": ".......... taxonomy is related to chromosome number, structure and behavior",
+      "type": "OBJ",
+      "options": [
+        "Numerical",
+        "Chemo-",
+        "Cyto-",
+        "Phylogenetic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cyto-"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cytotaxonomy uses chromosome characteristics (number, structure, behavior during meiosis) for classification and evolutionary studies."
+    },
+    "topic": [
+      "Cytogenetics",
+      "Biodiversity",
+      "Evolutionary Biology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 11 @ 2017/2018",
+    "Question": {
+      "content": "The irreversible heritable change in the genetic material is called",
+      "type": "OBJ",
+      "options": [
+        "Clone",
+        "Hybridization",
+        "Saturation",
+        "Mutation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mutation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Mutations are permanent alterations in the DNA sequence that can be inherited, driving genetic variation and evolution."
+    },
+    "topic": [
+      "Mutation",
+      "General Biology II",
+      "Evolutionary Biology",
+      "Population Genetics",
+      "Cytogenetics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 13 @ 2017/2018",
+    "Question": {
+      "content": "Genetically identical organisms that differ in response to different environmental stimuli are called ______ plasticity",
+      "type": "OBJ",
+      "options": [
+        "physiological",
+        "structural",
+        "Behavioural",
+        "Developmental"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Developmental"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Developmental plasticity allows organisms with identical genotypes to exhibit different phenotypes in response to environmental conditions."
+    },
+    "topic": [
+      "General Biology II",
+      "Ecology",
+      "Evolutionary Biology",
+      "Phenotypic Plasticity"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 16 @ 2017/2018",
+    "Question": {
+      "content": "One of the following is not an adaptation of terrestrial plants",
+      "type": "OBJ",
+      "options": [
+        "Absence of stomata",
+        "Development of Vascular tissues",
+        "Presence of cuticle",
+        "Large mechanical tissues"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Absence of stomata"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Stomata are crucial for gas exchange in terrestrial plants; their absence would be maladaptive in land environments."
+    },
+    "topic": [
+      "General Biology II",
+      "Plant Biology",
+      "Evolutionary Biology",
+      "Ecology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 17 @ 2017/2018",
+    "Question": {
+      "content": "All but one of the following is not an adaptation of mesophytes",
+      "type": "OBJ",
+      "options": [
+        "Large root hairs",
+        "well developed tissues",
+        "Dorsiventral stomata",
+        "spongy stem"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "spongy stem"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Spongy stems are adaptations of hydrophytes (aquatic plants) for buoyancy, not mesophytes which are adapted to moderate water conditions."
+    },
+    "topic": [
+      "General Biology II",
+      "Plant Biology",
+      "Ecology",
+      "Evolutionary Biology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 36 @ 2017/2018",
+    "Question": {
+      "content": "Monkey belongs to class",
+      "type": "OBJ",
+      "options": [
+        "Monatoda",
+        "Animalia",
+        "Mammalia",
+        "Pi"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mammalia"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Monkeys are mammals (class Mammalia) characterized by hair/fur, mammary glands, and three middle ear bones. 'Animalia' is their kingdom, not class."
+    },
+    "topic": [
+      "Taxonomy",
+      "General Biology II",
+      "Biodiversity",
+      "Evolutionary Biology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 39 @ 2017/2018",
+    "Question": {
+      "content": "Example of a jawless fish is ______",
+      "type": "OBJ",
+      "options": [
+        "Myxini",
+        "Shark",
+        "Tilapia",
+        "S4"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Myxini"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Myxini (hagfish) are jawless fish (class Agnatha), while sharks and tilapia have jaws. 'S4' appears to be a placeholder or error."
+    },
+    "topic": [
+      "General Biology II",
+      "Taxonomy",
+      "Zoology",
+      "Biodiversity",
+      "Evolutionary Biology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 40 @ 2017/2018",
+    "Question": {
+      "content": "Organism that produces amniotic eggs does not include",
+      "type": "OBJ",
+      "options": [
+        "Bird",
+        "Lizard",
+        "Fish",
+        "Rainfall"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fish"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Amniotic eggs (with protective membranes) are produced by reptiles, birds, and mammals—not fish, which lay simpler anamniotic eggs in water."
+    },
+    "topic": [
+      "General Biology II",
+      "Zoology",
+      "Taxonomy",
+      "Evolutionary Biology",
+      "Amniotes"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 46 @ 2017/2018",
+    "Question": {
+      "content": "One goal of taxonomy is to determine the ……… history of organisms",
+      "type": "OBJ",
+      "options": [
+        "Physiological",
+        "Biochemical",
+        "Anatomical",
+        "Evolutionary"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Evolutionary"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Taxonomy aims to classify organisms based on evolutionary relationships (phylogeny), not just physical traits."
+    },
+    "topic": [
+      "General Biology II",
+      "Taxonomy",
+      "Evolutionary Biology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 51 @ 2017/2018",
+    "Question": {
+      "content": "Biological features from a common evolutionary origin are known as ______",
+      "type": "OBJ",
+      "options": [
+        "Homologous",
+        "Analogous",
+        "Homotoposis",
+        "Unusoidal"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Homologous"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Homologous structures (e.g., bat wings and human arms) share evolutionary ancestry, while analogous structures have similar functions but different origins."
+    },
+    "topic": [
+      "Evolutionary Biology",
+      "Homology",
+      "General Biology II",
+      "Taxonomy"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 57 @ 2017/2018",
+    "Question": {
+      "content": "Hagfish and lampreys are examples of ……. fishes",
+      "type": "OBJ",
+      "options": [
+        "Jawless",
+        "Jawed",
+        "Bony",
+        "Skeletal"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Jawless"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Hagfish and lampreys (class Agnatha) are primitive, jawless vertebrates with cartilaginous skeletons."
+    },
+    "topic": [
+      "General Biology II",
+      "Taxonomy",
+      "Zoology",
+      "Biodiversity",
+      "Evolutionary Biology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 67 @ 2017/2018",
+    "Question": {
+      "content": "Organisms that have similar ribosomal RNA sequences are said to be ______",
+      "type": "OBJ",
+      "options": [
+        "Closely related",
+        "Unrelated",
+        "Dissimilar",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Closely related"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Ribosomal RNA (rRNA) sequences are highly conserved evolutionarily, so similarity indicates close phylogenetic relationships between organisms."
+    },
+    "topic": [
+      "Taxonomy",
+      "Evolutionary Biology",
+      "Microbiology",
+      "General Biology II"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 70 @ 2017/2018",
+    "Question": {
+      "content": "The most vital feature of living organisms is ______",
+      "type": "OBJ",
+      "options": [
+        "Excretion",
+        "Respiration",
+        "Reproduction",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reproduction"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "While all are life processes, reproduction is fundamental for species survival and evolution. The question appears to be missing option (a) in the original image."
+    },
+    "topic": [
+      "General Biology II",
+      "Characteristics of Life",
+      "Evolutionary Biology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 2 @ 2012/2013",
+    "Question": {
+      "content": "Systematics can be defined as",
+      "type": "OBJ",
+      "options": [
+        "Science of classification",
+        "science of plants",
+        "science of ecology",
+        "science of environment"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Science of classification"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Systematics is the scientific study of the diversity of organisms and their evolutionary relationships."
+    },
+    "topic": [
+      "Systematics",
+      "Taxonomy",
+      "Phylogenetics",
+      "Evolutionary Biology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 4 @ 2012/2013",
+    "Question": {
+      "content": "Classification is mainly based on",
+      "type": "OBJ",
+      "options": [
+        "Analogues structures",
+        "homologous structures",
+        "microbial structures",
+        "all structures"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "homologous structures"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Homologous structures (features shared due to common ancestry) are primary criteria for biological classification."
+    },
+    "topic": [
+      "Taxonomy",
+      "Phylogenetics",
+      "Evolutionary Biology",
+      "Systematics",
+      "Homology"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 30 @ 2012/2013",
+    "Question": {
+      "content": "______ is the study of the evolutionary history of organisms",
+      "type": "OBJ",
+      "options": [
+        "Systematics",
+        "Taxonomy",
+        "Nondegnature",
+        "Ethology"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ethology"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Note: This appears incorrect. Phylogenetics is the correct term for studying evolutionary history. Ethology is animal behavior study."
+    },
+    "topic": [
+      "General Biology II",
+      "Evolutionary Biology",
+      "Phylogenetics",
+      "Systematics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 32 @ 2012/2013",
+    "Question": {
+      "content": "In 1978 Carl Woese proposed ______ domain system for classification",
+      "type": "OBJ",
+      "options": [
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Carl Woese's three-domain system divided life into Bacteria, Archaea, and Eukarya based on ribosomal RNA."
+    },
+    "topic": [
+      "General Biology II",
+      "Taxonomy",
+      "Systematics",
+      "Phylogenetics",
+      "Evolutionary Biology",
+      "Domain System"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 9 @ 2011/2012",
+    "Question": {
+      "content": "Survival of the fittest is proposed by",
+      "options": [
+        "Wallace Arnold",
+        "Robert Hooke",
+        "Charles Darwin",
+        "Gregor Mendel"
+      ],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Charles Darwin"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Charles Darwin introduced the concept of natural selection ('survival of the fittest') in evolutionary theory."
+    },
+    "topic": [
+      "Evolutionary Biology",
+      "Natural Selection",
+      "General Biology II"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 69 @ 2011/2012",
+    "Question": {
+      "content": "Which of these is important in the classification of organisms?",
+      "options": [
+        "Homologous structures",
+        "Analogous structures",
+        "Social structures",
+        "Positive structures"
+      ],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Homologous structures"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Homologous structures (e.g., human arm vs. bat wing) indicate common ancestry and are key to evolutionary classification."
+    },
+    "topic": [
+      "Phylogenetics and Systematics",
+      "Taxonomy",
+      "Evolutionary Biology",
+      "Comparative Anatomy"
+    ]
+  }
+]
